@@ -1,0 +1,1 @@
+{"passed": true, "checks": ["manual pair averaging", "set mass identity", "permutation", "finite-difference gradients", "gradient signs", "no-positive rejection", "shift invariance", "all-positive zero and exclusion", "extreme finite scores", "matched deterministic sampler"]}

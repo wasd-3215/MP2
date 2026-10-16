@@ -1,0 +1,10 @@
+{
+  "independent__bce_all": 0.0003,
+  "independent__bce_mixed": 0.0003,
+  "independent__pairwise": 0.001,
+  "independent__set_mass": 0.0003,
+  "attention__bce_all": 0.0003,
+  "attention__bce_mixed": 0.001,
+  "attention__pairwise": 0.0003,
+  "attention__set_mass": 0.001
+}

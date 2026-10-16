@@ -1,0 +1,6 @@
+﻿model,changed_choices,fixed_errors,new_errors,net_fixes,current_base_only_accuracy,correction_fixed_current_base_errors,correction_harmed_current_base,base_max_abs_logit_drift,mean_abs_applied_delta,mean_gate
+finetune,8.2,0.8,0.6,0.2,90.25062656641605,0.0,0.0,0.47274255752563477,0.0,0.0
+residual_self,5.6,0.8,0.6,0.2,90.22556390977444,0.8,0.6,0.0,0.15524606332182883,1.0
+residual_context,10.8,2.0,1.2,0.8,90.22556390977444,2.0,1.2,0.0,0.2517496973276138,1.0
+residual_gated,16.0,2.0,1.4,0.6,90.22556390977444,2.0,1.4,0.0,0.30725919008255004,0.3608508437871933
+residual_joint,69.4,7.8,6.6,1.2,90.40100250626567,1.2,1.4,4.6543573379516605,0.38365795984864237,0.2088329702615738

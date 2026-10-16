@@ -1,0 +1,14 @@
+[
+  {
+    "objective": "pairwise",
+    "attention_advantage_change_vs_mixed_bce_pp": 0.05012531328320802,
+    "bootstrap_ci95_low": -0.8020050125313283,
+    "bootstrap_ci95_high": 0.9022556390977444
+  },
+  {
+    "objective": "set_mass",
+    "attention_advantage_change_vs_mixed_bce_pp": -0.30075187969924816,
+    "bootstrap_ci95_low": -1.2531328320802004,
+    "bootstrap_ci95_high": 0.6516290726817044
+  }
+]

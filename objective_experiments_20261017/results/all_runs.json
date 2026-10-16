@@ -1,0 +1,2930 @@
+[
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.10025062656642,
+    "correct": 719,
+    "n": 798,
+    "best_epoch": 13,
+    "epochs_run": 23,
+    "best_validation_loss": 0.6243199110031128,
+    "optimizer_steps": 437,
+    "best_optimizer_steps": 247,
+    "eligible_training_questions": 4755,
+    "training_draws": 109365,
+    "parameters": 139521,
+    "training_seconds": 5.616882500005886,
+    "prediction_wall_seconds": 4.585047400003532,
+    "scoring_wall_seconds": 0.5334101000044029,
+    "validation_total_wall_seconds": 5.118457500007935,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "6b5f39d96954df095e4dcb0d15e19e434ca67d93f574cf5d4954488d4fd4b91e"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 90.22556390977444,
+    "correct": 720,
+    "n": 798,
+    "best_epoch": 19,
+    "epochs_run": 29,
+    "best_validation_loss": 0.5069941878318787,
+    "optimizer_steps": 551,
+    "best_optimizer_steps": 361,
+    "eligible_training_questions": 4755,
+    "training_draws": 137895,
+    "parameters": 139521,
+    "training_seconds": 6.951580199995078,
+    "prediction_wall_seconds": 4.378598800016334,
+    "scoring_wall_seconds": 0.5286993999907281,
+    "validation_total_wall_seconds": 4.907298200007062,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "58b4fdd282a3db96fcd339810553ecd3a08168f49421c5af465c300077d68289"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 29,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "accuracy": 89.84962406015038,
+    "correct": 717,
+    "n": 798,
+    "best_epoch": 21,
+    "epochs_run": 31,
+    "best_validation_loss": 0.5078153014183044,
+    "optimizer_steps": 589,
+    "best_optimizer_steps": 399,
+    "eligible_training_questions": 4755,
+    "training_draws": 147405,
+    "parameters": 139521,
+    "training_seconds": 7.177332200022647,
+    "prediction_wall_seconds": 4.344310399988899,
+    "scoring_wall_seconds": 0.49604930001078174,
+    "validation_total_wall_seconds": 4.840359699999681,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "8c44e26fdd93bf4f69918506eabe61fabf5a31472776d18f5d157177e87de8a0"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p0003\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 43,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "accuracy": 90.6015037593985,
+    "correct": 723,
+    "n": 798,
+    "best_epoch": 34,
+    "epochs_run": 44,
+    "best_validation_loss": 0.6658616662025452,
+    "optimizer_steps": 836,
+    "best_optimizer_steps": 646,
+    "eligible_training_questions": 4755,
+    "training_draws": 209220,
+    "parameters": 139521,
+    "training_seconds": 10.1431097999739,
+    "prediction_wall_seconds": 4.30673690000549,
+    "scoring_wall_seconds": 0.4705097999831196,
+    "validation_total_wall_seconds": 4.777246699988609,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "c2b68314f1c0131c574f6ad0d0a08ad3e11aada654b0812b77269b5802e4ba1b"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p0003\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 71,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "accuracy": 90.22556390977444,
+    "correct": 720,
+    "n": 798,
+    "best_epoch": 19,
+    "epochs_run": 29,
+    "best_validation_loss": 0.4814258813858032,
+    "optimizer_steps": 551,
+    "best_optimizer_steps": 361,
+    "eligible_training_questions": 4755,
+    "training_draws": 137895,
+    "parameters": 139521,
+    "training_seconds": 6.670456199994078,
+    "prediction_wall_seconds": 4.2405716000066604,
+    "scoring_wall_seconds": 0.4640506000141613,
+    "validation_total_wall_seconds": 4.704622200020822,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "4f5cb1019a0bad530cc123dfdcb9f5a4cec03fe204f34b4ebc03a689ee3a0477"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p0003\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 101,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_all",
+    "model": "independent",
+    "objective": "bce_all",
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "accuracy": 90.22556390977444,
+    "correct": 720,
+    "n": 798,
+    "best_epoch": 18,
+    "epochs_run": 28,
+    "best_validation_loss": 0.47919052839279175,
+    "optimizer_steps": 532,
+    "best_optimizer_steps": 342,
+    "eligible_training_questions": 4755,
+    "training_draws": 133140,
+    "parameters": 139521,
+    "training_seconds": 6.411692299996503,
+    "prediction_wall_seconds": 4.216505499993218,
+    "scoring_wall_seconds": 0.5251897000125609,
+    "validation_total_wall_seconds": 4.741695200005779,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "39bfda5623f33af78d3d24c816eedd4036024e3cc4504aa54b5f08c00f8b6efe"
+    },
+    "run_dir": "results\\runs\\independent__bce_all\\lr_0p0003\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.47619047619048,
+    "correct": 722,
+    "n": 798,
+    "best_epoch": 7,
+    "epochs_run": 17,
+    "best_validation_loss": 0.8566316366195679,
+    "optimizer_steps": 323,
+    "best_optimizer_steps": 133,
+    "eligible_training_questions": 2513,
+    "training_draws": 80835,
+    "parameters": 139521,
+    "training_seconds": 3.9924724999873433,
+    "prediction_wall_seconds": 4.291414800012717,
+    "scoring_wall_seconds": 0.48694519998389296,
+    "validation_total_wall_seconds": 4.77835999999661,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "92d028cabb312e7ff3af8ad554cdb7898817d1560e390cbaf2b68b96b434bc25"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 37,
+    "epochs_run": 47,
+    "best_validation_loss": 1.5790507793426514,
+    "optimizer_steps": 893,
+    "best_optimizer_steps": 703,
+    "eligible_training_questions": 2513,
+    "training_draws": 223485,
+    "parameters": 139521,
+    "training_seconds": 10.9038617000042,
+    "prediction_wall_seconds": 4.3234870999876875,
+    "scoring_wall_seconds": 0.49966040000435896,
+    "validation_total_wall_seconds": 4.8231474999920465,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "65959756506a657a210595e4c08d8aff5d753aec97f420958c9f0e3599428c48"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 29,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "accuracy": 91.47869674185463,
+    "correct": 730,
+    "n": 798,
+    "best_epoch": 31,
+    "epochs_run": 41,
+    "best_validation_loss": 1.436947226524353,
+    "optimizer_steps": 779,
+    "best_optimizer_steps": 589,
+    "eligible_training_questions": 2513,
+    "training_draws": 194955,
+    "parameters": 139521,
+    "training_seconds": 9.571213399991393,
+    "prediction_wall_seconds": 4.248417199996766,
+    "scoring_wall_seconds": 0.49345419998280704,
+    "validation_total_wall_seconds": 4.741871399979573,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "9810e5c8af1d4f9aadb998bc7bfb21f86e8b6fb1d44adb6a420ed3a2626bc50f"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p0003\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 43,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 8,
+    "epochs_run": 18,
+    "best_validation_loss": 0.6539093852043152,
+    "optimizer_steps": 342,
+    "best_optimizer_steps": 152,
+    "eligible_training_questions": 2513,
+    "training_draws": 85590,
+    "parameters": 139521,
+    "training_seconds": 4.358289399999194,
+    "prediction_wall_seconds": 4.512546800018754,
+    "scoring_wall_seconds": 0.5149463999841828,
+    "validation_total_wall_seconds": 5.027493200002937,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "04aa104b9654ccff485c86a61a265c770e5079dd869c5957bc08bf3301391e6a"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p0003\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 71,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "accuracy": 91.10275689223057,
+    "correct": 727,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.6587553024291992,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 139521,
+    "training_seconds": 4.468013200006681,
+    "prediction_wall_seconds": 4.456574899988482,
+    "scoring_wall_seconds": 0.5334193999879062,
+    "validation_total_wall_seconds": 4.989994299976388,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "195d6d47613987bca2b4b1775ad19e68c98b963eedf511339ce1bf47d99ccdf0"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p0003\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 101,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__bce_mixed",
+    "model": "independent",
+    "objective": "bce_mixed",
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.6726522445678711,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 139521,
+    "training_seconds": 4.398212900006911,
+    "prediction_wall_seconds": 4.282400099997176,
+    "scoring_wall_seconds": 0.4982183999964036,
+    "validation_total_wall_seconds": 4.7806184999935795,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "c8f7a62b7fe5a76b633bb987d5896a93aa167a175050e74ff21ee9c97f48aeef"
+    },
+    "run_dir": "results\\runs\\independent__bce_mixed\\lr_0p0003\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.85213032581454,
+    "correct": 725,
+    "n": 798,
+    "best_epoch": 4,
+    "epochs_run": 14,
+    "best_validation_loss": 0.43635571002960205,
+    "optimizer_steps": 266,
+    "best_optimizer_steps": 76,
+    "eligible_training_questions": 2513,
+    "training_draws": 66570,
+    "parameters": 139521,
+    "training_seconds": 3.4266306000063196,
+    "prediction_wall_seconds": 4.289656300010392,
+    "scoring_wall_seconds": 0.5114524000091478,
+    "validation_total_wall_seconds": 4.80110870001954,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "a5a089dcb051431166d56a963d0fb3fac31f3e2926cfb554343629934ba226ba"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 90.72681704260651,
+    "correct": 724,
+    "n": 798,
+    "best_epoch": 8,
+    "epochs_run": 18,
+    "best_validation_loss": 0.4183950424194336,
+    "optimizer_steps": 342,
+    "best_optimizer_steps": 152,
+    "eligible_training_questions": 2513,
+    "training_draws": 85590,
+    "parameters": 139521,
+    "training_seconds": 4.2900541000126395,
+    "prediction_wall_seconds": 4.245148299989523,
+    "scoring_wall_seconds": 0.49578420000034384,
+    "validation_total_wall_seconds": 4.740932499989867,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "4daa84950fab83c691d1e19518e530954a1b97fdb5b48f311ead8a855c6e86e1"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 29,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 29,
+    "learning_rate": 0.001,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 4,
+    "epochs_run": 14,
+    "best_validation_loss": 0.431977778673172,
+    "optimizer_steps": 266,
+    "best_optimizer_steps": 76,
+    "eligible_training_questions": 2513,
+    "training_draws": 66570,
+    "parameters": 139521,
+    "training_seconds": 3.313888999982737,
+    "prediction_wall_seconds": 4.2175300999952015,
+    "scoring_wall_seconds": 0.49334089999319986,
+    "validation_total_wall_seconds": 4.710870999988401,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "3b890fab5dda571f7053d074bf3afb715f7b8dda51336ce3bf1afd6fe85ea73c"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p001\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 43,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 43,
+    "learning_rate": 0.001,
+    "accuracy": 91.47869674185463,
+    "correct": 730,
+    "n": 798,
+    "best_epoch": 5,
+    "epochs_run": 15,
+    "best_validation_loss": 0.44824710488319397,
+    "optimizer_steps": 285,
+    "best_optimizer_steps": 95,
+    "eligible_training_questions": 2513,
+    "training_draws": 71325,
+    "parameters": 139521,
+    "training_seconds": 3.543806700006826,
+    "prediction_wall_seconds": 4.202006999985315,
+    "scoring_wall_seconds": 0.47880010001244955,
+    "validation_total_wall_seconds": 4.6808070999977645,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "7e32a0979ca56ad787535b2af7907af8e96197eb9c18f5e82a3d3d13fd39318f"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p001\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 71,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 71,
+    "learning_rate": 0.001,
+    "accuracy": 90.6015037593985,
+    "correct": 723,
+    "n": 798,
+    "best_epoch": 18,
+    "epochs_run": 28,
+    "best_validation_loss": 0.8281795382499695,
+    "optimizer_steps": 532,
+    "best_optimizer_steps": 342,
+    "eligible_training_questions": 2513,
+    "training_draws": 133140,
+    "parameters": 139521,
+    "training_seconds": 6.6615482000052,
+    "prediction_wall_seconds": 4.399670699989656,
+    "scoring_wall_seconds": 0.5066230999946129,
+    "validation_total_wall_seconds": 4.906293799984269,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "c91b39ec578a1ce5781de47c4d1c7716e98a0e7d8d90d675ef90402c7fb87e2d"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p001\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 101,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__pairwise",
+    "model": "independent",
+    "objective": "pairwise",
+    "seed": 101,
+    "learning_rate": 0.001,
+    "accuracy": 90.97744360902256,
+    "correct": 726,
+    "n": 798,
+    "best_epoch": 15,
+    "epochs_run": 25,
+    "best_validation_loss": 0.7252963185310364,
+    "optimizer_steps": 475,
+    "best_optimizer_steps": 285,
+    "eligible_training_questions": 2513,
+    "training_draws": 118875,
+    "parameters": 139521,
+    "training_seconds": 6.0128960000001825,
+    "prediction_wall_seconds": 4.239871300000232,
+    "scoring_wall_seconds": 0.5034954000147991,
+    "validation_total_wall_seconds": 4.743366700015031,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "380e51d40227bc8de3f453fd26dcd530bbb94ca0b0a69c4d432cc659dd6a3520"
+    },
+    "run_dir": "results\\runs\\independent__pairwise\\lr_0p001\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.6015037593985,
+    "correct": 723,
+    "n": 798,
+    "best_epoch": 5,
+    "epochs_run": 15,
+    "best_validation_loss": 0.5981795191764832,
+    "optimizer_steps": 285,
+    "best_optimizer_steps": 95,
+    "eligible_training_questions": 2513,
+    "training_draws": 71325,
+    "parameters": 139521,
+    "training_seconds": 3.627534100000048,
+    "prediction_wall_seconds": 4.190857999987202,
+    "scoring_wall_seconds": 0.49221959998249076,
+    "validation_total_wall_seconds": 4.6830775999696925,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "a64393d8f03c4787686d67c9f357716ee7040e67aeeaf1353e8aceeff220979f"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 90.72681704260651,
+    "correct": 724,
+    "n": 798,
+    "best_epoch": 16,
+    "epochs_run": 26,
+    "best_validation_loss": 0.6405059099197388,
+    "optimizer_steps": 494,
+    "best_optimizer_steps": 304,
+    "eligible_training_questions": 2513,
+    "training_draws": 123630,
+    "parameters": 139521,
+    "training_seconds": 6.193511199991917,
+    "prediction_wall_seconds": 4.320469099999173,
+    "scoring_wall_seconds": 0.4952449999982491,
+    "validation_total_wall_seconds": 4.815714099997422,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "8f079729daf5644af76ef5bf24511ba19ad29c2847743d5c5fed47c5854dce3c"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 29,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "accuracy": 90.85213032581454,
+    "correct": 725,
+    "n": 798,
+    "best_epoch": 8,
+    "epochs_run": 18,
+    "best_validation_loss": 0.48469576239585876,
+    "optimizer_steps": 342,
+    "best_optimizer_steps": 152,
+    "eligible_training_questions": 2513,
+    "training_draws": 85590,
+    "parameters": 139521,
+    "training_seconds": 4.498327600012999,
+    "prediction_wall_seconds": 4.227760100009618,
+    "scoring_wall_seconds": 0.4930088999972213,
+    "validation_total_wall_seconds": 4.72076900000684,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "6275c71914c84fd2fe6e17620b2f7d2a3297f949b3d5f42b6d25a4f1549dfb58"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p0003\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 43,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "accuracy": 90.97744360902256,
+    "correct": 726,
+    "n": 798,
+    "best_epoch": 10,
+    "epochs_run": 20,
+    "best_validation_loss": 0.5079253911972046,
+    "optimizer_steps": 380,
+    "best_optimizer_steps": 190,
+    "eligible_training_questions": 2513,
+    "training_draws": 95100,
+    "parameters": 139521,
+    "training_seconds": 4.670155500003602,
+    "prediction_wall_seconds": 4.251533200003905,
+    "scoring_wall_seconds": 0.4892771000158973,
+    "validation_total_wall_seconds": 4.7408103000198025,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "1cdeb6485326cb12e171e1c60f6503ea430a43ecd540d2eb31313ed62f2a11e3"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p0003\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 71,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "accuracy": 90.85213032581454,
+    "correct": 725,
+    "n": 798,
+    "best_epoch": 16,
+    "epochs_run": 26,
+    "best_validation_loss": 0.6861505508422852,
+    "optimizer_steps": 494,
+    "best_optimizer_steps": 304,
+    "eligible_training_questions": 2513,
+    "training_draws": 123630,
+    "parameters": 139521,
+    "training_seconds": 5.948403699992923,
+    "prediction_wall_seconds": 4.315002699993784,
+    "scoring_wall_seconds": 0.5008330999989994,
+    "validation_total_wall_seconds": 4.815835799992783,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "62f3690f55963e82caf3426bc4c0e7bd45d60e2c97ebe0fccdf72539073f5f3a"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p0003\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "independent",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 101,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "independent__set_mass",
+    "model": "independent",
+    "objective": "set_mass",
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "accuracy": 90.72681704260651,
+    "correct": 724,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.4964952766895294,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 139521,
+    "training_seconds": 4.495502099976875,
+    "prediction_wall_seconds": 4.266717899998184,
+    "scoring_wall_seconds": 0.5042223999917042,
+    "validation_total_wall_seconds": 4.7709402999898884,
+    "uncompressed_asset_bytes": 567417,
+    "bundle_sha256": {
+      "config.json": "91bc6a9aa541287cef7f6d9819e0f9e68d7a6fd5be8eb5c1dec56922c27ff926",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "6c84299a13d915a5562667928031e2f0b50e67f7fe577fe14bb5b2c5d4e6f49a"
+    },
+    "run_dir": "results\\runs\\independent__set_mass\\lr_0p0003\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 0.0,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 0.0,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 7,
+    "epochs_run": 17,
+    "best_validation_loss": 0.4692656695842743,
+    "optimizer_steps": 323,
+    "best_optimizer_steps": 133,
+    "eligible_training_questions": 4755,
+    "training_draws": 80835,
+    "parameters": 272001,
+    "training_seconds": 9.89165960001992,
+    "prediction_wall_seconds": 4.292396200005896,
+    "scoring_wall_seconds": 0.4923677000042517,
+    "validation_total_wall_seconds": 4.784763900010148,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "b5e5aae6b344054976f49ce3c8548a86915d626f77650697d2c182aacab06b35"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 1.783233642578125,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 91.72932330827068,
+    "correct": 732,
+    "n": 798,
+    "best_epoch": 13,
+    "epochs_run": 23,
+    "best_validation_loss": 0.49803847074508667,
+    "optimizer_steps": 437,
+    "best_optimizer_steps": 247,
+    "eligible_training_questions": 4755,
+    "training_draws": 109365,
+    "parameters": 272001,
+    "training_seconds": 13.364238300011493,
+    "prediction_wall_seconds": 4.2489582000125665,
+    "scoring_wall_seconds": 0.5030011000053491,
+    "validation_total_wall_seconds": 4.751959300017916,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "adb000ed396ca6af829a532e3f2a1e2c008f5c1419c483f641a3c67cf3a5bdee"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 3.369509220123291,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 29,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 11,
+    "epochs_run": 21,
+    "best_validation_loss": 0.4658838212490082,
+    "optimizer_steps": 399,
+    "best_optimizer_steps": 209,
+    "eligible_training_questions": 4755,
+    "training_draws": 99855,
+    "parameters": 272001,
+    "training_seconds": 12.093719500000589,
+    "prediction_wall_seconds": 4.245811800006777,
+    "scoring_wall_seconds": 0.5118064999987837,
+    "validation_total_wall_seconds": 4.757618300005561,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "da221b476777a10a1b688e91d11cf11428845f1b93468d8b6557d475d367a62d"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p0003\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 2.5935566425323486,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 43,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "accuracy": 91.97994987468671,
+    "correct": 734,
+    "n": 798,
+    "best_epoch": 16,
+    "epochs_run": 26,
+    "best_validation_loss": 0.5299721360206604,
+    "optimizer_steps": 494,
+    "best_optimizer_steps": 304,
+    "eligible_training_questions": 4755,
+    "training_draws": 123630,
+    "parameters": 272001,
+    "training_seconds": 14.955411400005687,
+    "prediction_wall_seconds": 4.895973500009859,
+    "scoring_wall_seconds": 0.5553481000242755,
+    "validation_total_wall_seconds": 5.4513216000341345,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "a6d1f2bc265b4a037a8a2aa8de2ad6455692c0a9ca2e3d7059738b54b71e87e7"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p0003\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 5.48823356628418,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 71,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "accuracy": 91.72932330827068,
+    "correct": 732,
+    "n": 798,
+    "best_epoch": 14,
+    "epochs_run": 24,
+    "best_validation_loss": 0.5097537040710449,
+    "optimizer_steps": 456,
+    "best_optimizer_steps": 266,
+    "eligible_training_questions": 4755,
+    "training_draws": 114120,
+    "parameters": 272001,
+    "training_seconds": 15.113233099982608,
+    "prediction_wall_seconds": 4.31180100000347,
+    "scoring_wall_seconds": 0.5195227999938652,
+    "validation_total_wall_seconds": 4.831323799997335,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "a04944450a57aabd6b69568294e9c6b751ca656933756bfc8c4060d4e9963380"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p0003\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 2.5403122901916504,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_all",
+      "seed": 101,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_all",
+    "model": "attention",
+    "objective": "bce_all",
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "accuracy": 92.73182957393483,
+    "correct": 740,
+    "n": 798,
+    "best_epoch": 18,
+    "epochs_run": 28,
+    "best_validation_loss": 0.5664237141609192,
+    "optimizer_steps": 532,
+    "best_optimizer_steps": 342,
+    "eligible_training_questions": 4755,
+    "training_draws": 133140,
+    "parameters": 272001,
+    "training_seconds": 16.35850110001047,
+    "prediction_wall_seconds": 4.306533800001489,
+    "scoring_wall_seconds": 0.48615569999674335,
+    "validation_total_wall_seconds": 4.792689499998232,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "64505777c1ff7f4a19dd8c30fd7f6e52466a29640b7926934727865373a89d3c"
+    },
+    "run_dir": "results\\runs\\attention__bce_all\\lr_0p0003\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 1.430511474609375e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 4.120428085327148,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 3,
+    "epochs_run": 13,
+    "best_validation_loss": 0.596716582775116,
+    "optimizer_steps": 247,
+    "best_optimizer_steps": 57,
+    "eligible_training_questions": 2513,
+    "training_draws": 61815,
+    "parameters": 272001,
+    "training_seconds": 7.432789900019998,
+    "prediction_wall_seconds": 4.365748400014127,
+    "scoring_wall_seconds": 0.49112049999530427,
+    "validation_total_wall_seconds": 4.856868900009431,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "7901613ee64141b9a83c1cdf5e601d81d81111ef08876686cbee213c0a7d686b"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 5.960464477539062e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 4.37003231048584,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 7,
+    "epochs_run": 17,
+    "best_validation_loss": 0.6102346181869507,
+    "optimizer_steps": 323,
+    "best_optimizer_steps": 133,
+    "eligible_training_questions": 2513,
+    "training_draws": 80835,
+    "parameters": 272001,
+    "training_seconds": 9.853360900015105,
+    "prediction_wall_seconds": 4.450943100004224,
+    "scoring_wall_seconds": 0.5251113999984227,
+    "validation_total_wall_seconds": 4.976054500002647,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "48472ed2ed488c2c19aca2f7ee1b5fff648fe6ea721d0bb1a222d4be7e9fb2e2"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 4.543572425842285,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 29,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 29,
+    "learning_rate": 0.001,
+    "accuracy": 91.10275689223057,
+    "correct": 727,
+    "n": 798,
+    "best_epoch": 4,
+    "epochs_run": 14,
+    "best_validation_loss": 0.6528052091598511,
+    "optimizer_steps": 266,
+    "best_optimizer_steps": 76,
+    "eligible_training_questions": 2513,
+    "training_draws": 66570,
+    "parameters": 272001,
+    "training_seconds": 8.027932199998759,
+    "prediction_wall_seconds": 4.34928470000159,
+    "scoring_wall_seconds": 0.4674978000111878,
+    "validation_total_wall_seconds": 4.816782500012778,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "c440b011ab9410b143d4558b2d64a7a1cdb8de28d1115f939e0d7d9b878921ae"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p001\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 5.687583923339844,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 43,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 43,
+    "learning_rate": 0.001,
+    "accuracy": 91.10275689223057,
+    "correct": 727,
+    "n": 798,
+    "best_epoch": 5,
+    "epochs_run": 15,
+    "best_validation_loss": 0.6991727948188782,
+    "optimizer_steps": 285,
+    "best_optimizer_steps": 95,
+    "eligible_training_questions": 2513,
+    "training_draws": 71325,
+    "parameters": 272001,
+    "training_seconds": 8.637622800015379,
+    "prediction_wall_seconds": 4.282759800000349,
+    "scoring_wall_seconds": 0.5022802999883424,
+    "validation_total_wall_seconds": 4.7850400999886915,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "6ff5cdb8b54bb1d702d9fc25a7d661a434e00ac5f79463c15e08a834bf380ce9"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p001\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 7.152557373046875e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 6.404016494750977,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 71,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 71,
+    "learning_rate": 0.001,
+    "accuracy": 91.60401002506266,
+    "correct": 731,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.8720876574516296,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 272001,
+    "training_seconds": 10.938673700002255,
+    "prediction_wall_seconds": 4.2843001000001095,
+    "scoring_wall_seconds": 0.47854059998644516,
+    "validation_total_wall_seconds": 4.762840699986555,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "84a1ea727853019f52fa9cdae020f856d9395890273831055a1f91626732135e"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p001\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 10.094615936279297,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "bce_mixed",
+      "seed": 101,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__bce_mixed",
+    "model": "attention",
+    "objective": "bce_mixed",
+    "seed": 101,
+    "learning_rate": 0.001,
+    "accuracy": 92.10526315789474,
+    "correct": 735,
+    "n": 798,
+    "best_epoch": 8,
+    "epochs_run": 18,
+    "best_validation_loss": 0.8280859589576721,
+    "optimizer_steps": 342,
+    "best_optimizer_steps": 152,
+    "eligible_training_questions": 2513,
+    "training_draws": 85590,
+    "parameters": 272001,
+    "training_seconds": 10.339672899979632,
+    "prediction_wall_seconds": 4.316715000022668,
+    "scoring_wall_seconds": 0.49032149999402463,
+    "validation_total_wall_seconds": 4.807036500016693,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "bb7532ab72811e9c89fccd0bee01d6d5772aece6a320e20d492606a5615a6d92"
+    },
+    "run_dir": "results\\runs\\attention__bce_mixed\\lr_0p001\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 1.1324882507324219e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 9.573458671569824,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.97744360902256,
+    "correct": 726,
+    "n": 798,
+    "best_epoch": 2,
+    "epochs_run": 12,
+    "best_validation_loss": 0.43395376205444336,
+    "optimizer_steps": 228,
+    "best_optimizer_steps": 38,
+    "eligible_training_questions": 2513,
+    "training_draws": 57060,
+    "parameters": 272001,
+    "training_seconds": 7.150859200017294,
+    "prediction_wall_seconds": 4.272622100019362,
+    "scoring_wall_seconds": 0.5198129999917,
+    "validation_total_wall_seconds": 4.792435100011062,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "879e9fa62b2bdc934164d3558143cd374ffd24afd0a77459459de945aac84336"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 3.410305976867676,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 6,
+    "epochs_run": 16,
+    "best_validation_loss": 0.42170843482017517,
+    "optimizer_steps": 304,
+    "best_optimizer_steps": 114,
+    "eligible_training_questions": 2513,
+    "training_draws": 76080,
+    "parameters": 272001,
+    "training_seconds": 9.321858899988001,
+    "prediction_wall_seconds": 4.282565900008194,
+    "scoring_wall_seconds": 0.5081071000022348,
+    "validation_total_wall_seconds": 4.790673000010429,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "c6a2c6a7949cade652df0c39f0a988afed9fcf3dc5e9bace17c28321427cda57"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 3.0080599784851074,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 29,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.5066835284233093,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 272001,
+    "training_seconds": 11.034731699997792,
+    "prediction_wall_seconds": 4.31607809997513,
+    "scoring_wall_seconds": 0.4932396999793127,
+    "validation_total_wall_seconds": 4.809317799954442,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "2548f04571f7be5151c1b2c552c495efd28c3c959e5e0c97735c3f7116233bf7"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p0003\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 5.386267185211182,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 43,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "accuracy": 91.2280701754386,
+    "correct": 728,
+    "n": 798,
+    "best_epoch": 13,
+    "epochs_run": 23,
+    "best_validation_loss": 0.599050760269165,
+    "optimizer_steps": 437,
+    "best_optimizer_steps": 247,
+    "eligible_training_questions": 2513,
+    "training_draws": 109365,
+    "parameters": 272001,
+    "training_seconds": 13.387040700006764,
+    "prediction_wall_seconds": 4.274429999990389,
+    "scoring_wall_seconds": 0.5018509999790695,
+    "validation_total_wall_seconds": 4.776280999969458,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "e757df79841986e71f33d1c67b22e724edbeb68bac1178d77ec4e92f40d9648f"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p0003\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 1.430511474609375e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 2.587679862976074,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 71,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "accuracy": 90.85213032581454,
+    "correct": 725,
+    "n": 798,
+    "best_epoch": 14,
+    "epochs_run": 24,
+    "best_validation_loss": 0.5903279781341553,
+    "optimizer_steps": 456,
+    "best_optimizer_steps": 266,
+    "eligible_training_questions": 2513,
+    "training_draws": 114120,
+    "parameters": 272001,
+    "training_seconds": 14.370535399997607,
+    "prediction_wall_seconds": 4.257884699996794,
+    "scoring_wall_seconds": 0.49288539998815395,
+    "validation_total_wall_seconds": 4.750770099984948,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "971f07ca4f5dd12bcecfda7e5b7c7a2dc97e5fdf2df888e6ef70a6a881462661"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p0003\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 1.9073486328125e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 5.239994525909424,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "pairwise",
+      "seed": 101,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__pairwise",
+    "model": "attention",
+    "objective": "pairwise",
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "accuracy": 91.35338345864662,
+    "correct": 729,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.5153550505638123,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 272001,
+    "training_seconds": 11.127499900001567,
+    "prediction_wall_seconds": 4.307088799978374,
+    "scoring_wall_seconds": 0.49731760000577196,
+    "validation_total_wall_seconds": 4.8044063999841455,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "f2f677ec6933d9c933dc9e47bac1818a85b6b7bde64eef4139162cda3e7ca694"
+    },
+    "run_dir": "results\\runs\\attention__pairwise\\lr_0p0003\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 5.463595867156982,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 17,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 17,
+    "learning_rate": 0.001,
+    "accuracy": 90.6015037593985,
+    "correct": 723,
+    "n": 798,
+    "best_epoch": 4,
+    "epochs_run": 14,
+    "best_validation_loss": 0.6035467386245728,
+    "optimizer_steps": 266,
+    "best_optimizer_steps": 76,
+    "eligible_training_questions": 2513,
+    "training_draws": 66570,
+    "parameters": 272001,
+    "training_seconds": 8.108547999989241,
+    "prediction_wall_seconds": 4.254001699999208,
+    "scoring_wall_seconds": 0.5037617000052705,
+    "validation_total_wall_seconds": 4.757763400004478,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "d05304a62bed0f283e9b89d897d4cccfa4884b5d33c1709ccfe2c5a0ef2a9014"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p001\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 1.9073486328125e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 12.774303436279297,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 17,
+      "learning_rate": 0.0003,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "accuracy": 90.35087719298245,
+    "correct": 721,
+    "n": 798,
+    "best_epoch": 6,
+    "epochs_run": 16,
+    "best_validation_loss": 0.5134855508804321,
+    "optimizer_steps": 304,
+    "best_optimizer_steps": 114,
+    "eligible_training_questions": 2513,
+    "training_draws": 76080,
+    "parameters": 272001,
+    "training_seconds": 9.414539000019431,
+    "prediction_wall_seconds": 4.314697499998147,
+    "scoring_wall_seconds": 0.48741030000383034,
+    "validation_total_wall_seconds": 4.802107800001977,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "2ba4a48cca69b2cbf49343f89e51257ad998bcf7611572c6d15f383e99a8128b"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p0003\\seed_17",
+    "checks": {
+      "permutation_max_abs_error": 1.430511474609375e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 6.098264694213867,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 29,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 29,
+    "learning_rate": 0.001,
+    "accuracy": 90.72681704260651,
+    "correct": 724,
+    "n": 798,
+    "best_epoch": 4,
+    "epochs_run": 14,
+    "best_validation_loss": 0.6207884550094604,
+    "optimizer_steps": 266,
+    "best_optimizer_steps": 76,
+    "eligible_training_questions": 2513,
+    "training_draws": 66570,
+    "parameters": 272001,
+    "training_seconds": 8.197773199994117,
+    "prediction_wall_seconds": 4.256073299999116,
+    "scoring_wall_seconds": 0.48268929999903776,
+    "validation_total_wall_seconds": 4.738762599998154,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "ea342f2552e2f8492a7b1dda5af3388d3cfddd322f4135c161ee9c07625939a7"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p001\\seed_29",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 6.221358776092529,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 43,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 43,
+    "learning_rate": 0.001,
+    "accuracy": 90.35087719298245,
+    "correct": 721,
+    "n": 798,
+    "best_epoch": 7,
+    "epochs_run": 17,
+    "best_validation_loss": 0.8404038548469543,
+    "optimizer_steps": 323,
+    "best_optimizer_steps": 133,
+    "eligible_training_questions": 2513,
+    "training_draws": 80835,
+    "parameters": 272001,
+    "training_seconds": 9.82471769998665,
+    "prediction_wall_seconds": 4.333618599979673,
+    "scoring_wall_seconds": 0.4963206000102218,
+    "validation_total_wall_seconds": 4.829939199989894,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "954fcb212f5b9f8d3133eb5e0be634c8aa4f9d1c907f1526c3e58ca887f2d0f6"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p001\\seed_43",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 10.95771598815918,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 71,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 71,
+    "learning_rate": 0.001,
+    "accuracy": 90.97744360902256,
+    "correct": 726,
+    "n": 798,
+    "best_epoch": 3,
+    "epochs_run": 13,
+    "best_validation_loss": 0.5431405901908875,
+    "optimizer_steps": 247,
+    "best_optimizer_steps": 57,
+    "eligible_training_questions": 2513,
+    "training_draws": 61815,
+    "parameters": 272001,
+    "training_seconds": 7.669352099997923,
+    "prediction_wall_seconds": 4.254585499991663,
+    "scoring_wall_seconds": 0.48621420000563376,
+    "validation_total_wall_seconds": 4.740799699997297,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "85b6e5535ad52bae99c5e9ea3f5543a36d85ede566eb7eea7c90a6a91561216e"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p001\\seed_71",
+    "checks": {
+      "permutation_max_abs_error": 9.5367431640625e-07,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 7.588449001312256,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  },
+  {
+    "configuration": {
+      "model": {
+        "name": "attention",
+        "hidden": 128,
+        "dropout": 0.1,
+        "question_dim": 0
+      },
+      "objective": "set_mass",
+      "seed": 101,
+      "learning_rate": 0.001,
+      "protocol_sha256": "84281fff5cc4bcb7225b85d491bac7eb033e2ec7136a73ee37360c1e92e39544",
+      "source_hashes": {
+        "check_objectives.py": "59818e6934c60e020a7d345f9b05e0709bef9fc946f78fc9e3cd421e5a71b064",
+        "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+        "losses.py": "51f50df81f5e394e8b422fa1c47555d1d0c643afb2d6822dfdd91c1044e9b90b",
+        "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+        "models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+        "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+        "run_suite.py": "7eee4ba19acb84daf88bd758e6cbf8313b1f6737983f90296f5c4f3fe1b3c51a",
+        "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0"
+      }
+    },
+    "group": "attention__set_mass",
+    "model": "attention",
+    "objective": "set_mass",
+    "seed": 101,
+    "learning_rate": 0.001,
+    "accuracy": 90.6015037593985,
+    "correct": 723,
+    "n": 798,
+    "best_epoch": 9,
+    "epochs_run": 19,
+    "best_validation_loss": 0.9521744847297668,
+    "optimizer_steps": 361,
+    "best_optimizer_steps": 171,
+    "eligible_training_questions": 2513,
+    "training_draws": 90345,
+    "parameters": 272001,
+    "training_seconds": 11.273811299994122,
+    "prediction_wall_seconds": 4.285691199998837,
+    "scoring_wall_seconds": 0.5001138999941759,
+    "validation_total_wall_seconds": 4.785805099993013,
+    "uncompressed_asset_bytes": 1098871,
+    "bundle_sha256": {
+      "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+      "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+      "weights.npz": "4c92e1fa94df78c7e4ac4d5a7c1a45ffe7b53eb54015b91776601a1e1639543f"
+    },
+    "run_dir": "results\\runs\\attention__set_mass\\lr_0p001\\seed_101",
+    "checks": {
+      "permutation_max_abs_error": 1.9073486328125e-06,
+      "batch_size_max_abs_error": 0.0,
+      "other_candidate_perturbation_max_abs_effect": 9.411558151245117,
+      "non_fixed_batch_sizes_checked": [
+        1,
+        13
+      ],
+      "passed": true
+    }
+  }
+]

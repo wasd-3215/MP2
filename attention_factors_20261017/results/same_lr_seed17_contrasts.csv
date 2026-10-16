@@ -1,0 +1,35 @@
+﻿seed,learning_rate,kind,contrast,difference_pp
+17,0.001,mask_at_head,exclude - include at h1,-0.2506265664160401
+17,0.001,mask_at_head,exclude - include at h2,0.0
+17,0.001,mask_at_head,exclude - include at h4,0.12531328320802004
+17,0.001,mask_at_head,exclude - include at h8,0.37593984962406013
+17,0.001,head_within_mask,h1 - h4 within include,0.37593984962406013
+17,0.001,head_within_mask,h2 - h4 within include,0.37593984962406013
+17,0.001,head_within_mask,h8 - h4 within include,0.12531328320802004
+17,0.001,head_within_mask,h1 - h4 within exclude,0.0
+17,0.001,head_within_mask,h2 - h4 within exclude,0.2506265664160401
+17,0.001,head_within_mask,h8 - h4 within exclude,0.37593984962406013
+17,0.001,mask_main,exclude - include averaged over heads,0.06265664160401002
+17,0.001,head_main,h1 - h4 averaged over masks,0.18796992481203006
+17,0.001,interaction,mask effect at h1 - mask effect at h4,-0.37593984962406013
+17,0.001,head_main,h2 - h4 averaged over masks,0.3132832080200501
+17,0.001,interaction,mask effect at h2 - mask effect at h4,-0.12531328320802004
+17,0.001,head_main,h8 - h4 averaged over masks,0.2506265664160401
+17,0.001,interaction,mask effect at h8 - mask effect at h4,0.2506265664160401
+17,0.0003,mask_at_head,exclude - include at h1,0.12531328320802004
+17,0.0003,mask_at_head,exclude - include at h2,0.2506265664160401
+17,0.0003,mask_at_head,exclude - include at h4,0.0
+17,0.0003,mask_at_head,exclude - include at h8,0.2506265664160401
+17,0.0003,head_within_mask,h1 - h4 within include,-0.12531328320802004
+17,0.0003,head_within_mask,h2 - h4 within include,0.0
+17,0.0003,head_within_mask,h8 - h4 within include,-0.2506265664160401
+17,0.0003,head_within_mask,h1 - h4 within exclude,0.0
+17,0.0003,head_within_mask,h2 - h4 within exclude,0.2506265664160401
+17,0.0003,head_within_mask,h8 - h4 within exclude,0.0
+17,0.0003,mask_main,exclude - include averaged over heads,0.15664160401002505
+17,0.0003,head_main,h1 - h4 averaged over masks,-0.06265664160401002
+17,0.0003,interaction,mask effect at h1 - mask effect at h4,0.12531328320802004
+17,0.0003,head_main,h2 - h4 averaged over masks,0.12531328320802004
+17,0.0003,interaction,mask effect at h2 - mask effect at h4,0.2506265664160401
+17,0.0003,head_main,h8 - h4 averaged over masks,-0.12531328320802004
+17,0.0003,interaction,mask effect at h8 - mask effect at h4,0.2506265664160401

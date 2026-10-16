@@ -1,0 +1,172 @@
+START independent__bce_all seed=17 lr=0.001
+EPOCH independent__bce_all seed=17 10: val=89.724 best=89.724
+EPOCH independent__bce_all seed=17 20: val=89.850 best=90.100
+DONE independent__bce_all seed=17 lr=0.001 val=90.100 epoch=13 train=5.6s
+START independent__bce_all seed=17 lr=0.0003
+EPOCH independent__bce_all seed=17 10: val=88.596 best=88.596
+EPOCH independent__bce_all seed=17 20: val=89.474 best=90.226
+DONE independent__bce_all seed=17 lr=0.0003 val=90.226 epoch=19 train=7.0s
+START independent__bce_all seed=29 lr=0.0003
+EPOCH independent__bce_all seed=29 10: val=88.221 best=88.596
+EPOCH independent__bce_all seed=29 20: val=89.098 best=89.724
+EPOCH independent__bce_all seed=29 30: val=89.098 best=89.850
+DONE independent__bce_all seed=29 lr=0.0003 val=89.850 epoch=21 train=7.2s
+START independent__bce_all seed=43 lr=0.0003
+EPOCH independent__bce_all seed=43 10: val=88.722 best=88.972
+EPOCH independent__bce_all seed=43 20: val=89.474 best=89.975
+EPOCH independent__bce_all seed=43 30: val=89.474 best=90.476
+EPOCH independent__bce_all seed=43 40: val=89.474 best=90.602
+DONE independent__bce_all seed=43 lr=0.0003 val=90.602 epoch=34 train=10.1s
+START independent__bce_all seed=71 lr=0.0003
+EPOCH independent__bce_all seed=71 10: val=88.471 best=88.847
+EPOCH independent__bce_all seed=71 20: val=89.850 best=90.226
+DONE independent__bce_all seed=71 lr=0.0003 val=90.226 epoch=19 train=6.7s
+START independent__bce_all seed=101 lr=0.0003
+EPOCH independent__bce_all seed=101 10: val=88.471 best=88.596
+EPOCH independent__bce_all seed=101 20: val=89.599 best=90.226
+DONE independent__bce_all seed=101 lr=0.0003 val=90.226 epoch=18 train=6.4s
+START independent__bce_mixed seed=17 lr=0.001
+EPOCH independent__bce_mixed seed=17 10: val=89.348 best=90.476
+DONE independent__bce_mixed seed=17 lr=0.001 val=90.476 epoch=7 train=4.0s
+START independent__bce_mixed seed=17 lr=0.0003
+EPOCH independent__bce_mixed seed=17 10: val=89.599 best=90.100
+EPOCH independent__bce_mixed seed=17 20: val=90.602 best=90.602
+EPOCH independent__bce_mixed seed=17 30: val=90.852 best=91.228
+EPOCH independent__bce_mixed seed=17 40: val=90.852 best=91.353
+DONE independent__bce_mixed seed=17 lr=0.0003 val=91.353 epoch=37 train=10.9s
+START independent__bce_mixed seed=29 lr=0.0003
+EPOCH independent__bce_mixed seed=29 10: val=89.975 best=90.226
+EPOCH independent__bce_mixed seed=29 20: val=90.351 best=90.476
+EPOCH independent__bce_mixed seed=29 30: val=90.226 best=90.852
+EPOCH independent__bce_mixed seed=29 40: val=91.353 best=91.479
+DONE independent__bce_mixed seed=29 lr=0.0003 val=91.479 epoch=31 train=9.6s
+START independent__bce_mixed seed=43 lr=0.0003
+EPOCH independent__bce_mixed seed=43 10: val=91.103 best=91.353
+DONE independent__bce_mixed seed=43 lr=0.0003 val=91.353 epoch=8 train=4.4s
+START independent__bce_mixed seed=71 lr=0.0003
+EPOCH independent__bce_mixed seed=71 10: val=90.727 best=91.103
+DONE independent__bce_mixed seed=71 lr=0.0003 val=91.103 epoch=9 train=4.5s
+START independent__bce_mixed seed=101 lr=0.0003
+EPOCH independent__bce_mixed seed=101 10: val=90.351 best=91.228
+DONE independent__bce_mixed seed=101 lr=0.0003 val=91.228 epoch=9 train=4.4s
+START independent__pairwise seed=17 lr=0.001
+EPOCH independent__pairwise seed=17 10: val=90.351 best=90.852
+DONE independent__pairwise seed=17 lr=0.001 val=90.852 epoch=4 train=3.4s
+START independent__pairwise seed=17 lr=0.0003
+EPOCH independent__pairwise seed=17 10: val=90.226 best=90.727
+DONE independent__pairwise seed=17 lr=0.0003 val=90.727 epoch=8 train=4.3s
+START independent__pairwise seed=29 lr=0.001
+EPOCH independent__pairwise seed=29 10: val=90.351 best=91.228
+DONE independent__pairwise seed=29 lr=0.001 val=91.228 epoch=4 train=3.3s
+START independent__pairwise seed=43 lr=0.001
+EPOCH independent__pairwise seed=43 10: val=89.599 best=91.479
+DONE independent__pairwise seed=43 lr=0.001 val=91.479 epoch=5 train=3.5s
+START independent__pairwise seed=71 lr=0.001
+EPOCH independent__pairwise seed=71 10: val=89.850 best=90.226
+EPOCH independent__pairwise seed=71 20: val=89.348 best=90.602
+DONE independent__pairwise seed=71 lr=0.001 val=90.602 epoch=18 train=6.7s
+START independent__pairwise seed=101 lr=0.001
+EPOCH independent__pairwise seed=101 10: val=89.599 best=90.602
+EPOCH independent__pairwise seed=101 20: val=90.852 best=90.977
+DONE independent__pairwise seed=101 lr=0.001 val=90.977 epoch=15 train=6.0s
+START independent__set_mass seed=17 lr=0.001
+EPOCH independent__set_mass seed=17 10: val=90.226 best=90.602
+DONE independent__set_mass seed=17 lr=0.001 val=90.602 epoch=5 train=3.6s
+START independent__set_mass seed=17 lr=0.0003
+EPOCH independent__set_mass seed=17 10: val=89.975 best=90.226
+EPOCH independent__set_mass seed=17 20: val=89.975 best=90.727
+DONE independent__set_mass seed=17 lr=0.0003 val=90.727 epoch=16 train=6.2s
+START independent__set_mass seed=29 lr=0.0003
+EPOCH independent__set_mass seed=29 10: val=90.226 best=90.852
+DONE independent__set_mass seed=29 lr=0.0003 val=90.852 epoch=8 train=4.5s
+START independent__set_mass seed=43 lr=0.0003
+EPOCH independent__set_mass seed=43 10: val=90.977 best=90.977
+EPOCH independent__set_mass seed=43 20: val=90.476 best=90.977
+DONE independent__set_mass seed=43 lr=0.0003 val=90.977 epoch=10 train=4.7s
+START independent__set_mass seed=71 lr=0.0003
+EPOCH independent__set_mass seed=71 10: val=90.226 best=90.476
+EPOCH independent__set_mass seed=71 20: val=90.602 best=90.852
+DONE independent__set_mass seed=71 lr=0.0003 val=90.852 epoch=16 train=5.9s
+START independent__set_mass seed=101 lr=0.0003
+EPOCH independent__set_mass seed=101 10: val=89.975 best=90.727
+DONE independent__set_mass seed=101 lr=0.0003 val=90.727 epoch=9 train=4.5s
+START attention__bce_all seed=17 lr=0.001
+EPOCH attention__bce_all seed=17 10: val=90.727 best=91.353
+DONE attention__bce_all seed=17 lr=0.001 val=91.353 epoch=7 train=9.9s
+START attention__bce_all seed=17 lr=0.0003
+EPOCH attention__bce_all seed=17 10: val=91.479 best=91.479
+EPOCH attention__bce_all seed=17 20: val=91.103 best=91.729
+DONE attention__bce_all seed=17 lr=0.0003 val=91.729 epoch=13 train=13.4s
+START attention__bce_all seed=29 lr=0.0003
+EPOCH attention__bce_all seed=29 10: val=91.228 best=91.228
+EPOCH attention__bce_all seed=29 20: val=90.977 best=91.353
+DONE attention__bce_all seed=29 lr=0.0003 val=91.353 epoch=11 train=12.1s
+START attention__bce_all seed=43 lr=0.0003
+EPOCH attention__bce_all seed=43 10: val=90.351 best=90.602
+EPOCH attention__bce_all seed=43 20: val=91.103 best=91.980
+DONE attention__bce_all seed=43 lr=0.0003 val=91.980 epoch=16 train=15.0s
+START attention__bce_all seed=71 lr=0.0003
+EPOCH attention__bce_all seed=71 10: val=90.351 best=90.351
+EPOCH attention__bce_all seed=71 20: val=91.228 best=91.729
+DONE attention__bce_all seed=71 lr=0.0003 val=91.729 epoch=14 train=15.1s
+START attention__bce_all seed=101 lr=0.0003
+EPOCH attention__bce_all seed=101 10: val=91.479 best=91.479
+EPOCH attention__bce_all seed=101 20: val=92.105 best=92.732
+DONE attention__bce_all seed=101 lr=0.0003 val=92.732 epoch=18 train=16.4s
+START attention__bce_mixed seed=17 lr=0.001
+EPOCH attention__bce_mixed seed=17 10: val=89.724 best=91.228
+DONE attention__bce_mixed seed=17 lr=0.001 val=91.228 epoch=3 train=7.4s
+START attention__bce_mixed seed=17 lr=0.0003
+EPOCH attention__bce_mixed seed=17 10: val=90.476 best=91.228
+DONE attention__bce_mixed seed=17 lr=0.0003 val=91.228 epoch=7 train=9.9s
+START attention__bce_mixed seed=29 lr=0.001
+EPOCH attention__bce_mixed seed=29 10: val=89.975 best=91.103
+DONE attention__bce_mixed seed=29 lr=0.001 val=91.103 epoch=4 train=8.0s
+START attention__bce_mixed seed=43 lr=0.001
+EPOCH attention__bce_mixed seed=43 10: val=90.351 best=91.103
+DONE attention__bce_mixed seed=43 lr=0.001 val=91.103 epoch=5 train=8.6s
+START attention__bce_mixed seed=71 lr=0.001
+EPOCH attention__bce_mixed seed=71 10: val=91.228 best=91.604
+DONE attention__bce_mixed seed=71 lr=0.001 val=91.604 epoch=9 train=10.9s
+START attention__bce_mixed seed=101 lr=0.001
+EPOCH attention__bce_mixed seed=101 10: val=91.855 best=92.105
+DONE attention__bce_mixed seed=101 lr=0.001 val=92.105 epoch=8 train=10.3s
+START attention__pairwise seed=17 lr=0.001
+EPOCH attention__pairwise seed=17 10: val=90.476 best=90.977
+DONE attention__pairwise seed=17 lr=0.001 val=90.977 epoch=2 train=7.2s
+START attention__pairwise seed=17 lr=0.0003
+EPOCH attention__pairwise seed=17 10: val=90.602 best=91.353
+DONE attention__pairwise seed=17 lr=0.0003 val=91.353 epoch=6 train=9.3s
+START attention__pairwise seed=29 lr=0.0003
+EPOCH attention__pairwise seed=29 10: val=90.351 best=91.228
+DONE attention__pairwise seed=29 lr=0.0003 val=91.228 epoch=9 train=11.0s
+START attention__pairwise seed=43 lr=0.0003
+EPOCH attention__pairwise seed=43 10: val=89.975 best=91.103
+EPOCH attention__pairwise seed=43 20: val=89.474 best=91.228
+DONE attention__pairwise seed=43 lr=0.0003 val=91.228 epoch=13 train=13.4s
+START attention__pairwise seed=71 lr=0.0003
+EPOCH attention__pairwise seed=71 10: val=89.850 best=90.727
+EPOCH attention__pairwise seed=71 20: val=89.348 best=90.852
+DONE attention__pairwise seed=71 lr=0.0003 val=90.852 epoch=14 train=14.4s
+START attention__pairwise seed=101 lr=0.0003
+EPOCH attention__pairwise seed=101 10: val=90.852 best=91.353
+DONE attention__pairwise seed=101 lr=0.0003 val=91.353 epoch=9 train=11.1s
+START attention__set_mass seed=17 lr=0.001
+EPOCH attention__set_mass seed=17 10: val=89.724 best=90.602
+DONE attention__set_mass seed=17 lr=0.001 val=90.602 epoch=4 train=8.1s
+START attention__set_mass seed=17 lr=0.0003
+EPOCH attention__set_mass seed=17 10: val=90.226 best=90.351
+DONE attention__set_mass seed=17 lr=0.0003 val=90.351 epoch=6 train=9.4s
+START attention__set_mass seed=29 lr=0.001
+EPOCH attention__set_mass seed=29 10: val=89.724 best=90.727
+DONE attention__set_mass seed=29 lr=0.001 val=90.727 epoch=4 train=8.2s
+START attention__set_mass seed=43 lr=0.001
+EPOCH attention__set_mass seed=43 10: val=88.722 best=90.351
+DONE attention__set_mass seed=43 lr=0.001 val=90.351 epoch=7 train=9.8s
+START attention__set_mass seed=71 lr=0.001
+EPOCH attention__set_mass seed=71 10: val=88.972 best=90.977
+DONE attention__set_mass seed=71 lr=0.001 val=90.977 epoch=3 train=7.7s
+START attention__set_mass seed=101 lr=0.001
+EPOCH attention__set_mass seed=101 10: val=89.474 best=90.602
+DONE attention__set_mass seed=101 lr=0.001 val=90.602 epoch=9 train=11.3s
+TRAINING COMPLETE: 48 runs, 40 selected

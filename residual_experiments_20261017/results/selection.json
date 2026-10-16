@@ -1,0 +1,15 @@
+{
+  "policy": "Highest five-seed mean official validation accuracy, ties lower parameters then protocol order. Export fixed seed17 single model; no ensemble.",
+  "model": "attention",
+  "seed": 17,
+  "source_run": "results\\runs\\attention\\lr_0p0003\\seed_17",
+  "learning_rate": 0.0003,
+  "validation_accuracy": 91.72932330827068,
+  "five_seed_mean_accuracy": 91.9047619047619,
+  "test_evaluated": false,
+  "bundle_sha256": {
+    "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+    "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+    "weights.npz": "d78b38f01f97e685ae2e030138b033184da3b503097a7fd36c57eeb49c029ea2"
+  }
+}

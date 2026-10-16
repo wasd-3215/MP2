@@ -1,0 +1,10 @@
+{
+  "attention__include_h4": 0.0003,
+  "attention__include_h1": 0.001,
+  "attention__include_h2": 0.001,
+  "attention__include_h8": 0.001,
+  "attention__exclude_h1": 0.0003,
+  "attention__exclude_h2": 0.0003,
+  "attention__exclude_h4": 0.0003,
+  "attention__exclude_h8": 0.001
+}

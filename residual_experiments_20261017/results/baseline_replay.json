@@ -1,0 +1,52 @@
+[
+  {
+    "model": "independent",
+    "seed": 17,
+    "identical_predictions": true
+  },
+  {
+    "model": "independent",
+    "seed": 29,
+    "identical_predictions": true
+  },
+  {
+    "model": "independent",
+    "seed": 43,
+    "identical_predictions": true
+  },
+  {
+    "model": "independent",
+    "seed": 71,
+    "identical_predictions": true
+  },
+  {
+    "model": "independent",
+    "seed": 101,
+    "identical_predictions": true
+  },
+  {
+    "model": "attention",
+    "seed": 17,
+    "identical_predictions": true
+  },
+  {
+    "model": "attention",
+    "seed": 29,
+    "identical_predictions": true
+  },
+  {
+    "model": "attention",
+    "seed": 43,
+    "identical_predictions": true
+  },
+  {
+    "model": "attention",
+    "seed": 71,
+    "identical_predictions": true
+  },
+  {
+    "model": "attention",
+    "seed": 101,
+    "identical_predictions": true
+  }
+]

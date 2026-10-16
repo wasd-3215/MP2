@@ -1,0 +1,18 @@
+{
+  "policy": "Highest five-seed mean validation accuracy, ties protocol order (all parameter counts equal). Fixed seed17 single model, no ensemble.",
+  "model": "attention",
+  "variant": "exclude_h2",
+  "num_heads": 2,
+  "exclude_self": true,
+  "seed": 17,
+  "learning_rate": 0.0003,
+  "source_run": "results\\runs\\attention__exclude_h2\\lr_0p0003\\seed_17",
+  "validation_accuracy": 91.97994987468671,
+  "five_seed_mean_accuracy": 92.00501253132833,
+  "test_evaluated": false,
+  "bundle_sha256": {
+    "config.json": "0f59385994f896ee1db09547917311a7a47ee9ca1dbb8c312e76bb85bc26b532",
+    "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+    "weights.npz": "a7c5ef6d516c2712101c6aae5d206ca0e944337d8ff8bbfe6a92c0b543d0adbf"
+  }
+}

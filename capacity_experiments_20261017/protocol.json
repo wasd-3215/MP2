@@ -1,0 +1,31 @@
+{
+  "models": ["independent", "attention"],
+  "variants": {
+    "baseline": {"hidden": 128, "dropout": 0.1, "weight_decay": 0.001},
+    "width64": {"hidden": 64, "dropout": 0.1, "weight_decay": 0.001},
+    "width32": {"hidden": 32, "dropout": 0.1, "weight_decay": 0.001},
+    "dropout30": {"hidden": 128, "dropout": 0.3, "weight_decay": 0.001},
+    "decay01": {"hidden": 128, "dropout": 0.1, "weight_decay": 0.01}
+  },
+  "seeds": [17, 29, 43, 71, 101],
+  "search_seed": 17,
+  "learning_rates": [0.001, 0.0003],
+  "max_epochs": 60,
+  "patience": 10,
+  "batch_size": 256,
+  "gradient_clip": 1.0,
+  "optimizer": "AdamW, same decay treatment for all parameter tensors as prior experiments",
+  "objective": "BCE on all 4755 training questions; same objective for both architectures and every variant",
+  "sampling": "Full training permutation per epoch, seed+10000; identical question order for paired seeds",
+  "normalization": "Per-dimension train-only mean/std; unchanged 1024D embeddings, no question features",
+  "architecture": "Exact copy of previous CandidateScorer. Width changes projection and attention/FFN width; score-head intermediate width stays 64. Four attention heads remain fixed. Dropout30 changes every existing dropout site, including attention-weight dropout.",
+  "checkpoint_selection": "Highest official validation correct count, then lowest validation BCE, then earliest epoch",
+  "learning_rate_selection": "Seed 17: highest official validation correct count, then lowest validation BCE; exact ties prefer first listed LR",
+  "final_selection": "Highest five-seed mean official validation accuracy; ties lower parameter count then protocol order. Fixed seed17 single model, no ensemble",
+  "diagnostics": "At initialization and every epoch: full train and validation measured in eval mode at identical checkpoint, including BCE and mixed-only BCE. Save epoch10 metrics as common-update diagnostic. Official train and validation accuracy at selected checkpoint. Do not compare stochastic minibatch loss to eval validation loss as a generalization gap.",
+  "primary_comparisons": "Within architecture, each variant minus baseline. Report validation gains, clean loss gaps, official accuracy gaps, mixed-only diagnostic gaps, parameters and training costs. Smaller gap without higher validation performance is not evidence of improvement.",
+  "secondary_comparisons": "Baseline-seed17 selected learning-rate matched comparison using the already-run two-LR seed17 searches; exploratory, one seed only. Architecture differences are descriptive, not parameter-matched.",
+  "uncertainty": "10000 paired question bootstrap draws on seed-mean correctness differences; conditional exploratory intervals, reused validation set, no multiple-comparison correction. Report per-seed deltas and other-four-seed mean.",
+  "test_policy": "No test training/selection/predictions/scoring. Official integrity checker may check test file integrity/alignment.",
+  "threads": 4
+}

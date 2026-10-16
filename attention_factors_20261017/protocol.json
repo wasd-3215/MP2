@@ -1,0 +1,93 @@
+{
+  "models": [
+    "attention"
+  ],
+  "variants": {
+    "include_h4": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 4,
+      "exclude_self": false
+    },
+    "include_h1": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 1,
+      "exclude_self": false
+    },
+    "include_h2": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 2,
+      "exclude_self": false
+    },
+    "include_h8": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 8,
+      "exclude_self": false
+    },
+    "exclude_h1": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 1,
+      "exclude_self": true
+    },
+    "exclude_h2": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 2,
+      "exclude_self": true
+    },
+    "exclude_h4": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 4,
+      "exclude_self": true
+    },
+    "exclude_h8": {
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001,
+      "num_heads": 8,
+      "exclude_self": true
+    }
+  },
+  "seeds": [
+    17,
+    29,
+    43,
+    71,
+    101
+  ],
+  "search_seed": 17,
+  "learning_rates": [
+    0.001,
+    0.0003
+  ],
+  "max_epochs": 60,
+  "patience": 10,
+  "batch_size": 256,
+  "gradient_clip": 1.0,
+  "objective": "All-question BCE; no change to fixed embeddings, preprocessing or labels",
+  "architecture": "Exact previous attention architecture, h128, FFN256, score head64, four candidate tokens. Only head count and diagonal key/value masking vary. Query remains own h_i; own residual path unchanged. All cells have 272001 parameters and identical same-seed initial state tensors.",
+  "sampling": "Full training permutation each epoch; seed+10000; all groups same question order for same seed",
+  "normalization": "Per-coordinate mean/std from all training embeddings, no question features",
+  "optimizer": "AdamW weight_decay0.001, existing treatment of all parameters, gradient clip1",
+  "checkpoint_selection": "Highest official validation correct count, then lowest validation BCE, then earliest epoch",
+  "learning_rate_selection": "Seed17: highest official validation correct count then lowest validation BCE; exact ties first LR. Other four seeds use chosen LR.",
+  "final_selection": "Highest five-seed mean validation accuracy, ties protocol order (all parameter counts equal). Fixed seed17 single model, no ensemble.",
+  "primary_analysis": "Paired mask contrasts at each head count; head contrasts against h4 under each mask; balanced mask/head main effects; difference-in-differences interactions relative h4. These describe equal-budget tuned pipelines; selected learning rates may differ.",
+  "secondary_analysis": "Same-LR seed17 full factorial for each of the two already-run LR settings; exploratory single-seed control for LR confounding. Repair/harm counts versus include_h4; eval-mode train/validation gap; attention diagonal and normalized entropy as descriptions, not causal explanations.",
+  "uncertainty": "10000 paired question bootstrap resamples over seed-mean correctness; also report seed deltas and other-four-seed means. Reused validation, intervals conditional on selected models, no multiple-comparison correction; not an independent test.",
+  "threads": 4,
+  "training_device": "cpu",
+  "test_policy": "No test training, selection, predictions or scoring. Official integrity checker may check test file integrity/alignment."
+}

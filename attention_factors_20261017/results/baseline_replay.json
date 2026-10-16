@@ -1,0 +1,27 @@
+[
+  {
+    "seed": 17,
+    "identical_predictions": true,
+    "same_learning_rate": true
+  },
+  {
+    "seed": 29,
+    "identical_predictions": true,
+    "same_learning_rate": true
+  },
+  {
+    "seed": 43,
+    "identical_predictions": true,
+    "same_learning_rate": true
+  },
+  {
+    "seed": 71,
+    "identical_predictions": true,
+    "same_learning_rate": true
+  },
+  {
+    "seed": 101,
+    "identical_predictions": true,
+    "same_learning_rate": true
+  }
+]

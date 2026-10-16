@@ -1,0 +1,240 @@
+[
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h1",
+    "difference_pp": -0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h2",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h4",
+    "difference_pp": 0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h8",
+    "difference_pp": 0.37593984962406013
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h1 - h4 within include",
+    "difference_pp": 0.37593984962406013
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h2 - h4 within include",
+    "difference_pp": 0.37593984962406013
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h8 - h4 within include",
+    "difference_pp": 0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h1 - h4 within exclude",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h2 - h4 within exclude",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_within_mask",
+    "contrast": "h8 - h4 within exclude",
+    "difference_pp": 0.37593984962406013
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "mask_main",
+    "contrast": "exclude - include averaged over heads",
+    "difference_pp": 0.06265664160401002
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_main",
+    "contrast": "h1 - h4 averaged over masks",
+    "difference_pp": 0.18796992481203006
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "interaction",
+    "contrast": "mask effect at h1 - mask effect at h4",
+    "difference_pp": -0.37593984962406013
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_main",
+    "contrast": "h2 - h4 averaged over masks",
+    "difference_pp": 0.3132832080200501
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "interaction",
+    "contrast": "mask effect at h2 - mask effect at h4",
+    "difference_pp": -0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "head_main",
+    "contrast": "h8 - h4 averaged over masks",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "kind": "interaction",
+    "contrast": "mask effect at h8 - mask effect at h4",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h1",
+    "difference_pp": 0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h2",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h4",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "mask_at_head",
+    "contrast": "exclude - include at h8",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h1 - h4 within include",
+    "difference_pp": -0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h2 - h4 within include",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h8 - h4 within include",
+    "difference_pp": -0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h1 - h4 within exclude",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h2 - h4 within exclude",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_within_mask",
+    "contrast": "h8 - h4 within exclude",
+    "difference_pp": 0.0
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "mask_main",
+    "contrast": "exclude - include averaged over heads",
+    "difference_pp": 0.15664160401002505
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_main",
+    "contrast": "h1 - h4 averaged over masks",
+    "difference_pp": -0.06265664160401002
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "interaction",
+    "contrast": "mask effect at h1 - mask effect at h4",
+    "difference_pp": 0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_main",
+    "contrast": "h2 - h4 averaged over masks",
+    "difference_pp": 0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "interaction",
+    "contrast": "mask effect at h2 - mask effect at h4",
+    "difference_pp": 0.2506265664160401
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "head_main",
+    "contrast": "h8 - h4 averaged over masks",
+    "difference_pp": -0.12531328320802004
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "kind": "interaction",
+    "contrast": "mask effect at h8 - mask effect at h4",
+    "difference_pp": 0.2506265664160401
+  }
+]

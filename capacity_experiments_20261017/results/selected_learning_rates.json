@@ -1,0 +1,12 @@
+{
+  "independent__baseline": 0.0003,
+  "independent__width64": 0.0003,
+  "independent__width32": 0.0003,
+  "independent__dropout30": 0.001,
+  "independent__decay01": 0.0003,
+  "attention__baseline": 0.0003,
+  "attention__width64": 0.001,
+  "attention__width32": 0.0003,
+  "attention__dropout30": 0.0003,
+  "attention__decay01": 0.0003
+}

@@ -1,0 +1,8 @@
+{
+  "model": {
+    "name": "attention",
+    "hidden": 128,
+    "dropout": 0.1,
+    "question_dim": 0
+  }
+}

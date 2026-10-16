@@ -1,0 +1,67 @@
+[
+  {
+    "model": "finetune",
+    "changed_choices": 8.2,
+    "fixed_errors": 0.8,
+    "new_errors": 0.6,
+    "net_fixes": 0.2,
+    "current_base_only_accuracy": 90.25062656641605,
+    "correction_fixed_current_base_errors": 0.0,
+    "correction_harmed_current_base": 0.0,
+    "base_max_abs_logit_drift": 0.47274255752563477,
+    "mean_abs_applied_delta": 0.0,
+    "mean_gate": 0.0
+  },
+  {
+    "model": "residual_self",
+    "changed_choices": 5.6,
+    "fixed_errors": 0.8,
+    "new_errors": 0.6,
+    "net_fixes": 0.2,
+    "current_base_only_accuracy": 90.22556390977444,
+    "correction_fixed_current_base_errors": 0.8,
+    "correction_harmed_current_base": 0.6,
+    "base_max_abs_logit_drift": 0.0,
+    "mean_abs_applied_delta": 0.15524606332182883,
+    "mean_gate": 1.0
+  },
+  {
+    "model": "residual_context",
+    "changed_choices": 10.8,
+    "fixed_errors": 2.0,
+    "new_errors": 1.2,
+    "net_fixes": 0.8,
+    "current_base_only_accuracy": 90.22556390977444,
+    "correction_fixed_current_base_errors": 2.0,
+    "correction_harmed_current_base": 1.2,
+    "base_max_abs_logit_drift": 0.0,
+    "mean_abs_applied_delta": 0.2517496973276138,
+    "mean_gate": 1.0
+  },
+  {
+    "model": "residual_gated",
+    "changed_choices": 16.0,
+    "fixed_errors": 2.0,
+    "new_errors": 1.4,
+    "net_fixes": 0.6,
+    "current_base_only_accuracy": 90.22556390977444,
+    "correction_fixed_current_base_errors": 2.0,
+    "correction_harmed_current_base": 1.4,
+    "base_max_abs_logit_drift": 0.0,
+    "mean_abs_applied_delta": 0.30725919008255004,
+    "mean_gate": 0.3608508437871933
+  },
+  {
+    "model": "residual_joint",
+    "changed_choices": 69.4,
+    "fixed_errors": 7.8,
+    "new_errors": 6.6,
+    "net_fixes": 1.2,
+    "current_base_only_accuracy": 90.40100250626567,
+    "correction_fixed_current_base_errors": 1.2,
+    "correction_harmed_current_base": 1.4,
+    "base_max_abs_logit_drift": 4.6543573379516605,
+    "mean_abs_applied_delta": 0.38365795984864237,
+    "mean_gate": 0.2088329702615738
+  }
+]

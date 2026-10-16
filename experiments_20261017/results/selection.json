@@ -1,0 +1,15 @@
+{
+  "policy": "Seed 17 checkpoint of model with highest five-seed mean validation accuracy; exact ties prefer lower parameter count. No ensemble.",
+  "model": "attention",
+  "seed": 17,
+  "learning_rate": 0.0003,
+  "source_run": "results\\runs\\attention\\lr_0p0003\\seed_17",
+  "validation_accuracy": 91.72932330827068,
+  "five_seed_mean_accuracy": 91.9047619047619,
+  "test_evaluated": false,
+  "bundle_sha256": {
+    "config.json": "9867f5f4aecfc88e9cefe0de466367fbea01115e83b7454601e772f8b586e686",
+    "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+    "weights.npz": "adb000ed396ca6af829a532e3f2a1e2c008f5c1419c483f641a3c67cf3a5bdee"
+  }
+}

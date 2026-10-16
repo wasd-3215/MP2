@@ -1,0 +1,110 @@
+{
+  "passed": true,
+  "configurations": [
+    {
+      "model": "independent",
+      "parameters": 139521,
+      "trainable_parameters": 139521,
+      "checks": {
+        "permutation_max_abs_error": 0.0,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.0,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "attention",
+      "parameters": 272001,
+      "trainable_parameters": 272001,
+      "checks": {
+        "permutation_max_abs_error": 3.5762786865234375e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.12790632247924805,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "finetune",
+      "parameters": 139521,
+      "trainable_parameters": 139521,
+      "checks": {
+        "permutation_max_abs_error": 0.0,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.0,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "residual_self",
+      "parameters": 280322,
+      "trainable_parameters": 140801,
+      "checks": {
+        "permutation_max_abs_error": 0.0,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.0,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "residual_context",
+      "parameters": 280322,
+      "trainable_parameters": 140801,
+      "checks": {
+        "permutation_max_abs_error": 1.4901161193847656e-08,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.00615103542804718,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "residual_gated",
+      "parameters": 280579,
+      "trainable_parameters": 141058,
+      "checks": {
+        "permutation_max_abs_error": 7.450580596923828e-09,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.0004926249384880066,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "model": "residual_joint",
+      "parameters": 280579,
+      "trainable_parameters": 280579,
+      "checks": {
+        "permutation_max_abs_error": 2.9802322387695312e-08,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.000676959753036499,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "passed": true,
+  "configurations": [
+    {
+      "variant": "include_h4",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.1920928955078125e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.12289765477180481,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "include_h1",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.4901161193847656e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.12533530592918396,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "include_h2",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.341104507446289e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.12463933229446411,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "include_h8",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.7881393432617188e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.12267068028450012,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "exclude_h1",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.7881393432617188e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.16205796599388123,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "exclude_h2",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.1920928955078125e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.16136232018470764,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "exclude_h4",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.7881393432617188e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.1586303561925888,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    },
+    {
+      "variant": "exclude_h8",
+      "parameters": 272001,
+      "explicit_attention_reference": true,
+      "common_initialization": true,
+      "finite_gradients": true,
+      "checks": {
+        "permutation_max_abs_error": 1.7881393432617188e-07,
+        "batch_size_max_abs_error": 0.0,
+        "other_candidate_perturbation_max_abs_effect": 0.15824978053569794,
+        "non_fixed_batch_sizes_checked": [
+          1,
+          13
+        ],
+        "passed": true
+      }
+    }
+  ]
+}

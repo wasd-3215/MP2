@@ -1,0 +1,9 @@
+﻿variant,mean_changed_choices,mean_fixed_errors,mean_new_errors,mean_net_fixes
+include_h4,0.0,0.0,0.0,0.0
+include_h1,163.8,8.2,12.6,-4.4
+include_h2,167.0,10.4,14.4,-4.0
+include_h8,164.6,11.8,15.0,-3.2
+exclude_h1,125.6,8.2,8.2,0.0
+exclude_h2,112.0,7.4,6.6,0.8
+exclude_h4,94.2,7.0,7.4,-0.4
+exclude_h8,148.8,10.4,12.2,-1.8

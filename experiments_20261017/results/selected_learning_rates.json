@@ -1,0 +1,10 @@
+{
+  "linear": 0.001,
+  "independent": 0.0003,
+  "pool": 0.0003,
+  "attention": 0.0003,
+  "independent_large": 0.0003,
+  "attention_self": 0.001,
+  "independent_question": 0.0003,
+  "attention_question": 0.0003
+}

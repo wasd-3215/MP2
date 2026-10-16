@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "model": "attention",
+  "validation_accuracy": 91.72932330827068,
+  "official_prediction_and_scoring_wall_seconds": 4.796204400015995,
+  "bundle_hashes_match": true,
+  "reordered_new_ids_13_questions": true,
+  "single_question": true,
+  "native_integer_output": true,
+  "protected_files_checked": 606,
+  "protected_changes": [],
+  "training_source_changes": []
+}

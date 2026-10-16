@@ -1,0 +1,6 @@
+{
+  "python": "3.11.7",
+  "numpy": "1.26.4",
+  "matplotlib": "3.8.0",
+  "source": "selected_runs.json and saved history.json; no training or selection"
+}

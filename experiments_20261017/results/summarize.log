@@ -1,0 +1,6 @@
+{
+  "selected_model": "attention",
+  "mean_validation_accuracy": 91.9047619047619,
+  "selected_checkpoint_validation_accuracy": 91.72932330827068,
+  "runs": 48
+}

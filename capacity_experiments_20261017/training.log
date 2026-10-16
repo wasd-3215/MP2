@@ -1,0 +1,275 @@
+START independent__baseline seed=17 lr=0.001
+EPOCH independent__baseline seed=17 10: val=89.724 best=89.724
+EPOCH independent__baseline seed=17 20: val=89.850 best=90.100
+DONE independent__baseline seed=17 lr=0.001 val=90.100 epoch=13 train=6.0s
+START independent__baseline seed=17 lr=0.0003
+EPOCH independent__baseline seed=17 10: val=88.596 best=88.596
+EPOCH independent__baseline seed=17 20: val=89.474 best=90.226
+DONE independent__baseline seed=17 lr=0.0003 val=90.226 epoch=19 train=7.9s
+START independent__baseline seed=29 lr=0.0003
+EPOCH independent__baseline seed=29 10: val=88.221 best=88.596
+EPOCH independent__baseline seed=29 20: val=89.098 best=89.724
+EPOCH independent__baseline seed=29 30: val=89.098 best=89.850
+DONE independent__baseline seed=29 lr=0.0003 val=89.850 epoch=21 train=8.2s
+START independent__baseline seed=43 lr=0.0003
+EPOCH independent__baseline seed=43 10: val=88.722 best=88.972
+EPOCH independent__baseline seed=43 20: val=89.474 best=89.975
+EPOCH independent__baseline seed=43 30: val=89.474 best=90.476
+EPOCH independent__baseline seed=43 40: val=89.474 best=90.602
+DONE independent__baseline seed=43 lr=0.0003 val=90.602 epoch=34 train=11.7s
+START independent__baseline seed=71 lr=0.0003
+EPOCH independent__baseline seed=71 10: val=88.471 best=88.847
+EPOCH independent__baseline seed=71 20: val=89.850 best=90.226
+DONE independent__baseline seed=71 lr=0.0003 val=90.226 epoch=19 train=7.9s
+START independent__baseline seed=101 lr=0.0003
+EPOCH independent__baseline seed=101 10: val=88.471 best=88.596
+EPOCH independent__baseline seed=101 20: val=89.599 best=90.226
+DONE independent__baseline seed=101 lr=0.0003 val=90.226 epoch=18 train=7.8s
+START independent__width64 seed=17 lr=0.001
+EPOCH independent__width64 seed=17 10: val=88.847 best=89.348
+EPOCH independent__width64 seed=17 20: val=89.474 best=89.850
+EPOCH independent__width64 seed=17 30: val=89.348 best=90.602
+DONE independent__width64 seed=17 lr=0.001 val=90.602 epoch=25 train=7.3s
+START independent__width64 seed=17 lr=0.0003
+EPOCH independent__width64 seed=17 10: val=88.346 best=88.346
+EPOCH independent__width64 seed=17 20: val=89.724 best=89.724
+EPOCH independent__width64 seed=17 30: val=90.476 best=90.852
+DONE independent__width64 seed=17 lr=0.0003 val=90.852 epoch=26 train=7.7s
+START independent__width64 seed=29 lr=0.0003
+EPOCH independent__width64 seed=29 10: val=88.095 best=88.095
+EPOCH independent__width64 seed=29 20: val=89.599 best=89.850
+EPOCH independent__width64 seed=29 30: val=90.226 best=90.852
+DONE independent__width64 seed=29 lr=0.0003 val=90.852 epoch=28 train=8.0s
+START independent__width64 seed=43 lr=0.0003
+EPOCH independent__width64 seed=43 10: val=88.471 best=88.596
+EPOCH independent__width64 seed=43 20: val=90.100 best=90.100
+EPOCH independent__width64 seed=43 30: val=89.599 best=90.476
+DONE independent__width64 seed=43 lr=0.0003 val=90.476 epoch=24 train=7.3s
+START independent__width64 seed=71 lr=0.0003
+EPOCH independent__width64 seed=71 10: val=88.346 best=88.972
+EPOCH independent__width64 seed=71 20: val=89.975 best=89.975
+EPOCH independent__width64 seed=71 30: val=89.850 best=90.476
+DONE independent__width64 seed=71 lr=0.0003 val=90.476 epoch=21 train=6.6s
+START independent__width64 seed=101 lr=0.0003
+EPOCH independent__width64 seed=101 10: val=87.845 best=87.970
+EPOCH independent__width64 seed=101 20: val=89.599 best=89.599
+EPOCH independent__width64 seed=101 30: val=89.348 best=90.226
+DONE independent__width64 seed=101 lr=0.0003 val=90.226 epoch=25 train=7.5s
+START independent__width32 seed=17 lr=0.001
+EPOCH independent__width32 seed=17 10: val=89.599 best=89.599
+EPOCH independent__width32 seed=17 20: val=90.351 best=90.351
+EPOCH independent__width32 seed=17 30: val=88.847 best=90.351
+DONE independent__width32 seed=17 lr=0.001 val=90.351 epoch=20 train=5.3s
+START independent__width32 seed=17 lr=0.0003
+EPOCH independent__width32 seed=17 10: val=87.218 best=87.218
+EPOCH independent__width32 seed=17 20: val=89.098 best=89.098
+EPOCH independent__width32 seed=17 30: val=90.100 best=90.100
+EPOCH independent__width32 seed=17 40: val=89.850 best=90.351
+DONE independent__width32 seed=17 lr=0.0003 val=90.351 epoch=38 train=8.5s
+START independent__width32 seed=29 lr=0.0003
+EPOCH independent__width32 seed=29 10: val=87.970 best=87.970
+EPOCH independent__width32 seed=29 20: val=88.722 best=89.223
+EPOCH independent__width32 seed=29 30: val=89.599 best=89.975
+EPOCH independent__width32 seed=29 40: val=88.972 best=90.226
+DONE independent__width32 seed=29 lr=0.0003 val=90.226 epoch=34 train=7.8s
+START independent__width32 seed=43 lr=0.0003
+EPOCH independent__width32 seed=43 10: val=87.719 best=87.845
+EPOCH independent__width32 seed=43 20: val=89.098 best=89.223
+EPOCH independent__width32 seed=43 30: val=89.850 best=90.226
+EPOCH independent__width32 seed=43 40: val=90.602 best=90.727
+EPOCH independent__width32 seed=43 50: val=90.727 best=91.103
+DONE independent__width32 seed=43 lr=0.0003 val=91.103 epoch=44 train=9.5s
+START independent__width32 seed=71 lr=0.0003
+EPOCH independent__width32 seed=71 10: val=87.594 best=87.594
+EPOCH independent__width32 seed=71 20: val=89.223 best=89.223
+EPOCH independent__width32 seed=71 30: val=89.724 best=90.100
+EPOCH independent__width32 seed=71 40: val=90.476 best=90.476
+EPOCH independent__width32 seed=71 50: val=90.226 best=90.476
+DONE independent__width32 seed=71 lr=0.0003 val=90.476 epoch=40 train=8.8s
+START independent__width32 seed=101 lr=0.0003
+EPOCH independent__width32 seed=101 10: val=88.596 best=88.596
+EPOCH independent__width32 seed=101 20: val=89.348 best=89.599
+EPOCH independent__width32 seed=101 30: val=90.226 best=90.226
+EPOCH independent__width32 seed=101 40: val=90.100 best=90.351
+DONE independent__width32 seed=101 lr=0.0003 val=90.351 epoch=33 train=7.6s
+START independent__dropout30 seed=17 lr=0.001
+EPOCH independent__dropout30 seed=17 10: val=89.223 best=89.474
+EPOCH independent__dropout30 seed=17 20: val=90.977 best=90.977
+EPOCH independent__dropout30 seed=17 30: val=90.476 best=91.228
+EPOCH independent__dropout30 seed=17 40: val=90.852 best=91.479
+DONE independent__dropout30 seed=17 lr=0.001 val=91.479 epoch=32 train=11.3s
+START independent__dropout30 seed=17 lr=0.0003
+EPOCH independent__dropout30 seed=17 10: val=88.596 best=88.596
+EPOCH independent__dropout30 seed=17 20: val=90.351 best=90.351
+EPOCH independent__dropout30 seed=17 30: val=89.599 best=90.351
+DONE independent__dropout30 seed=17 lr=0.0003 val=90.351 epoch=20 train=8.0s
+START independent__dropout30 seed=29 lr=0.001
+EPOCH independent__dropout30 seed=29 10: val=89.474 best=89.474
+EPOCH independent__dropout30 seed=29 20: val=89.098 best=89.975
+DONE independent__dropout30 seed=29 lr=0.001 val=89.975 epoch=17 train=7.2s
+START independent__dropout30 seed=43 lr=0.001
+EPOCH independent__dropout30 seed=43 10: val=89.098 best=89.348
+EPOCH independent__dropout30 seed=43 20: val=89.474 best=90.351
+DONE independent__dropout30 seed=43 lr=0.001 val=90.351 epoch=15 train=7.1s
+START independent__dropout30 seed=71 lr=0.001
+EPOCH independent__dropout30 seed=71 10: val=89.599 best=89.599
+EPOCH independent__dropout30 seed=71 20: val=89.724 best=90.351
+DONE independent__dropout30 seed=71 lr=0.001 val=90.351 epoch=13 train=6.2s
+START independent__dropout30 seed=101 lr=0.001
+EPOCH independent__dropout30 seed=101 10: val=89.850 best=89.850
+EPOCH independent__dropout30 seed=101 20: val=89.975 best=90.727
+DONE independent__dropout30 seed=101 lr=0.001 val=90.727 epoch=18 train=7.6s
+START independent__decay01 seed=17 lr=0.001
+EPOCH independent__decay01 seed=17 10: val=89.724 best=89.724
+EPOCH independent__decay01 seed=17 20: val=89.850 best=90.100
+DONE independent__decay01 seed=17 lr=0.001 val=90.100 epoch=13 train=6.2s
+START independent__decay01 seed=17 lr=0.0003
+EPOCH independent__decay01 seed=17 10: val=88.596 best=88.596
+EPOCH independent__decay01 seed=17 20: val=89.474 best=90.226
+DONE independent__decay01 seed=17 lr=0.0003 val=90.226 epoch=19 train=7.7s
+START independent__decay01 seed=29 lr=0.0003
+EPOCH independent__decay01 seed=29 10: val=88.221 best=88.596
+EPOCH independent__decay01 seed=29 20: val=89.098 best=89.724
+EPOCH independent__decay01 seed=29 30: val=89.098 best=89.850
+DONE independent__decay01 seed=29 lr=0.0003 val=89.850 epoch=21 train=8.4s
+START independent__decay01 seed=43 lr=0.0003
+EPOCH independent__decay01 seed=43 10: val=88.722 best=88.972
+EPOCH independent__decay01 seed=43 20: val=89.474 best=89.975
+EPOCH independent__decay01 seed=43 30: val=89.474 best=90.476
+EPOCH independent__decay01 seed=43 40: val=89.474 best=90.602
+DONE independent__decay01 seed=43 lr=0.0003 val=90.602 epoch=34 train=11.7s
+START independent__decay01 seed=71 lr=0.0003
+EPOCH independent__decay01 seed=71 10: val=88.471 best=88.847
+EPOCH independent__decay01 seed=71 20: val=89.850 best=90.226
+DONE independent__decay01 seed=71 lr=0.0003 val=90.226 epoch=19 train=7.9s
+START independent__decay01 seed=101 lr=0.0003
+EPOCH independent__decay01 seed=101 10: val=88.471 best=88.596
+EPOCH independent__decay01 seed=101 20: val=89.599 best=90.226
+DONE independent__decay01 seed=101 lr=0.0003 val=90.226 epoch=18 train=7.5s
+START attention__baseline seed=17 lr=0.001
+EPOCH attention__baseline seed=17 10: val=90.727 best=91.353
+DONE attention__baseline seed=17 lr=0.001 val=91.353 epoch=7 train=11.8s
+START attention__baseline seed=17 lr=0.0003
+EPOCH attention__baseline seed=17 10: val=91.479 best=91.479
+EPOCH attention__baseline seed=17 20: val=91.103 best=91.729
+DONE attention__baseline seed=17 lr=0.0003 val=91.729 epoch=13 train=15.3s
+START attention__baseline seed=29 lr=0.0003
+EPOCH attention__baseline seed=29 10: val=91.228 best=91.228
+EPOCH attention__baseline seed=29 20: val=90.977 best=91.353
+DONE attention__baseline seed=29 lr=0.0003 val=91.353 epoch=11 train=14.0s
+START attention__baseline seed=43 lr=0.0003
+EPOCH attention__baseline seed=43 10: val=90.351 best=90.602
+EPOCH attention__baseline seed=43 20: val=91.103 best=91.980
+DONE attention__baseline seed=43 lr=0.0003 val=91.980 epoch=16 train=17.7s
+START attention__baseline seed=71 lr=0.0003
+EPOCH attention__baseline seed=71 10: val=90.351 best=90.351
+EPOCH attention__baseline seed=71 20: val=91.228 best=91.729
+DONE attention__baseline seed=71 lr=0.0003 val=91.729 epoch=14 train=16.5s
+START attention__baseline seed=101 lr=0.0003
+EPOCH attention__baseline seed=101 10: val=91.479 best=91.479
+EPOCH attention__baseline seed=101 20: val=92.105 best=92.732
+DONE attention__baseline seed=101 lr=0.0003 val=92.732 epoch=18 train=19.2s
+START attention__width64 seed=17 lr=0.001
+EPOCH attention__width64 seed=17 10: val=90.727 best=91.353
+DONE attention__width64 seed=17 lr=0.001 val=91.353 epoch=9 train=8.4s
+START attention__width64 seed=17 lr=0.0003
+EPOCH attention__width64 seed=17 10: val=89.850 best=90.351
+EPOCH attention__width64 seed=17 20: val=90.977 best=91.228
+DONE attention__width64 seed=17 lr=0.0003 val=91.228 epoch=13 train=10.1s
+START attention__width64 seed=29 lr=0.001
+EPOCH attention__width64 seed=29 10: val=90.602 best=90.602
+EPOCH attention__width64 seed=29 20: val=89.850 best=90.977
+DONE attention__width64 seed=29 lr=0.001 val=90.977 epoch=11 train=9.1s
+START attention__width64 seed=43 lr=0.001
+EPOCH attention__width64 seed=43 10: val=91.479 best=91.855
+DONE attention__width64 seed=43 lr=0.001 val=91.855 epoch=9 train=8.4s
+START attention__width64 seed=71 lr=0.001
+EPOCH attention__width64 seed=71 10: val=89.975 best=90.977
+EPOCH attention__width64 seed=71 20: val=90.476 best=91.479
+EPOCH attention__width64 seed=71 30: val=90.852 best=91.855
+DONE attention__width64 seed=71 lr=0.001 val=91.855 epoch=21 train=13.7s
+START attention__width64 seed=101 lr=0.001
+EPOCH attention__width64 seed=101 10: val=91.729 best=91.729
+EPOCH attention__width64 seed=101 20: val=91.353 best=92.105
+EPOCH attention__width64 seed=101 30: val=91.479 best=92.231
+DONE attention__width64 seed=101 lr=0.001 val=92.231 epoch=22 train=14.1s
+START attention__width32 seed=17 lr=0.001
+EPOCH attention__width32 seed=17 10: val=90.351 best=90.476
+EPOCH attention__width32 seed=17 20: val=90.226 best=90.727
+EPOCH attention__width32 seed=17 30: val=90.602 best=90.977
+EPOCH attention__width32 seed=17 40: val=90.476 best=91.228
+DONE attention__width32 seed=17 lr=0.001 val=91.228 epoch=33 train=13.7s
+START attention__width32 seed=17 lr=0.0003
+EPOCH attention__width32 seed=17 10: val=89.724 best=89.724
+EPOCH attention__width32 seed=17 20: val=91.103 best=91.353
+EPOCH attention__width32 seed=17 30: val=90.351 best=91.604
+DONE attention__width32 seed=17 lr=0.0003 val=91.604 epoch=25 train=11.5s
+START attention__width32 seed=29 lr=0.0003
+EPOCH attention__width32 seed=29 10: val=88.596 best=88.722
+EPOCH attention__width32 seed=29 20: val=90.977 best=91.103
+DONE attention__width32 seed=29 lr=0.0003 val=91.103 epoch=18 train=9.3s
+START attention__width32 seed=43 lr=0.0003
+EPOCH attention__width32 seed=43 10: val=89.474 best=89.474
+EPOCH attention__width32 seed=43 20: val=90.476 best=90.727
+DONE attention__width32 seed=43 lr=0.0003 val=90.727 epoch=18 train=9.1s
+START attention__width32 seed=71 lr=0.0003
+EPOCH attention__width32 seed=71 10: val=89.724 best=89.724
+EPOCH attention__width32 seed=71 20: val=91.479 best=91.479
+EPOCH attention__width32 seed=71 30: val=91.103 best=91.604
+DONE attention__width32 seed=71 lr=0.0003 val=91.604 epoch=23 train=10.5s
+START attention__width32 seed=101 lr=0.0003
+EPOCH attention__width32 seed=101 10: val=90.476 best=90.476
+EPOCH attention__width32 seed=101 20: val=90.977 best=91.855
+DONE attention__width32 seed=101 lr=0.0003 val=91.855 epoch=19 train=9.4s
+START attention__dropout30 seed=17 lr=0.001
+EPOCH attention__dropout30 seed=17 10: val=90.476 best=90.476
+EPOCH attention__dropout30 seed=17 20: val=91.479 best=91.604
+DONE attention__dropout30 seed=17 lr=0.001 val=91.604 epoch=18 train=18.7s
+START attention__dropout30 seed=17 lr=0.0003
+EPOCH attention__dropout30 seed=17 10: val=89.474 best=89.474
+EPOCH attention__dropout30 seed=17 20: val=90.977 best=91.103
+EPOCH attention__dropout30 seed=17 30: val=90.727 best=91.980
+EPOCH attention__dropout30 seed=17 40: val=91.353 best=92.356
+DONE attention__dropout30 seed=17 lr=0.0003 val=92.356 epoch=35 train=30.2s
+START attention__dropout30 seed=29 lr=0.0003
+EPOCH attention__dropout30 seed=29 10: val=90.602 best=90.602
+EPOCH attention__dropout30 seed=29 20: val=91.228 best=91.228
+EPOCH attention__dropout30 seed=29 30: val=90.977 best=91.353
+DONE attention__dropout30 seed=29 lr=0.0003 val=91.353 epoch=24 train=22.9s
+START attention__dropout30 seed=43 lr=0.0003
+EPOCH attention__dropout30 seed=43 10: val=90.226 best=90.226
+EPOCH attention__dropout30 seed=43 20: val=90.852 best=90.852
+EPOCH attention__dropout30 seed=43 30: val=90.476 best=91.604
+DONE attention__dropout30 seed=43 lr=0.0003 val=91.604 epoch=23 train=22.4s
+START attention__dropout30 seed=71 lr=0.0003
+EPOCH attention__dropout30 seed=71 10: val=89.975 best=89.975
+EPOCH attention__dropout30 seed=71 20: val=90.852 best=91.228
+DONE attention__dropout30 seed=71 lr=0.0003 val=91.228 epoch=17 train=18.3s
+START attention__dropout30 seed=101 lr=0.0003
+EPOCH attention__dropout30 seed=101 10: val=89.724 best=89.724
+EPOCH attention__dropout30 seed=101 20: val=91.228 best=91.855
+DONE attention__dropout30 seed=101 lr=0.0003 val=91.855 epoch=18 train=18.9s
+START attention__decay01 seed=17 lr=0.001
+EPOCH attention__decay01 seed=17 10: val=90.852 best=91.353
+DONE attention__decay01 seed=17 lr=0.001 val=91.353 epoch=7 train=11.6s
+START attention__decay01 seed=17 lr=0.0003
+EPOCH attention__decay01 seed=17 10: val=91.479 best=91.479
+EPOCH attention__decay01 seed=17 20: val=91.103 best=91.729
+DONE attention__decay01 seed=17 lr=0.0003 val=91.729 epoch=13 train=15.5s
+START attention__decay01 seed=29 lr=0.0003
+EPOCH attention__decay01 seed=29 10: val=91.228 best=91.228
+EPOCH attention__decay01 seed=29 20: val=90.977 best=91.353
+DONE attention__decay01 seed=29 lr=0.0003 val=91.353 epoch=11 train=14.2s
+START attention__decay01 seed=43 lr=0.0003
+EPOCH attention__decay01 seed=43 10: val=90.351 best=90.602
+EPOCH attention__decay01 seed=43 20: val=91.103 best=91.980
+DONE attention__decay01 seed=43 lr=0.0003 val=91.980 epoch=16 train=17.6s
+START attention__decay01 seed=71 lr=0.0003
+EPOCH attention__decay01 seed=71 10: val=90.351 best=90.351
+EPOCH attention__decay01 seed=71 20: val=91.228 best=91.729
+DONE attention__decay01 seed=71 lr=0.0003 val=91.729 epoch=14 train=16.4s
+START attention__decay01 seed=101 lr=0.0003
+EPOCH attention__decay01 seed=101 10: val=91.479 best=91.479
+EPOCH attention__decay01 seed=101 20: val=92.105 best=92.732
+DONE attention__decay01 seed=101 lr=0.0003 val=92.732 epoch=18 train=18.9s
+TRAINING COMPLETE: 60 runs, 50 selected

@@ -1,0 +1,9 @@
+{
+  "independent": 0.0003,
+  "attention": 0.0003,
+  "finetune": 0.0003,
+  "residual_self": 0.0003,
+  "residual_context": 0.0003,
+  "residual_gated": 0.0003,
+  "residual_joint": 0.001
+}

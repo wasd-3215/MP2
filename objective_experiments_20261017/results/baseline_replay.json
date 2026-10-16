@@ -1,0 +1,82 @@
+[
+  {
+    "model": "independent",
+    "seed": 17,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 90.22556390977444,
+    "new_accuracy": 90.22556390977444
+  },
+  {
+    "model": "independent",
+    "seed": 29,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 89.84962406015038,
+    "new_accuracy": 89.84962406015038
+  },
+  {
+    "model": "independent",
+    "seed": 43,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 90.6015037593985,
+    "new_accuracy": 90.6015037593985
+  },
+  {
+    "model": "independent",
+    "seed": 71,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 90.22556390977444,
+    "new_accuracy": 90.22556390977444
+  },
+  {
+    "model": "independent",
+    "seed": 101,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 90.22556390977444,
+    "new_accuracy": 90.22556390977444
+  },
+  {
+    "model": "attention",
+    "seed": 17,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 91.72932330827068,
+    "new_accuracy": 91.72932330827068
+  },
+  {
+    "model": "attention",
+    "seed": 29,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 91.35338345864662,
+    "new_accuracy": 91.35338345864662
+  },
+  {
+    "model": "attention",
+    "seed": 43,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 91.97994987468671,
+    "new_accuracy": 91.97994987468671
+  },
+  {
+    "model": "attention",
+    "seed": 71,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 91.72932330827068,
+    "new_accuracy": 91.72932330827068
+  },
+  {
+    "model": "attention",
+    "seed": 101,
+    "same_learning_rate": true,
+    "identical_predictions": true,
+    "previous_accuracy": 92.73182957393483,
+    "new_accuracy": 92.73182957393483
+  }
+]

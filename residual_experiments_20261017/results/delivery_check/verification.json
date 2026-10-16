@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "model": "attention",
+  "validation_accuracy": 91.72932330827068,
+  "official_prediction_and_scoring_wall_seconds": 4.745949000003748,
+  "bundle_hashes_match": true,
+  "reordered_new_ids_13_questions": true,
+  "single_question": true,
+  "native_integer_output": true,
+  "protected_files_checked": 2130,
+  "protected_changes": [],
+  "training_source_changes": [],
+  "all_seed17_models_new_ids_reordered_and_single_question": [
+    "independent",
+    "attention",
+    "finetune",
+    "residual_self",
+    "residual_context",
+    "residual_gated",
+    "residual_joint"
+  ]
+}
