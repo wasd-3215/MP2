@@ -1,0 +1,27 @@
+{
+  "always_first": {
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 624,
+    "n": 798,
+    "accuracy": 78.19548872180451,
+    "scoring_seconds": 0.06075780000537634
+  },
+  "answer_majority": {
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 688,
+    "n": 798,
+    "accuracy": 86.2155388471178,
+    "scoring_seconds": 0.06116540002403781
+  },
+  "random_seed17": {
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 594,
+    "n": 798,
+    "accuracy": 74.43609022556392,
+    "scoring_seconds": 0.06298239997704513
+  },
+  "uniform_random_expectation_percent": 75.68922424316406
+}
