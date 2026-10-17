@@ -1,0 +1,98 @@
+[
+  {
+    "a": "consistency_single_five_seed_mean",
+    "b": "s2_single_five_seed_mean",
+    "subgroup": "one_correct",
+    "n": 117,
+    "a_accuracy_diagnostic": 51.62393569946289,
+    "b_accuracy_diagnostic": 61.36751937866211,
+    "delta_pp": -9.74358987604451,
+    "ci95_pp": [
+      -15.384615347999283,
+      -4.273504477280836
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  },
+  {
+    "a": "consistency_single_five_seed_mean",
+    "b": "s2_single_five_seed_mean",
+    "subgroup": "multiple_valid_answer_groups",
+    "n": 355,
+    "a_accuracy_diagnostic": 82.30986022949219,
+    "b_accuracy_diagnostic": 81.01408386230469,
+    "delta_pp": 1.295774537073055,
+    "ci95_pp": [
+      -1.3521127931668726,
+      3.943661917473228
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  },
+  {
+    "a": "consistency_single_five_seed_mean",
+    "b": "s2_single_five_seed_mean",
+    "subgroup": "unique_plurality_wrong",
+    "n": 60,
+    "a_accuracy_diagnostic": 36.333335876464844,
+    "b_accuracy_diagnostic": 59.33333206176758,
+    "delta_pp": -23.000000044703484,
+    "ci95_pp": [
+      -31.33333335320155,
+      -15.666666552424429
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  },
+  {
+    "a": "consistency_5",
+    "b": "s2_5",
+    "subgroup": "one_correct",
+    "n": 117,
+    "a_accuracy_diagnostic": 53.84615707397461,
+    "b_accuracy_diagnostic": 64.10256958007812,
+    "delta_pp": -10.256410256410255,
+    "ci95_pp": [
+      -17.094017094017094,
+      -3.418803418803419
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  },
+  {
+    "a": "consistency_5",
+    "b": "s2_5",
+    "subgroup": "multiple_valid_answer_groups",
+    "n": 355,
+    "a_accuracy_diagnostic": 83.66197204589844,
+    "b_accuracy_diagnostic": 82.81690216064453,
+    "delta_pp": 0.8450704225352111,
+    "ci95_pp": [
+      -2.535211267605634,
+      4.225352112676056
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  },
+  {
+    "a": "consistency_5",
+    "b": "s2_5",
+    "subgroup": "unique_plurality_wrong",
+    "n": 60,
+    "a_accuracy_diagnostic": 40.0,
+    "b_accuracy_diagnostic": 61.66666793823242,
+    "delta_pp": -21.666666666666668,
+    "ci95_pp": [
+      -31.666666666666664,
+      -11.666666666666666
+    ],
+    "post_hoc": true,
+    "selection_changed": false,
+    "multiplicity_corrected": false
+  }
+]

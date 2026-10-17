@@ -1,0 +1,17 @@
+{
+  "policy": "Use only30 main runs. Highest five-seed sum of official correct counts, ties lower parameters then protocol order. Export fixed seed17 single model, no ensemble.",
+  "model": "attention",
+  "variant": "s2_before_keep_norm_after",
+  "seed": 17,
+  "learning_rate": 0.0003,
+  "source_run": "results\\runs\\attention__s2_before_keep_norm_after\\lr_0p0003\\seed_17",
+  "validation_accuracy": 91.8546365914787,
+  "five_seed_mean_accuracy": 92.30576441102758,
+  "test_evaluated": false,
+  "sensitivity_used_for_selection": false,
+  "bundle_sha256": {
+    "config.json": "9e9d98d440364f5c8699b31b3ccd2de3d9b52402ce61b180d1eda430f04a1bfc",
+    "preprocessing.npz": "0447f96edff1584112e4c09b276cebd9cc9a898fe1fa11867f84497caa84c43e",
+    "weights.npz": "332d924ba3bce3cee6fe8e44236be2074123eff1ff52818f1b11cb95c4e3fdd4"
+  }
+}

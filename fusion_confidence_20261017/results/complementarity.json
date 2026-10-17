@@ -1,0 +1,65 @@
+[
+  {
+    "model": "s2_seed17",
+    "model_correct": 724,
+    "vote_correct": 688,
+    "vote_only_correct": 36,
+    "model_only_correct": 72,
+    "both_wrong": 38,
+    "oracle_either_correct_diagnostic": 760
+  },
+  {
+    "model": "s2_5",
+    "model_correct": 735,
+    "vote_correct": 688,
+    "vote_only_correct": 30,
+    "model_only_correct": 77,
+    "both_wrong": 33,
+    "oracle_either_correct_diagnostic": 765
+  },
+  {
+    "model": "heterogeneous_15",
+    "model_correct": 732,
+    "vote_correct": 688,
+    "vote_only_correct": 31,
+    "model_only_correct": 75,
+    "both_wrong": 35,
+    "oracle_either_correct_diagnostic": 763
+  },
+  {
+    "model": "consistency_5",
+    "model_correct": 740,
+    "vote_correct": 688,
+    "vote_only_correct": 12,
+    "model_only_correct": 64,
+    "both_wrong": 46,
+    "oracle_either_correct_diagnostic": 752
+  },
+  {
+    "model": "s2_seed17 versus s2_5",
+    "model_correct": 724,
+    "vote_correct": 735,
+    "vote_only_correct": 16,
+    "model_only_correct": 5,
+    "both_wrong": 58,
+    "oracle_either_correct_diagnostic": 740
+  },
+  {
+    "model": "s2_5 versus heterogeneous_15",
+    "model_correct": 735,
+    "vote_correct": 732,
+    "vote_only_correct": 4,
+    "model_only_correct": 7,
+    "both_wrong": 59,
+    "oracle_either_correct_diagnostic": 739
+  },
+  {
+    "model": "s2_5 versus consistency_5",
+    "model_correct": 735,
+    "vote_correct": 740,
+    "vote_only_correct": 21,
+    "model_only_correct": 16,
+    "both_wrong": 42,
+    "oracle_either_correct_diagnostic": 756
+  }
+]

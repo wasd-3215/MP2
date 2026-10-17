@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:37:13) [MSC v.1942 64 bit (AMD64)]",
+  "executable": "D:\\anaconda\\envs\\mp1\\python.exe",
+  "numpy": "2.5.3",
+  "torch": "2.7.1+cpu",
+  "cpu": "AMD Ryzen 7 4800U with Radeon Graphics         ",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch_threads": 4,
+  "interop_threads": 1,
+  "device": "cpu",
+  "started_local": "2026-10-17 14:48:09"
+}

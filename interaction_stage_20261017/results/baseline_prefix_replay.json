@@ -1,0 +1,62 @@
+[
+  {
+    "seed": 17,
+    "learning_rate": 0.0003,
+    "prefix_epochs_checked": 23,
+    "prefix_matches": true,
+    "old_best_accuracy": 91.72932330827068,
+    "full60_best_accuracy": 91.72932330827068,
+    "old_best_epoch": 13,
+    "full60_best_epoch": 13
+  },
+  {
+    "seed": 29,
+    "learning_rate": 0.0003,
+    "prefix_epochs_checked": 21,
+    "prefix_matches": true,
+    "old_best_accuracy": 91.35338345864662,
+    "full60_best_accuracy": 91.35338345864662,
+    "old_best_epoch": 11,
+    "full60_best_epoch": 11
+  },
+  {
+    "seed": 43,
+    "learning_rate": 0.0003,
+    "prefix_epochs_checked": 26,
+    "prefix_matches": true,
+    "old_best_accuracy": 91.97994987468671,
+    "full60_best_accuracy": 91.97994987468671,
+    "old_best_epoch": 16,
+    "full60_best_epoch": 16
+  },
+  {
+    "seed": 71,
+    "learning_rate": 0.0003,
+    "prefix_epochs_checked": 24,
+    "prefix_matches": true,
+    "old_best_accuracy": 91.72932330827068,
+    "full60_best_accuracy": 91.72932330827068,
+    "old_best_epoch": 14,
+    "full60_best_epoch": 14
+  },
+  {
+    "seed": 101,
+    "learning_rate": 0.0003,
+    "prefix_epochs_checked": 28,
+    "prefix_matches": true,
+    "old_best_accuracy": 92.73182957393483,
+    "full60_best_accuracy": 92.73182957393483,
+    "old_best_epoch": 18,
+    "full60_best_epoch": 18
+  },
+  {
+    "seed": 17,
+    "learning_rate": 0.001,
+    "prefix_epochs_checked": 17,
+    "prefix_matches": true,
+    "old_best_accuracy": 91.35338345864662,
+    "full60_best_accuracy": 91.35338345864662,
+    "old_best_epoch": 7,
+    "full60_best_epoch": 7
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "members": [
+    "..\\..\\runs\\s2\\seed_17\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "answer_gap",
+    "threshold": 0.0,
+    "min_support": 2
+  }
+}

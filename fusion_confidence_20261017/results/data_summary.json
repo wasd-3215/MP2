@@ -1,0 +1,34 @@
+{
+  "train": 4755,
+  "validation": 798,
+  "train_correct_histogram": [
+    0,
+    711,
+    732,
+    1070,
+    2242
+  ],
+  "validation_correct_histogram": [
+    0,
+    117,
+    123,
+    179,
+    379
+  ],
+  "test_read": false,
+  "feature_names": [
+    "valid_parse",
+    "own_answer_support",
+    "distinct_valid_answers",
+    "in_largest_group",
+    "largest_group_tied",
+    "support_gap",
+    "log_characters",
+    "log_words",
+    "log_lines",
+    "log_operators",
+    "log_math_markers",
+    "log_final_markers",
+    "log_confident_words"
+  ]
+}

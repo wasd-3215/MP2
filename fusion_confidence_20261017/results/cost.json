@@ -1,0 +1,12 @@
+{
+  "full_runs": 40,
+  "oof_runs": 100,
+  "epochs_per_run": 20,
+  "optimizer_steps": 45200,
+  "training_wall_seconds_sum": 1072.384928500047,
+  "all_fits_accounted": 140,
+  "official_validation_pipelines": 79,
+  "threshold_candidates_total": 176,
+  "calibration_models": 12,
+  "test_used": false
+}

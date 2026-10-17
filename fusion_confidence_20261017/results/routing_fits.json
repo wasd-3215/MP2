@@ -1,0 +1,482 @@
+[
+  {
+    "name": "s2_seed17_route_candidate_gap_support2",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 1.834503855442371e-05,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 1.834503855442371e-05,
+      "correct_diagnostic": 4290,
+      "answer_changes": 5,
+      "repairs": 3,
+      "harms": 2
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_seed17_route_candidate_gap_support3",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 0.00045382790922565697,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.00045382790922565697,
+      "correct_diagnostic": 4291,
+      "answer_changes": 12,
+      "repairs": 7,
+      "harms": 5
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.002506265664160401
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support2",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4296,
+      "answer_changes": 7,
+      "repairs": 7,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.005012531328320802
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support3",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4291,
+      "answer_changes": 2,
+      "repairs": 2,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0037593984962406013
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support2",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4296,
+      "answer_changes": 7,
+      "repairs": 7,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.005012531328320802
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support3",
+    "base": "s2_seed17",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4291,
+      "answer_changes": 2,
+      "repairs": 2,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4289,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0037593984962406013
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support2",
+    "base": "s2_5",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4304,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support3",
+    "base": "s2_5",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 9.549932818953e-05,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 9.549932818953e-05,
+      "correct_diagnostic": 4305,
+      "answer_changes": 1,
+      "repairs": 1,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_5_route_answer_gap_support2",
+    "base": "s2_5",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4307,
+      "answer_changes": 3,
+      "repairs": 3,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "s2_5_route_answer_gap_support3",
+    "base": "s2_5",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4305,
+      "answer_changes": 1,
+      "repairs": 1,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "s2_5_route_model_agreement_support2",
+    "base": "s2_5",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.8,
+      "correct_diagnostic": 4336,
+      "answer_changes": 141,
+      "repairs": 81,
+      "harms": 49
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.02506265664160401
+  },
+  {
+    "name": "s2_5_route_model_agreement_support3",
+    "base": "s2_5",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.8,
+      "correct_diagnostic": 4320,
+      "answer_changes": 46,
+      "repairs": 31,
+      "harms": 15
+    },
+    "oof_base_correct_diagnostic": 4304,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.010025062656641603
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support2",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4280,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support3",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 0.012642885587949348,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.012642885587949348,
+      "correct_diagnostic": 4284,
+      "answer_changes": 36,
+      "repairs": 20,
+      "harms": 16
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.008771929824561403
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support2",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.0,
+      "correct_diagnostic": 4284,
+      "answer_changes": 4,
+      "repairs": 4,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support3",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.15669764155960061,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.15669764155960061,
+      "correct_diagnostic": 4286,
+      "answer_changes": 106,
+      "repairs": 56,
+      "harms": 50
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.015037593984962405
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support2",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8666666666666667,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": 0.8666666666666667,
+      "correct_diagnostic": 4314,
+      "answer_changes": 170,
+      "repairs": 96,
+      "harms": 62
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.016290726817042606
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support3",
+    "base": "heterogeneous_15",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8666666666666667,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": 0.8666666666666667,
+      "correct_diagnostic": 4304,
+      "answer_changes": 64,
+      "repairs": 44,
+      "harms": 20
+    },
+    "oof_base_correct_diagnostic": 4280,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.007518796992481203
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support2",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support3",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support2",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support3",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": null,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support2",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": null,
+      "min_support": 2
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support3",
+    "base": "consistency_5",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": null,
+      "min_support": 3
+    },
+    "oof_selected": {
+      "threshold": null,
+      "correct_diagnostic": 4340,
+      "answer_changes": 0,
+      "repairs": 0,
+      "harms": 0
+    },
+    "oof_base_correct_diagnostic": 4340,
+    "n_oof": 4755,
+    "selection_labels": "train OOF only",
+    "validation_fallback_fraction": 0.0
+  }
+]

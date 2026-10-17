@@ -1,0 +1,23 @@
+{
+  "train_questions": 4755,
+  "validation_questions": 798,
+  "train_correct_candidate_histogram": [
+    0,
+    711,
+    732,
+    1070,
+    2242
+  ],
+  "validation_correct_candidate_histogram": [
+    0,
+    117,
+    123,
+    179,
+    379
+  ],
+  "train_mixed": 2513,
+  "validation_mixed": 419,
+  "draws_per_budget_epoch": 4755,
+  "updates_per_budget_epoch": 19,
+  "test_used_for_training_selection_or_scoring": false
+}

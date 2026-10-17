@@ -1,0 +1,44 @@
+[
+  {
+    "variant": "s0_after",
+    "mean_changed_choices": 0.0,
+    "mean_fixed_errors": 0.0,
+    "mean_new_errors": 0.0,
+    "mean_net_fixes": 0.0
+  },
+  {
+    "variant": "s1_before",
+    "mean_changed_choices": 194.8,
+    "mean_fixed_errors": 13.2,
+    "mean_new_errors": 14.0,
+    "mean_net_fixes": -0.8
+  },
+  {
+    "variant": "s2_before_keep_norm_after",
+    "mean_changed_choices": 117.6,
+    "mean_fixed_errors": 9.4,
+    "mean_new_errors": 6.2,
+    "mean_net_fixes": 3.2
+  },
+  {
+    "variant": "s3_before_before",
+    "mean_changed_choices": 184.2,
+    "mean_fixed_errors": 12.6,
+    "mean_new_errors": 14.0,
+    "mean_net_fixes": -1.4
+  },
+  {
+    "variant": "s4_before_after",
+    "mean_changed_choices": 193.4,
+    "mean_fixed_errors": 14.2,
+    "mean_new_errors": 14.0,
+    "mean_net_fixes": 0.2
+  },
+  {
+    "variant": "s5_after_after",
+    "mean_changed_choices": 147.6,
+    "mean_fixed_errors": 10.8,
+    "mean_new_errors": 11.0,
+    "mean_net_fixes": -0.2
+  }
+]

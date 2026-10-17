@@ -1,0 +1,15 @@
+{
+  "members": [
+    "..\\..\\runs\\s2_consistency\\seed_17\\full\\bundle",
+    "..\\..\\runs\\s2_consistency\\seed_29\\full\\bundle",
+    "..\\..\\runs\\s2_consistency\\seed_43\\full\\bundle",
+    "..\\..\\runs\\s2_consistency\\seed_71\\full\\bundle",
+    "..\\..\\runs\\s2_consistency\\seed_101\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "answer_gap",
+    "threshold": 2.0,
+    "min_support": 2
+  }
+}

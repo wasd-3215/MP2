@@ -1,0 +1,1354 @@
+[
+  {
+    "name": "s2_seed17_route_candidate_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 1.834503855442371e-05,
+        "correct_diagnostic": 4290,
+        "answer_changes": 5,
+        "repairs": 3,
+        "harms": 2
+      },
+      {
+        "threshold": 5.0236803637804264e-05,
+        "correct_diagnostic": 4289,
+        "answer_changes": 8,
+        "repairs": 4,
+        "harms": 4
+      },
+      {
+        "threshold": 0.0001793021952791074,
+        "correct_diagnostic": 4286,
+        "answer_changes": 19,
+        "repairs": 8,
+        "harms": 11
+      },
+      {
+        "threshold": 0.00045382790922565697,
+        "correct_diagnostic": 4283,
+        "answer_changes": 38,
+        "repairs": 16,
+        "harms": 22
+      },
+      {
+        "threshold": 0.0012176322611428428,
+        "correct_diagnostic": 4280,
+        "answer_changes": 57,
+        "repairs": 23,
+        "harms": 32
+      },
+      {
+        "threshold": 0.0031748720727757807,
+        "correct_diagnostic": 4279,
+        "answer_changes": 86,
+        "repairs": 37,
+        "harms": 47
+      },
+      {
+        "threshold": 0.04836591292996967,
+        "correct_diagnostic": 4262,
+        "answer_changes": 200,
+        "repairs": 82,
+        "harms": 109
+      },
+      {
+        "threshold": 0.9985416117927809,
+        "correct_diagnostic": 4215,
+        "answer_changes": 384,
+        "repairs": 144,
+        "harms": 218
+      }
+    ]
+  },
+  {
+    "name": "s2_seed17_route_candidate_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 1.834503855442371e-05,
+        "correct_diagnostic": 4290,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 5.0236803637804264e-05,
+        "correct_diagnostic": 4290,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0001793021952791074,
+        "correct_diagnostic": 4290,
+        "answer_changes": 5,
+        "repairs": 3,
+        "harms": 2
+      },
+      {
+        "threshold": 0.00045382790922565697,
+        "correct_diagnostic": 4291,
+        "answer_changes": 12,
+        "repairs": 7,
+        "harms": 5
+      },
+      {
+        "threshold": 0.0012176322611428428,
+        "correct_diagnostic": 4289,
+        "answer_changes": 20,
+        "repairs": 10,
+        "harms": 10
+      },
+      {
+        "threshold": 0.0031748720727757807,
+        "correct_diagnostic": 4287,
+        "answer_changes": 30,
+        "repairs": 14,
+        "harms": 16
+      },
+      {
+        "threshold": 0.04836591292996967,
+        "correct_diagnostic": 4275,
+        "answer_changes": 80,
+        "repairs": 33,
+        "harms": 47
+      },
+      {
+        "threshold": 0.9985416117927809,
+        "correct_diagnostic": 4260,
+        "answer_changes": 145,
+        "repairs": 58,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4296,
+        "answer_changes": 7,
+        "repairs": 7,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0018847468657753564,
+        "correct_diagnostic": 4285,
+        "answer_changes": 78,
+        "repairs": 36,
+        "harms": 40
+      },
+      {
+        "threshold": 0.010902859634009743,
+        "correct_diagnostic": 4276,
+        "answer_changes": 143,
+        "repairs": 62,
+        "harms": 75
+      },
+      {
+        "threshold": 0.10990546646399749,
+        "correct_diagnostic": 4254,
+        "answer_changes": 246,
+        "repairs": 100,
+        "harms": 135
+      },
+      {
+        "threshold": 0.46967389516645686,
+        "correct_diagnostic": 4240,
+        "answer_changes": 335,
+        "repairs": 134,
+        "harms": 183
+      },
+      {
+        "threshold": 0.9322778929328472,
+        "correct_diagnostic": 4223,
+        "answer_changes": 376,
+        "repairs": 144,
+        "harms": 210
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4215,
+        "answer_changes": 384,
+        "repairs": 144,
+        "harms": 218
+      }
+    ]
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4291,
+        "answer_changes": 2,
+        "repairs": 2,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0018847468657753564,
+        "correct_diagnostic": 4290,
+        "answer_changes": 27,
+        "repairs": 14,
+        "harms": 13
+      },
+      {
+        "threshold": 0.010902859634009743,
+        "correct_diagnostic": 4285,
+        "answer_changes": 50,
+        "repairs": 23,
+        "harms": 27
+      },
+      {
+        "threshold": 0.10990546646399749,
+        "correct_diagnostic": 4278,
+        "answer_changes": 99,
+        "repairs": 44,
+        "harms": 55
+      },
+      {
+        "threshold": 0.46967389516645686,
+        "correct_diagnostic": 4270,
+        "answer_changes": 127,
+        "repairs": 54,
+        "harms": 73
+      },
+      {
+        "threshold": 0.9322778929328472,
+        "correct_diagnostic": 4265,
+        "answer_changes": 140,
+        "repairs": 58,
+        "harms": 82
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4260,
+        "answer_changes": 145,
+        "repairs": 58,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4296,
+        "answer_changes": 7,
+        "repairs": 7,
+        "harms": 0
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4215,
+        "answer_changes": 384,
+        "repairs": 144,
+        "harms": 218
+      }
+    ]
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4289,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4291,
+        "answer_changes": 2,
+        "repairs": 2,
+        "harms": 0
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4260,
+        "answer_changes": 145,
+        "repairs": 58,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 3.533344818575923e-05,
+        "correct_diagnostic": 4302,
+        "answer_changes": 2,
+        "repairs": 0,
+        "harms": 2
+      },
+      {
+        "threshold": 9.549932818953e-05,
+        "correct_diagnostic": 4303,
+        "answer_changes": 5,
+        "repairs": 2,
+        "harms": 3
+      },
+      {
+        "threshold": 0.0003415917974635363,
+        "correct_diagnostic": 4302,
+        "answer_changes": 14,
+        "repairs": 6,
+        "harms": 8
+      },
+      {
+        "threshold": 0.0009788824959040322,
+        "correct_diagnostic": 4302,
+        "answer_changes": 26,
+        "repairs": 12,
+        "harms": 14
+      },
+      {
+        "threshold": 0.0024955887824353873,
+        "correct_diagnostic": 4295,
+        "answer_changes": 49,
+        "repairs": 19,
+        "harms": 28
+      },
+      {
+        "threshold": 0.006629555591532554,
+        "correct_diagnostic": 4295,
+        "answer_changes": 78,
+        "repairs": 32,
+        "harms": 41
+      },
+      {
+        "threshold": 0.0644518781385302,
+        "correct_diagnostic": 4279,
+        "answer_changes": 189,
+        "repairs": 77,
+        "harms": 102
+      },
+      {
+        "threshold": 0.9972404354468183,
+        "correct_diagnostic": 4226,
+        "answer_changes": 384,
+        "repairs": 142,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 3.533344818575923e-05,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 9.549932818953e-05,
+        "correct_diagnostic": 4305,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0003415917974635363,
+        "correct_diagnostic": 4305,
+        "answer_changes": 5,
+        "repairs": 3,
+        "harms": 2
+      },
+      {
+        "threshold": 0.0009788824959040322,
+        "correct_diagnostic": 4305,
+        "answer_changes": 11,
+        "repairs": 6,
+        "harms": 5
+      },
+      {
+        "threshold": 0.0024955887824353873,
+        "correct_diagnostic": 4303,
+        "answer_changes": 19,
+        "repairs": 9,
+        "harms": 10
+      },
+      {
+        "threshold": 0.006629555591532554,
+        "correct_diagnostic": 4304,
+        "answer_changes": 30,
+        "repairs": 15,
+        "harms": 15
+      },
+      {
+        "threshold": 0.0644518781385302,
+        "correct_diagnostic": 4296,
+        "answer_changes": 78,
+        "repairs": 35,
+        "harms": 43
+      },
+      {
+        "threshold": 0.9972404354468183,
+        "correct_diagnostic": 4277,
+        "answer_changes": 147,
+        "repairs": 60,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_answer_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4307,
+        "answer_changes": 3,
+        "repairs": 3,
+        "harms": 0
+      },
+      {
+        "threshold": 0.005031197818015066,
+        "correct_diagnostic": 4301,
+        "answer_changes": 72,
+        "repairs": 33,
+        "harms": 36
+      },
+      {
+        "threshold": 0.0262366516016599,
+        "correct_diagnostic": 4280,
+        "answer_changes": 141,
+        "repairs": 54,
+        "harms": 78
+      },
+      {
+        "threshold": 0.15256498011796565,
+        "correct_diagnostic": 4279,
+        "answer_changes": 259,
+        "repairs": 111,
+        "harms": 136
+      },
+      {
+        "threshold": 0.44501697333199347,
+        "correct_diagnostic": 4254,
+        "answer_changes": 337,
+        "repairs": 135,
+        "harms": 185
+      },
+      {
+        "threshold": 0.879739908047852,
+        "correct_diagnostic": 4233,
+        "answer_changes": 377,
+        "repairs": 142,
+        "harms": 213
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4226,
+        "answer_changes": 384,
+        "repairs": 142,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_answer_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4305,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.005031197818015066,
+        "correct_diagnostic": 4305,
+        "answer_changes": 27,
+        "repairs": 14,
+        "harms": 13
+      },
+      {
+        "threshold": 0.0262366516016599,
+        "correct_diagnostic": 4293,
+        "answer_changes": 61,
+        "repairs": 25,
+        "harms": 36
+      },
+      {
+        "threshold": 0.15256498011796565,
+        "correct_diagnostic": 4300,
+        "answer_changes": 102,
+        "repairs": 49,
+        "harms": 53
+      },
+      {
+        "threshold": 0.44501697333199347,
+        "correct_diagnostic": 4289,
+        "answer_changes": 129,
+        "repairs": 57,
+        "harms": 72
+      },
+      {
+        "threshold": 0.879739908047852,
+        "correct_diagnostic": 4281,
+        "answer_changes": 143,
+        "repairs": 60,
+        "harms": 83
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4277,
+        "answer_changes": 147,
+        "repairs": 60,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_model_agreement_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4307,
+        "answer_changes": 3,
+        "repairs": 3,
+        "harms": 0
+      },
+      {
+        "threshold": 0.8,
+        "correct_diagnostic": 4336,
+        "answer_changes": 141,
+        "repairs": 81,
+        "harms": 49
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4226,
+        "answer_changes": 384,
+        "repairs": 142,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "s2_5_route_model_agreement_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4304,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4305,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.8,
+        "correct_diagnostic": 4320,
+        "answer_changes": 46,
+        "repairs": 31,
+        "harms": 15
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4277,
+        "answer_changes": 147,
+        "repairs": 60,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 8.53093565125751e-05,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.00026630008204102666,
+        "correct_diagnostic": 4278,
+        "answer_changes": 4,
+        "repairs": 1,
+        "harms": 3
+      },
+      {
+        "threshold": 0.001060100312978407,
+        "correct_diagnostic": 4279,
+        "answer_changes": 13,
+        "repairs": 6,
+        "harms": 7
+      },
+      {
+        "threshold": 0.002678744050605575,
+        "correct_diagnostic": 4280,
+        "answer_changes": 28,
+        "repairs": 14,
+        "harms": 14
+      },
+      {
+        "threshold": 0.006244320690136873,
+        "correct_diagnostic": 4274,
+        "answer_changes": 53,
+        "repairs": 22,
+        "harms": 28
+      },
+      {
+        "threshold": 0.012642885587949348,
+        "correct_diagnostic": 4280,
+        "answer_changes": 83,
+        "repairs": 39,
+        "harms": 39
+      },
+      {
+        "threshold": 0.07245190576579102,
+        "correct_diagnostic": 4263,
+        "answer_changes": 188,
+        "repairs": 80,
+        "harms": 97
+      },
+      {
+        "threshold": 0.9552754186927195,
+        "correct_diagnostic": 4209,
+        "answer_changes": 391,
+        "repairs": 149,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 8.53093565125751e-05,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.00026630008204102666,
+        "correct_diagnostic": 4281,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.001060100312978407,
+        "correct_diagnostic": 4280,
+        "answer_changes": 6,
+        "repairs": 3,
+        "harms": 3
+      },
+      {
+        "threshold": 0.002678744050605575,
+        "correct_diagnostic": 4281,
+        "answer_changes": 11,
+        "repairs": 6,
+        "harms": 5
+      },
+      {
+        "threshold": 0.006244320690136873,
+        "correct_diagnostic": 4280,
+        "answer_changes": 22,
+        "repairs": 11,
+        "harms": 11
+      },
+      {
+        "threshold": 0.012642885587949348,
+        "correct_diagnostic": 4284,
+        "answer_changes": 36,
+        "repairs": 20,
+        "harms": 16
+      },
+      {
+        "threshold": 0.07245190576579102,
+        "correct_diagnostic": 4278,
+        "answer_changes": 80,
+        "repairs": 39,
+        "harms": 41
+      },
+      {
+        "threshold": 0.9552754186927195,
+        "correct_diagnostic": 4259,
+        "answer_changes": 153,
+        "repairs": 66,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4284,
+        "answer_changes": 4,
+        "repairs": 4,
+        "harms": 0
+      },
+      {
+        "threshold": 0.010549412602538544,
+        "correct_diagnostic": 4281,
+        "answer_changes": 73,
+        "repairs": 35,
+        "harms": 34
+      },
+      {
+        "threshold": 0.03670160919660568,
+        "correct_diagnostic": 4270,
+        "answer_changes": 143,
+        "repairs": 62,
+        "harms": 72
+      },
+      {
+        "threshold": 0.15669764155960061,
+        "correct_diagnostic": 4269,
+        "answer_changes": 265,
+        "repairs": 120,
+        "harms": 131
+      },
+      {
+        "threshold": 0.4080825864681029,
+        "correct_diagnostic": 4236,
+        "answer_changes": 344,
+        "repairs": 141,
+        "harms": 185
+      },
+      {
+        "threshold": 0.7805875977118449,
+        "correct_diagnostic": 4215,
+        "answer_changes": 385,
+        "repairs": 149,
+        "harms": 214
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4209,
+        "answer_changes": 391,
+        "repairs": 149,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4281,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.010549412602538544,
+        "correct_diagnostic": 4281,
+        "answer_changes": 29,
+        "repairs": 15,
+        "harms": 14
+      },
+      {
+        "threshold": 0.03670160919660568,
+        "correct_diagnostic": 4280,
+        "answer_changes": 62,
+        "repairs": 31,
+        "harms": 31
+      },
+      {
+        "threshold": 0.15669764155960061,
+        "correct_diagnostic": 4286,
+        "answer_changes": 106,
+        "repairs": 56,
+        "harms": 50
+      },
+      {
+        "threshold": 0.4080825864681029,
+        "correct_diagnostic": 4272,
+        "answer_changes": 134,
+        "repairs": 63,
+        "harms": 71
+      },
+      {
+        "threshold": 0.7805875977118449,
+        "correct_diagnostic": 4263,
+        "answer_changes": 149,
+        "repairs": 66,
+        "harms": 83
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4259,
+        "answer_changes": 153,
+        "repairs": 66,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4284,
+        "answer_changes": 4,
+        "repairs": 4,
+        "harms": 0
+      },
+      {
+        "threshold": 0.7333333333333333,
+        "correct_diagnostic": 4308,
+        "answer_changes": 112,
+        "repairs": 65,
+        "harms": 37
+      },
+      {
+        "threshold": 0.8666666666666667,
+        "correct_diagnostic": 4314,
+        "answer_changes": 170,
+        "repairs": 96,
+        "harms": 62
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4209,
+        "answer_changes": 391,
+        "repairs": 149,
+        "harms": 220
+      }
+    ]
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4280,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4281,
+        "answer_changes": 1,
+        "repairs": 1,
+        "harms": 0
+      },
+      {
+        "threshold": 0.7333333333333333,
+        "correct_diagnostic": 4300,
+        "answer_changes": 38,
+        "repairs": 29,
+        "harms": 9
+      },
+      {
+        "threshold": 0.8666666666666667,
+        "correct_diagnostic": 4304,
+        "answer_changes": 64,
+        "repairs": 44,
+        "harms": 20
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4259,
+        "answer_changes": 153,
+        "repairs": 66,
+        "harms": 87
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 7.338119564590518e-05,
+        "correct_diagnostic": 4340,
+        "answer_changes": 1,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.00017100961505276408,
+        "correct_diagnostic": 4339,
+        "answer_changes": 2,
+        "repairs": 0,
+        "harms": 1
+      },
+      {
+        "threshold": 0.00044680914731272116,
+        "correct_diagnostic": 4337,
+        "answer_changes": 4,
+        "repairs": 0,
+        "harms": 3
+      },
+      {
+        "threshold": 0.0008364422840112295,
+        "correct_diagnostic": 4337,
+        "answer_changes": 4,
+        "repairs": 0,
+        "harms": 3
+      },
+      {
+        "threshold": 0.0016499026248010475,
+        "correct_diagnostic": 4336,
+        "answer_changes": 7,
+        "repairs": 1,
+        "harms": 5
+      },
+      {
+        "threshold": 0.003388566451947961,
+        "correct_diagnostic": 4333,
+        "answer_changes": 12,
+        "repairs": 2,
+        "harms": 9
+      },
+      {
+        "threshold": 0.03938485609708148,
+        "correct_diagnostic": 4314,
+        "answer_changes": 46,
+        "repairs": 9,
+        "harms": 35
+      },
+      {
+        "threshold": 0.9994051324479173,
+        "correct_diagnostic": 4233,
+        "answer_changes": 178,
+        "repairs": 28,
+        "harms": 135
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 7.338119564590518e-05,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.00017100961505276408,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.00044680914731272116,
+        "correct_diagnostic": 4339,
+        "answer_changes": 1,
+        "repairs": 0,
+        "harms": 1
+      },
+      {
+        "threshold": 0.0008364422840112295,
+        "correct_diagnostic": 4339,
+        "answer_changes": 1,
+        "repairs": 0,
+        "harms": 1
+      },
+      {
+        "threshold": 0.0016499026248010475,
+        "correct_diagnostic": 4339,
+        "answer_changes": 3,
+        "repairs": 1,
+        "harms": 2
+      },
+      {
+        "threshold": 0.003388566451947961,
+        "correct_diagnostic": 4337,
+        "answer_changes": 5,
+        "repairs": 1,
+        "harms": 4
+      },
+      {
+        "threshold": 0.03938485609708148,
+        "correct_diagnostic": 4322,
+        "answer_changes": 20,
+        "repairs": 1,
+        "harms": 19
+      },
+      {
+        "threshold": 0.9994051324479173,
+        "correct_diagnostic": 4300,
+        "answer_changes": 52,
+        "repairs": 6,
+        "harms": 46
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 3.5270598412573406e-05,
+        "correct_diagnostic": 4340,
+        "answer_changes": 1,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0689313775315882,
+        "correct_diagnostic": 4309,
+        "answer_changes": 57,
+        "repairs": 12,
+        "harms": 43
+      },
+      {
+        "threshold": 0.1665356797184977,
+        "correct_diagnostic": 4286,
+        "answer_changes": 93,
+        "repairs": 17,
+        "harms": 71
+      },
+      {
+        "threshold": 0.41053532407244303,
+        "correct_diagnostic": 4264,
+        "answer_changes": 142,
+        "repairs": 27,
+        "harms": 103
+      },
+      {
+        "threshold": 0.7352451246359231,
+        "correct_diagnostic": 4243,
+        "answer_changes": 166,
+        "repairs": 28,
+        "harms": 125
+      },
+      {
+        "threshold": 0.9662610187089034,
+        "correct_diagnostic": 4235,
+        "answer_changes": 176,
+        "repairs": 28,
+        "harms": 133
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4233,
+        "answer_changes": 178,
+        "repairs": 28,
+        "harms": 135
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 3.5270598412573406e-05,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.0689313775315882,
+        "correct_diagnostic": 4320,
+        "answer_changes": 22,
+        "repairs": 1,
+        "harms": 21
+      },
+      {
+        "threshold": 0.1665356797184977,
+        "correct_diagnostic": 4316,
+        "answer_changes": 28,
+        "repairs": 2,
+        "harms": 26
+      },
+      {
+        "threshold": 0.41053532407244303,
+        "correct_diagnostic": 4313,
+        "answer_changes": 39,
+        "repairs": 6,
+        "harms": 33
+      },
+      {
+        "threshold": 0.7352451246359231,
+        "correct_diagnostic": 4306,
+        "answer_changes": 46,
+        "repairs": 6,
+        "harms": 40
+      },
+      {
+        "threshold": 0.9662610187089034,
+        "correct_diagnostic": 4302,
+        "answer_changes": 50,
+        "repairs": 6,
+        "harms": 44
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4300,
+        "answer_changes": 52,
+        "repairs": 6,
+        "harms": 46
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support2",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.2,
+        "correct_diagnostic": 4339,
+        "answer_changes": 1,
+        "repairs": 0,
+        "harms": 1
+      },
+      {
+        "threshold": 0.8,
+        "correct_diagnostic": 4301,
+        "answer_changes": 88,
+        "repairs": 20,
+        "harms": 59
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4233,
+        "answer_changes": 178,
+        "repairs": 28,
+        "harms": 135
+      }
+    ]
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support3",
+    "candidates": [
+      {
+        "threshold": null,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.2,
+        "correct_diagnostic": 4340,
+        "answer_changes": 0,
+        "repairs": 0,
+        "harms": 0
+      },
+      {
+        "threshold": 0.8,
+        "correct_diagnostic": 4326,
+        "answer_changes": 24,
+        "repairs": 5,
+        "harms": 19
+      },
+      {
+        "threshold": 1.0,
+        "correct_diagnostic": 4300,
+        "answer_changes": 52,
+        "repairs": 6,
+        "harms": 46
+      }
+    ]
+  }
+]

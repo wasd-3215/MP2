@@ -1,0 +1,18 @@
+{
+  "check_models.py": "3f8f24a85906c52cc1dacf72af4319affa1af93230af696d2c966d5c297be1e1",
+  "features.py": "2593c3c4d6dc1b2497592de724360e82d661a9fd2eb5af641a01172239ed5bad",
+  "measurements.py": "0e342b3719dd91f4cd2047925bdefca868accff2b49ad95b36a2043ed3065b4b",
+  "method.py": "3d34b8b2491226a8ca9952c9de251871fade14133d25acb5f0c9d7ddacd8655e",
+  "models.py": "e05deacd5367107e4fee564123e16fe83567f8dc5f2c0471c03b2907181e040e",
+  "protected_before.json": "edc47ec5d746ed4c34a8ed87c99b63a1c80aa472730dd551b8e2048480868b8c",
+  "protocol.json": "15777e596049ebc637b832564379c16ecf7fbe6f77468070eea0d6961724d4f4",
+  "README.md": "72e779717ff57d11bafccef582eb673923c33aa5b638fe1c6bd68bd8dff4001e",
+  "reference_models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+  "requirements.txt": "2fb948084567a185d5d0253a0da25b07f044690addc22937d340856d9776df8d",
+  "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+  "run_suite.py": "e57645f82a00b78af09ef6bdbefdeae177161c66d8bc7c8ca09c18bbb47a991d",
+  "summarize.py": "24148aa8b47abf4a4df31ec5b69fade483ce4a426807e7fde0b197fa7548fa01",
+  "support.py": "cd960091e6f1c0e6e0f6f31414f0f75f8004a0cf5ac7ed6c014b0d7fc6c649b0",
+  "training.log": "11d4bf541b4ff6679640eca10a95de8b9fbd6fb018802f1b0b5d3f73996f478d",
+  "verify_delivery.py": "bec0f8846baa132ac9a9c281286af5a6fc9f0004592238b68ed41fa025ce5c07"
+}

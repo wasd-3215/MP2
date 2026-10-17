@@ -1,0 +1,11 @@
+{
+  "reason": "Use float64 sigmoid to avoid accidental probability ties; no ensemble/routing validation evaluated yet.",
+  "hashes": {
+    "analyze.py": "a54dc52e11eeb14e97c3d74ad64ba648686655b817a3c4bb38940d8e73bc84af",
+    "decisions.py": "1bcd562910ca561c9e77917f0072d06c67b73a544962855b6c095093b5f14d39",
+    "method.py": "d5a5016d893ca1fbc68970c42aeee796ef3271a5edf8fecc66f885e9eb88e417",
+    "protocol.json": "3b4147767e9c5b187f0c548b431fc64bf06439c77fff06b146b3ead934ca0456",
+    "explicit_features.py": "f41c2f839790d5120f4990976ebbe448876e28e3ffa71d5fb0cc4f2e43ccc95d",
+    "scorers.py": "017458502f720d2fefb210c7ec6085e817165e2ff0ee713401c987bb9b8a7813"
+  }
+}

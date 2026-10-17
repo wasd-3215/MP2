@@ -1,0 +1,1892 @@
+[
+  {
+    "name": "s2_seed17",
+    "group": "single",
+    "variant": "s2",
+    "members": 1,
+    "correct": 724,
+    "accuracy": 90.72681704260651,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_seed29",
+    "group": "single",
+    "variant": "s2",
+    "members": 1,
+    "correct": 722,
+    "accuracy": 90.47619047619048,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_seed43",
+    "group": "single",
+    "variant": "s2",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_seed71",
+    "group": "single",
+    "variant": "s2",
+    "members": 1,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_seed101",
+    "group": "single",
+    "variant": "s2",
+    "members": 1,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s0_seed17",
+    "group": "single",
+    "variant": "s0",
+    "members": 1,
+    "correct": 730,
+    "accuracy": 91.47869674185463,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s0_seed29",
+    "group": "single",
+    "variant": "s0",
+    "members": 1,
+    "correct": 725,
+    "accuracy": 90.85213032581454,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s0_seed43",
+    "group": "single",
+    "variant": "s0",
+    "members": 1,
+    "correct": 730,
+    "accuracy": 91.47869674185463,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s0_seed71",
+    "group": "single",
+    "variant": "s0",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s0_seed101",
+    "group": "single",
+    "variant": "s0",
+    "members": 1,
+    "correct": 731,
+    "accuracy": 91.60401002506266,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099196,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "pool_seed17",
+    "group": "single",
+    "variant": "pool",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 600510,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "pool_seed29",
+    "group": "single",
+    "variant": "pool",
+    "members": 1,
+    "correct": 728,
+    "accuracy": 91.2280701754386,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 600510,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "pool_seed43",
+    "group": "single",
+    "variant": "pool",
+    "members": 1,
+    "correct": 726,
+    "accuracy": 90.97744360902256,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 600510,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "pool_seed71",
+    "group": "single",
+    "variant": "pool",
+    "members": 1,
+    "correct": 724,
+    "accuracy": 90.72681704260651,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 600510,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "pool_seed101",
+    "group": "single",
+    "variant": "pool",
+    "members": 1,
+    "correct": 731,
+    "accuracy": 91.60401002506266,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 600510,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_parse_seed17",
+    "group": "single",
+    "variant": "s2_parse",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 1,
+    "asset_bytes": 1099453,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_parse_seed29",
+    "group": "single",
+    "variant": "s2_parse",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": false,
+    "feature_dimensions": 1,
+    "asset_bytes": 1099453,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_parse_seed43",
+    "group": "single",
+    "variant": "s2_parse",
+    "members": 1,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": false,
+    "feature_dimensions": 1,
+    "asset_bytes": 1099453,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_parse_seed71",
+    "group": "single",
+    "variant": "s2_parse",
+    "members": 1,
+    "correct": 734,
+    "accuracy": 91.97994987468671,
+    "eligible": false,
+    "feature_dimensions": 1,
+    "asset_bytes": 1099453,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_parse_seed101",
+    "group": "single",
+    "variant": "s2_parse",
+    "members": 1,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": false,
+    "feature_dimensions": 1,
+    "asset_bytes": 1099453,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_consistency_seed17",
+    "group": "single",
+    "variant": "s2_consistency",
+    "members": 1,
+    "correct": 734,
+    "accuracy": 91.97994987468671,
+    "eligible": true,
+    "feature_dimensions": 6,
+    "asset_bytes": 1100739,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_consistency_seed29",
+    "group": "single",
+    "variant": "s2_consistency",
+    "members": 1,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": false,
+    "feature_dimensions": 6,
+    "asset_bytes": 1100739,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_consistency_seed43",
+    "group": "single",
+    "variant": "s2_consistency",
+    "members": 1,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": false,
+    "feature_dimensions": 6,
+    "asset_bytes": 1100739,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_consistency_seed71",
+    "group": "single",
+    "variant": "s2_consistency",
+    "members": 1,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": false,
+    "feature_dimensions": 6,
+    "asset_bytes": 1100739,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_consistency_seed101",
+    "group": "single",
+    "variant": "s2_consistency",
+    "members": 1,
+    "correct": 734,
+    "accuracy": 91.97994987468671,
+    "eligible": false,
+    "feature_dimensions": 6,
+    "asset_bytes": 1100739,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_style_seed17",
+    "group": "single",
+    "variant": "s2_style",
+    "members": 1,
+    "correct": 726,
+    "accuracy": 90.97744360902256,
+    "eligible": true,
+    "feature_dimensions": 8,
+    "asset_bytes": 1101245,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_style_seed29",
+    "group": "single",
+    "variant": "s2_style",
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": false,
+    "feature_dimensions": 8,
+    "asset_bytes": 1101245,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_style_seed43",
+    "group": "single",
+    "variant": "s2_style",
+    "members": 1,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": false,
+    "feature_dimensions": 8,
+    "asset_bytes": 1101245,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_style_seed71",
+    "group": "single",
+    "variant": "s2_style",
+    "members": 1,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": false,
+    "feature_dimensions": 8,
+    "asset_bytes": 1101245,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_style_seed101",
+    "group": "single",
+    "variant": "s2_style",
+    "members": 1,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": false,
+    "feature_dimensions": 8,
+    "asset_bytes": 1101245,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_style\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_all_seed17",
+    "group": "single",
+    "variant": "s2_all",
+    "members": 1,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": true,
+    "feature_dimensions": 13,
+    "asset_bytes": 1102523,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_all_seed29",
+    "group": "single",
+    "variant": "s2_all",
+    "members": 1,
+    "correct": 741,
+    "accuracy": 92.85714285714286,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 1102523,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_all_seed43",
+    "group": "single",
+    "variant": "s2_all",
+    "members": 1,
+    "correct": 737,
+    "accuracy": 92.35588972431077,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 1102523,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_all_seed71",
+    "group": "single",
+    "variant": "s2_all",
+    "members": 1,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 1102523,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_all_seed101",
+    "group": "single",
+    "variant": "s2_all",
+    "members": 1,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 1102523,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_all\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "features_only_seed17",
+    "group": "single",
+    "variant": "features_only",
+    "members": 1,
+    "correct": 689,
+    "accuracy": 86.34085213032581,
+    "eligible": true,
+    "feature_dimensions": 13,
+    "asset_bytes": 11334,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_17\\full\\validation-score.json"
+  },
+  {
+    "name": "features_only_seed29",
+    "group": "single",
+    "variant": "features_only",
+    "members": 1,
+    "correct": 684,
+    "accuracy": 85.71428571428571,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 11334,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_29\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_29\\full\\validation-score.json"
+  },
+  {
+    "name": "features_only_seed43",
+    "group": "single",
+    "variant": "features_only",
+    "members": 1,
+    "correct": 688,
+    "accuracy": 86.2155388471178,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 11334,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_43\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_43\\full\\validation-score.json"
+  },
+  {
+    "name": "features_only_seed71",
+    "group": "single",
+    "variant": "features_only",
+    "members": 1,
+    "correct": 687,
+    "accuracy": 86.09022556390977,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 11334,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_71\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_71\\full\\validation-score.json"
+  },
+  {
+    "name": "features_only_seed101",
+    "group": "single",
+    "variant": "features_only",
+    "members": 1,
+    "correct": 687,
+    "accuracy": 86.09022556390977,
+    "eligible": false,
+    "feature_dimensions": 13,
+    "asset_bytes": 11334,
+    "base": null,
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\features_only\\seed_101\\full\\validation-score.json"
+  },
+  {
+    "name": "s2_5",
+    "group": "ensemble",
+    "variant": null,
+    "members": 5,
+    "correct": 735,
+    "accuracy": 92.10526315789474,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496298,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5\\validation-score.json",
+    "repairs": 16,
+    "harms": 5,
+    "answer_changes": 22
+  },
+  {
+    "name": "s2_5_answer_vote",
+    "group": "ensemble",
+    "variant": null,
+    "members": 5,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496299,
+    "base": "s2_seed17",
+    "rule": "model_answer_vote",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_answer_vote\\validation-score.json",
+    "repairs": 17,
+    "harms": 5,
+    "answer_changes": 23
+  },
+  {
+    "name": "heterogeneous_15",
+    "group": "ensemble",
+    "variant": null,
+    "members": 15,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995320,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15\\validation-score.json",
+    "repairs": 16,
+    "harms": 8,
+    "answer_changes": 27
+  },
+  {
+    "name": "heterogeneous_15_answer_vote",
+    "group": "ensemble",
+    "variant": null,
+    "members": 15,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995321,
+    "base": "s2_seed17",
+    "rule": "model_answer_vote",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_answer_vote\\validation-score.json",
+    "repairs": 18,
+    "harms": 6,
+    "answer_changes": 27
+  },
+  {
+    "name": "consistency_5",
+    "group": "ensemble",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504073,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5\\validation-score.json",
+    "repairs": 30,
+    "harms": 14,
+    "answer_changes": 46
+  },
+  {
+    "name": "consistency_5_answer_vote",
+    "group": "ensemble",
+    "variant": null,
+    "members": 5,
+    "correct": 737,
+    "accuracy": 92.35588972431077,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504074,
+    "base": "s2_seed17",
+    "rule": "model_answer_vote",
+    "routing": null,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_answer_vote\\validation-score.json",
+    "repairs": 30,
+    "harms": 17,
+    "answer_changes": 50
+  },
+  {
+    "name": "s2_seed17_route_candidate_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 724,
+    "accuracy": 90.72681704260651,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099418,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 1.834503855442371e-05,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_candidate_gap_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_seed17_route_candidate_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 724,
+    "accuracy": 90.72681704260651,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099419,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 0.00045382790922565697,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_candidate_gap_support3\\validation-score.json",
+    "repairs": 1,
+    "harms": 1,
+    "answer_changes": 2,
+    "fallback_fraction": 0.002506265664160401
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099397,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_answer_gap_support2\\validation-score.json",
+    "repairs": 3,
+    "harms": 0,
+    "answer_changes": 4,
+    "fallback_fraction": 0.005012531328320802
+  },
+  {
+    "name": "s2_seed17_route_answer_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099397,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_answer_gap_support3\\validation-score.json",
+    "repairs": 3,
+    "harms": 0,
+    "answer_changes": 3,
+    "fallback_fraction": 0.0037593984962406013
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099402,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_model_agreement_support2\\validation-score.json",
+    "repairs": 3,
+    "harms": 0,
+    "answer_changes": 4,
+    "fallback_fraction": 0.005012531328320802
+  },
+  {
+    "name": "s2_seed17_route_model_agreement_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 1,
+    "correct": 727,
+    "accuracy": 91.10275689223057,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099402,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_route_model_agreement_support3\\validation-score.json",
+    "repairs": 3,
+    "harms": 0,
+    "answer_changes": 3,
+    "fallback_fraction": 0.0037593984962406013
+  },
+  {
+    "name": "s2_seed17_always_support2",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 1,
+    "correct": 710,
+    "accuracy": 88.97243107769424,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099397,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_always_support2\\validation-score.json",
+    "repairs": 21,
+    "harms": 35,
+    "answer_changes": 62
+  },
+  {
+    "name": "s2_seed17_always_support3",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 1,
+    "correct": 721,
+    "accuracy": 90.35087719298245,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 1099397,
+    "base": "s2_seed17",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_seed17_always_support3\\validation-score.json",
+    "repairs": 12,
+    "harms": 15,
+    "answer_changes": 27
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 735,
+    "accuracy": 92.10526315789474,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496378,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_candidate_gap_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_5_route_candidate_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 735,
+    "accuracy": 92.10526315789474,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496392,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 9.549932818953e-05,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_candidate_gap_support3\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "s2_5_route_answer_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496374,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_answer_gap_support2\\validation-score.json",
+    "repairs": 1,
+    "harms": 0,
+    "answer_changes": 1,
+    "fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "s2_5_route_answer_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496374,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_answer_gap_support3\\validation-score.json",
+    "repairs": 1,
+    "harms": 0,
+    "answer_changes": 1,
+    "fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "s2_5_route_model_agreement_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496379,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_model_agreement_support2\\validation-score.json",
+    "repairs": 8,
+    "harms": 11,
+    "answer_changes": 20,
+    "fallback_fraction": 0.02506265664160401
+  },
+  {
+    "name": "s2_5_route_model_agreement_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 739,
+    "accuracy": 92.60651629072682,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496379,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_model_agreement_support3\\validation-score.json",
+    "repairs": 6,
+    "harms": 2,
+    "answer_changes": 8,
+    "fallback_fraction": 0.010025062656641603
+  },
+  {
+    "name": "s2_5_always_support2",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 5,
+    "correct": 713,
+    "accuracy": 89.3483709273183,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496374,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_always_support2\\validation-score.json",
+    "repairs": 15,
+    "harms": 37,
+    "answer_changes": 56
+  },
+  {
+    "name": "s2_5_always_support3",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 5,
+    "correct": 729,
+    "accuracy": 91.35338345864662,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 5496374,
+    "base": "s2_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_always_support3\\validation-score.json",
+    "repairs": 8,
+    "harms": 14,
+    "answer_changes": 22
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995400,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_candidate_gap_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "heterogeneous_15_route_candidate_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995416,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": 0.012642885587949348,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_candidate_gap_support3\\validation-score.json",
+    "repairs": 4,
+    "harms": 3,
+    "answer_changes": 7,
+    "fallback_fraction": 0.008771929824561403
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 733,
+    "accuracy": 91.8546365914787,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995396,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_answer_gap_support2\\validation-score.json",
+    "repairs": 1,
+    "harms": 0,
+    "answer_changes": 1,
+    "fallback_fraction": 0.0012531328320802004
+  },
+  {
+    "name": "heterogeneous_15_route_answer_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 730,
+    "accuracy": 91.47869674185463,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995412,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 0.15669764155960061,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_answer_gap_support3\\validation-score.json",
+    "repairs": 5,
+    "harms": 7,
+    "answer_changes": 12,
+    "fallback_fraction": 0.015037593984962405
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 730,
+    "accuracy": 91.47869674185463,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995416,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8666666666666667,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_model_agreement_support2\\validation-score.json",
+    "repairs": 5,
+    "harms": 7,
+    "answer_changes": 13,
+    "fallback_fraction": 0.016290726817042606
+  },
+  {
+    "name": "heterogeneous_15_route_model_agreement_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 15,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": true,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995416,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8666666666666667,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_route_model_agreement_support3\\validation-score.json",
+    "repairs": 3,
+    "harms": 3,
+    "answer_changes": 6,
+    "fallback_fraction": 0.007518796992481203
+  },
+  {
+    "name": "heterogeneous_15_always_support2",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 15,
+    "correct": 709,
+    "accuracy": 88.84711779448621,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995396,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_always_support2\\validation-score.json",
+    "repairs": 13,
+    "harms": 36,
+    "answer_changes": 53
+  },
+  {
+    "name": "heterogeneous_15_always_support3",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 15,
+    "correct": 724,
+    "accuracy": 90.72681704260651,
+    "eligible": false,
+    "feature_dimensions": 0,
+    "asset_bytes": 13995396,
+    "base": "heterogeneous_15",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s0\\seed_101\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\pool\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\heterogeneous_15_always_support3\\validation-score.json",
+    "repairs": 6,
+    "harms": 14,
+    "answer_changes": 20
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504153,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_candidate_gap_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_candidate_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504153,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "candidate_gap",
+      "threshold": null,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_candidate_gap_support3\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504150,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": null,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_answer_gap_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_answer_gap_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504150,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": null,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_answer_gap_support3\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support2",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504155,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": null,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_model_agreement_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_route_model_agreement_support3",
+    "group": "routing",
+    "variant": null,
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "eligible": true,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504155,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": null,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_route_model_agreement_support3\\validation-score.json",
+    "repairs": 0,
+    "harms": 0,
+    "answer_changes": 0,
+    "fallback_fraction": 0.0
+  },
+  {
+    "name": "consistency_5_always_support2",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 5,
+    "correct": 716,
+    "accuracy": 89.72431077694236,
+    "eligible": false,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504149,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 2
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_always_support2\\validation-score.json",
+    "repairs": 0,
+    "harms": 24,
+    "answer_changes": 29
+  },
+  {
+    "name": "consistency_5_always_support3",
+    "group": "unconditional_vote",
+    "variant": null,
+    "members": 5,
+    "correct": 732,
+    "accuracy": 91.72932330827068,
+    "eligible": false,
+    "feature_dimensions": 30,
+    "asset_bytes": 5504149,
+    "base": "consistency_5",
+    "rule": "mean_probability",
+    "routing": {
+      "signal": "answer_gap",
+      "threshold": 2.0,
+      "min_support": 3
+    },
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5_always_support3\\validation-score.json",
+    "repairs": 0,
+    "harms": 8,
+    "answer_changes": 8
+  }
+]

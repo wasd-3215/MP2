@@ -1,0 +1,1062 @@
+[
+  {
+    "base": "s2_seed17",
+    "signal": "candidate_gap",
+    "fit": {
+      "mean": 0.07263936669166747,
+      "std": 0.16440613568369827,
+      "intercept": 2.247274272630347,
+      "slope": -0.24686670290532706,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.0838381672869372,
+      "ece_10_equal_width": 0.02053731656372685,
+      "bins": [
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 17,
+          "mean_probability": 0.7566326505528022,
+          "accuracy_diagnostic": 0.8823529411764706
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 133,
+          "mean_probability": 0.8732963029859301,
+          "accuracy_diagnostic": 0.8270676691729323
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 648,
+          "mean_probability": 0.911877892931909,
+          "accuracy_diagnostic": 0.9243827160493827
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.15206268023852879,
+      "ece_10_equal_width": 0.07909969348713827,
+      "bins": [
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 14,
+          "mean_probability": 0.7518050951353971,
+          "accuracy_diagnostic": 0.8571428571428571
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 111,
+          "mean_probability": 0.872002970364404,
+          "accuracy_diagnostic": 0.7927927927927928
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 294,
+          "mean_probability": 0.911141881607339,
+          "accuracy_diagnostic": 0.8333333333333334
+        }
+      ]
+    }
+  },
+  {
+    "base": "s2_seed17",
+    "signal": "answer_gap",
+    "fit": {
+      "mean": 0.7028278718269777,
+      "std": 0.4080741961695014,
+      "intercept": 3.302894166021717,
+      "slope": 1.6097230927338728,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.06690573389769094,
+      "ece_10_equal_width": 0.011821931856233689,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 142,
+          "mean_probability": 0.6493613495640524,
+          "accuracy_diagnostic": 0.6690140845070423
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 55,
+          "mean_probability": 0.7498822616658847,
+          "accuracy_diagnostic": 0.7636363636363637
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 46,
+          "mean_probability": 0.8451300391335335,
+          "accuracy_diagnostic": 0.8043478260869565
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 555,
+          "mean_probability": 0.9837644038723404,
+          "accuracy_diagnostic": 0.990990990990991
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.12730959476892573,
+      "ece_10_equal_width": 0.013556230422731031,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 142,
+          "mean_probability": 0.6493613495640524,
+          "accuracy_diagnostic": 0.6690140845070423
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 55,
+          "mean_probability": 0.7498822616658847,
+          "accuracy_diagnostic": 0.7636363636363637
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 46,
+          "mean_probability": 0.8451300391335335,
+          "accuracy_diagnostic": 0.8043478260869565
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 176,
+          "mean_probability": 0.9730506521403458,
+          "accuracy_diagnostic": 0.9715909090909091
+        }
+      ]
+    }
+  },
+  {
+    "base": "s2_seed17",
+    "signal": "model_agreement",
+    "fit": {
+      "mean": 0.9957939011566772,
+      "std": 0.06471790769055359,
+      "intercept": 2.2096881723859227,
+      "slope": 0.8278101981573116,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.07899387063906263,
+      "ece_10_equal_width": 0.0071361241128771674,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 5,
+          "mean_probability": 2.6787067347506555e-05,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 793,
+          "mean_probability": 0.9058077010003288,
+          "accuracy_diagnostic": 0.9129886506935687
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.14242135815427756,
+      "ece_10_equal_width": 0.07160983806556756,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 5,
+          "mean_probability": 2.6787067347506555e-05,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 414,
+          "mean_probability": 0.9058077010003287,
+          "accuracy_diagnostic": 0.8333333333333334
+        }
+      ]
+    }
+  },
+  {
+    "base": "s2_5",
+    "signal": "candidate_gap",
+    "fit": {
+      "mean": 0.0704738238495325,
+      "std": 0.14342301709046693,
+      "intercept": 2.2843347827140854,
+      "slope": -0.24953962453499112,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.07249158325910232,
+      "ece_10_equal_width": 0.018495512402718153,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 1,
+          "mean_probability": 0.6858302683819553,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 13,
+          "mean_probability": 0.7516892982313406,
+          "accuracy_diagnostic": 0.8461538461538461
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 142,
+          "mean_probability": 0.8704651016361399,
+          "accuracy_diagnostic": 0.8802816901408451
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 642,
+          "mean_probability": 0.9151844331178717,
+          "accuracy_diagnostic": 0.9330218068535826
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.13119700973068585,
+      "ece_10_equal_width": 0.05205453872657,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 1,
+          "mean_probability": 0.6858302683819553,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 13,
+          "mean_probability": 0.7516892982313406,
+          "accuracy_diagnostic": 0.8461538461538461
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 119,
+          "mean_probability": 0.8696061947818547,
+          "accuracy_diagnostic": 0.8571428571428571
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 286,
+          "mean_probability": 0.9140344236224391,
+          "accuracy_diagnostic": 0.8496503496503497
+        }
+      ]
+    }
+  },
+  {
+    "base": "s2_5",
+    "signal": "answer_gap",
+    "fit": {
+      "mean": 0.6986757277885961,
+      "std": 0.39977035383222354,
+      "intercept": 3.534143605029417,
+      "slope": 1.769977888832286,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.05862660294476059,
+      "ece_10_equal_width": 0.012926609584960426,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 118,
+          "mean_probability": 0.6398907208312853,
+          "accuracy_diagnostic": 0.6949152542372882
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 50,
+          "mean_probability": 0.7505296937332934,
+          "accuracy_diagnostic": 0.74
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 57,
+          "mean_probability": 0.8455754443211568,
+          "accuracy_diagnostic": 0.8421052631578947
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 573,
+          "mean_probability": 0.98586692060398,
+          "accuracy_diagnostic": 0.9912739965095986
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.11160376051095376,
+      "ece_10_equal_width": 0.017719251362874992,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 118,
+          "mean_probability": 0.6398907208312853,
+          "accuracy_diagnostic": 0.6949152542372882
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 50,
+          "mean_probability": 0.7505296937332934,
+          "accuracy_diagnostic": 0.74
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 57,
+          "mean_probability": 0.8455754443211568,
+          "accuracy_diagnostic": 0.8421052631578947
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 194,
+          "mean_probability": 0.9731588331640945,
+          "accuracy_diagnostic": 0.9742268041237113
+        }
+      ]
+    }
+  },
+  {
+    "base": "s2_5",
+    "signal": "model_agreement",
+    "fit": {
+      "mean": 0.968117770767613,
+      "std": 0.11721142521763812,
+      "intercept": 2.4710208162035547,
+      "slope": 0.7758050372567508,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.06616982555122274,
+      "ece_10_equal_width": 0.028617843328539838,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 2,
+          "mean_probability": 0.019137038616239967,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.2,
+          "high": 0.3,
+          "n": 7,
+          "mean_probability": 0.21597699964774036,
+          "accuracy_diagnostic": 0.5714285714285714
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 24,
+          "mean_probability": 0.50862511814649,
+          "accuracy_diagnostic": 0.6666666666666666
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 39,
+          "mean_probability": 0.7954790715152673,
+          "accuracy_diagnostic": 0.6410256410256411
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 726,
+          "mean_probability": 0.935958783825211,
+          "accuracy_diagnostic": 0.9504132231404959
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.12231297533882916,
+      "ece_10_equal_width": 0.06234084491796229,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 2,
+          "mean_probability": 0.019137038616239967,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.2,
+          "high": 0.3,
+          "n": 7,
+          "mean_probability": 0.21597699964774036,
+          "accuracy_diagnostic": 0.5714285714285714
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 24,
+          "mean_probability": 0.50862511814649,
+          "accuracy_diagnostic": 0.6666666666666666
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 39,
+          "mean_probability": 0.7954790715152673,
+          "accuracy_diagnostic": 0.6410256410256411
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 347,
+          "mean_probability": 0.935958783825211,
+          "accuracy_diagnostic": 0.8962536023054755
+        }
+      ]
+    }
+  },
+  {
+    "base": "heterogeneous_15",
+    "signal": "candidate_gap",
+    "fit": {
+      "mean": 0.07084458575989605,
+      "std": 0.13106726536173696,
+      "intercept": 2.221827518487815,
+      "slope": -0.2299356012955782,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.07582151977402224,
+      "ece_10_equal_width": 0.019980262089070028,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 1,
+          "mean_probability": 0.6917210176401242,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 15,
+          "mean_probability": 0.7634864124587575,
+          "accuracy_diagnostic": 0.9333333333333333
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 185,
+          "mean_probability": 0.8744203377738192,
+          "accuracy_diagnostic": 0.8756756756756757
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 597,
+          "mean_probability": 0.9104311778819503,
+          "accuracy_diagnostic": 0.931323283082077
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.13668491650026984,
+      "ece_10_equal_width": 0.060327747811864584,
+      "bins": [
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 1,
+          "mean_probability": 0.6917210176401242,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 15,
+          "mean_probability": 0.7634864124587575,
+          "accuracy_diagnostic": 0.9333333333333333
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 151,
+          "mean_probability": 0.8735277268538636,
+          "accuracy_diagnostic": 0.847682119205298
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 252,
+          "mean_probability": 0.9092667251884091,
+          "accuracy_diagnostic": 0.8373015873015873
+        }
+      ]
+    }
+  },
+  {
+    "base": "heterogeneous_15",
+    "signal": "answer_gap",
+    "fit": {
+      "mean": 0.6893954344067278,
+      "std": 0.3979676608141523,
+      "intercept": 3.6943817698785146,
+      "slope": 1.971152136105692,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.05900342979007644,
+      "ece_10_equal_width": 0.012276272014458581,
+      "bins": [
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 51,
+          "mean_probability": 0.5804706633597518,
+          "accuracy_diagnostic": 0.5686274509803921
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 69,
+          "mean_probability": 0.6503173680820301,
+          "accuracy_diagnostic": 0.7101449275362319
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 57,
+          "mean_probability": 0.749484169086699,
+          "accuracy_diagnostic": 0.8070175438596491
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 57,
+          "mean_probability": 0.8556036053634376,
+          "accuracy_diagnostic": 0.8596491228070176
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 564,
+          "mean_probability": 0.9883787894015807,
+          "accuracy_diagnostic": 0.9911347517730497
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.11234856861688107,
+      "ece_10_equal_width": 0.02076436082841303,
+      "bins": [
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 51,
+          "mean_probability": 0.5804706633597518,
+          "accuracy_diagnostic": 0.5686274509803921
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 69,
+          "mean_probability": 0.6503173680820301,
+          "accuracy_diagnostic": 0.7101449275362319
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 57,
+          "mean_probability": 0.749484169086699,
+          "accuracy_diagnostic": 0.8070175438596491
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 57,
+          "mean_probability": 0.8556036053634376,
+          "accuracy_diagnostic": 0.8596491228070176
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 185,
+          "mean_probability": 0.9754495399841924,
+          "accuracy_diagnostic": 0.972972972972973
+        }
+      ]
+    }
+  },
+  {
+    "base": "heterogeneous_15",
+    "signal": "model_agreement",
+    "fit": {
+      "mean": 0.9650473186119874,
+      "std": 0.1174322961536695,
+      "intercept": 2.4745964919016465,
+      "slope": 0.9524590074728686,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.06490209789306972,
+      "ece_10_equal_width": 0.030188241047603013,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 4,
+          "mean_probability": 0.013423233288446242,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.1,
+          "high": 0.2,
+          "n": 7,
+          "mean_probability": 0.14501276696000157,
+          "accuracy_diagnostic": 0.42857142857142855
+        },
+        {
+          "low": 0.2,
+          "high": 0.3,
+          "n": 6,
+          "mean_probability": 0.26368372488893815,
+          "accuracy_diagnostic": 0.3333333333333333
+        },
+        {
+          "low": 0.3,
+          "high": 0.4,
+          "n": 7,
+          "mean_probability": 0.380790209787464,
+          "accuracy_diagnostic": 0.8571428571428571
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 9,
+          "mean_probability": 0.5136261987410146,
+          "accuracy_diagnostic": 0.6666666666666666
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 15,
+          "mean_probability": 0.6445647365025795,
+          "accuracy_diagnostic": 0.7333333333333333
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 9,
+          "mean_probability": 0.7569345357176629,
+          "accuracy_diagnostic": 0.5555555555555556
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 15,
+          "mean_probability": 0.8424617266006478,
+          "accuracy_diagnostic": 0.5333333333333333
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 726,
+          "mean_probability": 0.9391997014805256,
+          "accuracy_diagnostic": 0.9517906336088154
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.12039184017775215,
+      "ece_10_equal_width": 0.06780078706815404,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 4,
+          "mean_probability": 0.013423233288446242,
+          "accuracy_diagnostic": 0.0
+        },
+        {
+          "low": 0.1,
+          "high": 0.2,
+          "n": 7,
+          "mean_probability": 0.14501276696000157,
+          "accuracy_diagnostic": 0.42857142857142855
+        },
+        {
+          "low": 0.2,
+          "high": 0.3,
+          "n": 6,
+          "mean_probability": 0.26368372488893815,
+          "accuracy_diagnostic": 0.3333333333333333
+        },
+        {
+          "low": 0.3,
+          "high": 0.4,
+          "n": 7,
+          "mean_probability": 0.380790209787464,
+          "accuracy_diagnostic": 0.8571428571428571
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 9,
+          "mean_probability": 0.5136261987410146,
+          "accuracy_diagnostic": 0.6666666666666666
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 15,
+          "mean_probability": 0.6445647365025795,
+          "accuracy_diagnostic": 0.7333333333333333
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 9,
+          "mean_probability": 0.7569345357176629,
+          "accuracy_diagnostic": 0.5555555555555556
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 15,
+          "mean_probability": 0.8424617266006478,
+          "accuracy_diagnostic": 0.5333333333333333
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 347,
+          "mean_probability": 0.937923141644691,
+          "accuracy_diagnostic": 0.899135446685879
+        }
+      ]
+    }
+  },
+  {
+    "base": "consistency_5",
+    "signal": "candidate_gap",
+    "fit": {
+      "mean": 0.06822762753338348,
+      "std": 0.1601251122892157,
+      "intercept": 2.40978726657986,
+      "slope": -0.35576828440301506,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.06673890891562474,
+      "ece_10_equal_width": 0.03111793564599139,
+      "bins": [
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 1,
+          "mean_probability": 0.5941783397369295,
+          "accuracy_diagnostic": 1.0
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 13,
+          "mean_probability": 0.6425685265923664,
+          "accuracy_diagnostic": 0.8461538461538461
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 19,
+          "mean_probability": 0.7589558522669317,
+          "accuracy_diagnostic": 0.7894736842105263
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 74,
+          "mean_probability": 0.8607343496918608,
+          "accuracy_diagnostic": 0.7837837837837838
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 691,
+          "mean_probability": 0.9254623717122824,
+          "accuracy_diagnostic": 0.9479015918958031
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.12241631719540892,
+      "ece_10_equal_width": 0.05037946729571912,
+      "bins": [
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 1,
+          "mean_probability": 0.5941783397369295,
+          "accuracy_diagnostic": 1.0
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 13,
+          "mean_probability": 0.6425685265923664,
+          "accuracy_diagnostic": 0.8461538461538461
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 19,
+          "mean_probability": 0.7589558522669317,
+          "accuracy_diagnostic": 0.7894736842105263
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 74,
+          "mean_probability": 0.8607343496918608,
+          "accuracy_diagnostic": 0.7837837837837838
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 312,
+          "mean_probability": 0.922379440058391,
+          "accuracy_diagnostic": 0.8846153846153846
+        }
+      ]
+    }
+  },
+  {
+    "base": "consistency_5",
+    "signal": "answer_gap",
+    "fit": {
+      "mean": 0.7785723719865042,
+      "std": 0.3326007339892221,
+      "intercept": 3.4923819077355596,
+      "slope": 1.5722864873079234,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.05432970600018408,
+      "ece_10_equal_width": 0.01537181726585743,
+      "bins": [
+        {
+          "low": 0.4,
+          "high": 0.5,
+          "n": 15,
+          "mean_probability": 0.4769594680268209,
+          "accuracy_diagnostic": 0.5333333333333333
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 28,
+          "mean_probability": 0.5594454119813853,
+          "accuracy_diagnostic": 0.5714285714285714
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 19,
+          "mean_probability": 0.6477984695977558,
+          "accuracy_diagnostic": 0.631578947368421
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 27,
+          "mean_probability": 0.7527596522335037,
+          "accuracy_diagnostic": 0.8148148148148148
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 43,
+          "mean_probability": 0.8573212977215564,
+          "accuracy_diagnostic": 0.8372093023255814
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 666,
+          "mean_probability": 0.9823379844143478,
+          "accuracy_diagnostic": 0.96996996996997
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.10337174942775024,
+      "ece_10_equal_width": 0.038836935282547724,
+      "bins": [
+        {
+          "low": 0.4,
+          "high": 0.5,
+          "n": 15,
+          "mean_probability": 0.4769594680268209,
+          "accuracy_diagnostic": 0.5333333333333333
+        },
+        {
+          "low": 0.5,
+          "high": 0.6,
+          "n": 28,
+          "mean_probability": 0.5594454119813853,
+          "accuracy_diagnostic": 0.5714285714285714
+        },
+        {
+          "low": 0.6,
+          "high": 0.7,
+          "n": 19,
+          "mean_probability": 0.6477984695977558,
+          "accuracy_diagnostic": 0.631578947368421
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 27,
+          "mean_probability": 0.7527596522335037,
+          "accuracy_diagnostic": 0.8148148148148148
+        },
+        {
+          "low": 0.8,
+          "high": 0.9,
+          "n": 43,
+          "mean_probability": 0.8573212977215564,
+          "accuracy_diagnostic": 0.8372093023255814
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 287,
+          "mean_probability": 0.9729723460807976,
+          "accuracy_diagnostic": 0.9303135888501742
+        }
+      ]
+    }
+  },
+  {
+    "base": "consistency_5",
+    "signal": "model_agreement",
+    "fit": {
+      "mean": 0.9796424815983177,
+      "std": 0.08509213441542461,
+      "intercept": 2.508477820719329,
+      "slope": 0.5956028718585586,
+      "fit": "train OOF selected-candidate correctness; no validation fitting"
+    },
+    "validation": {
+      "brier": 0.06499575706436046,
+      "ece_10_equal_width": 0.01781029838587343,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 1,
+          "mean_probability": 0.04980110753051576,
+          "accuracy_diagnostic": 1.0
+        },
+        {
+          "low": 0.1,
+          "high": 0.2,
+          "n": 5,
+          "mean_probability": 0.17526934075163764,
+          "accuracy_diagnostic": 0.8
+        },
+        {
+          "low": 0.4,
+          "high": 0.5,
+          "n": 14,
+          "mean_probability": 0.46286056639487744,
+          "accuracy_diagnostic": 0.42857142857142855
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 23,
+          "mean_probability": 0.777484900959074,
+          "accuracy_diagnostic": 0.6956521739130435
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 755,
+          "mean_probability": 0.9340707744746639,
+          "accuracy_diagnostic": 0.9443708609271523
+        }
+      ]
+    },
+    "validation_mixed": {
+      "brier": 0.1198549616810434,
+      "ece_10_equal_width": 0.05643595236938401,
+      "bins": [
+        {
+          "low": 0.0,
+          "high": 0.1,
+          "n": 1,
+          "mean_probability": 0.04980110753051576,
+          "accuracy_diagnostic": 1.0
+        },
+        {
+          "low": 0.1,
+          "high": 0.2,
+          "n": 5,
+          "mean_probability": 0.17526934075163764,
+          "accuracy_diagnostic": 0.8
+        },
+        {
+          "low": 0.4,
+          "high": 0.5,
+          "n": 14,
+          "mean_probability": 0.46286056639487744,
+          "accuracy_diagnostic": 0.42857142857142855
+        },
+        {
+          "low": 0.7,
+          "high": 0.8,
+          "n": 23,
+          "mean_probability": 0.777484900959074,
+          "accuracy_diagnostic": 0.6956521739130435
+        },
+        {
+          "low": 0.9,
+          "high": 1.0,
+          "n": 376,
+          "mean_probability": 0.9340707744746639,
+          "accuracy_diagnostic": 0.8882978723404256
+        }
+      ]
+    }
+  }
+]

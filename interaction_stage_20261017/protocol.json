@@ -1,0 +1,84 @@
+{
+  "models": [
+    "attention"
+  ],
+  "variants": {
+    "s0_after": {
+      "layout": "s0_after",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    },
+    "s1_before": {
+      "layout": "s1_before",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    },
+    "s2_before_keep_norm_after": {
+      "layout": "s2_before_keep_norm_after",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    },
+    "s3_before_before": {
+      "layout": "s3_before_before",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    },
+    "s4_before_after": {
+      "layout": "s4_before_after",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    },
+    "s5_after_after": {
+      "layout": "s5_after_after",
+      "hidden": 128,
+      "dropout": 0.1,
+      "weight_decay": 0.001
+    }
+  },
+  "seeds": [
+    17,
+    29,
+    43,
+    71,
+    101
+  ],
+  "main_learning_rate": 0.0003,
+  "sensitivity_learning_rate": 0.001,
+  "sensitivity_seed": 17,
+  "max_epochs": 60,
+  "batch_size": 256,
+  "gradient_clip": 1.0,
+  "fixed_epochs": [
+    10,
+    20,
+    40,
+    60
+  ],
+  "objective": "All-question BCE, original multi-positive labels, no other loss",
+  "architecture": "One 4-head self-inclusive attention block A=LN_A(h+drop(MHA(h))); P_i=h+drop(FFN_i(h)); N_i=LN_i; F_i=N_i(P_i). Common E:1024->128 and H:128->64->1. FFNs128->256->128. S0:A,F1; S1:F1,A; S2:P1,A,N1; S3:F1,F2,A; S4:F1,A,F2; S5:A,F1,F2.",
+  "initialization": "Build original scorer first, append F2 only for double-FFN layouts. Common E/A/F1/H same-seed weights identical; F2 common across S3-5. Only forward order varies; no zero initialization or frozen branch.",
+  "optimizer": "AdamW, weight decay0.001, gradient clip1; no LR schedule",
+  "budget": "Every run exactly60 epochs, 19 updates per epoch, 1140 updates. No early stopping. Main30 runs fixed LR0.0003; sensitivity6 runs seed17 LR0.001. Sensitivity never selects main LR or final model.",
+  "sampling": "Full train permutation per epoch with seed+10000; matched question order",
+  "normalization": "Mean/std on all training embeddings only; fixed 4x1024 inputs; no text/question branch",
+  "checkpoint_selection": "Highest official validation correct count over60 epochs, then lower validation BCE, then earliest epoch",
+  "final_selection": "Use only30 main runs. Highest five-seed sum of official correct counts, ties lower parameters then protocol order. Export fixed seed17 single model, no ensemble.",
+  "primary_comparisons": [
+    "s1_before - s0_after",
+    "s2_before_keep_norm_after - s0_after",
+    "s1_before - s2_before_keep_norm_after",
+    "s4_before_after - s3_before_before",
+    "s4_before_after - s5_after_after",
+    "s3_before_before - s5_after_after"
+  ],
+  "secondary_comparisons": "Extra-capacity layouts versus S0 are descriptive, not pure stage effects. Fixed epochs10/20/40/60 as well as best checkpoint. Same-seed17 second LR sensitivity only.",
+  "baseline_replay": "S0 is exact prior architecture; first epochs at same LR/seed must reproduce old history through old early-stop endpoint. Full60-epoch selected score may differ from old early-stopped91.90% mean. Primary comparisons use newly trained S0.",
+  "uncertainty": "10000 paired question bootstrap samples over seed-mean correctness; report paired seed deltas and other-four-seed means. Reused validation and checkpoint selection, conditional descriptive intervals, no multiple comparison correction.",
+  "threads": 4,
+  "test_policy": "No test training, selection, prediction or scores; official checker may check test integrity/alignment only."
+}

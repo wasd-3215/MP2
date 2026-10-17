@@ -1,0 +1,15 @@
+{
+  "members": [
+    "..\\..\\runs\\s2\\seed_17\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_29\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_43\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_71\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_101\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "candidate_gap",
+    "threshold": 9.549932818953e-05,
+    "min_support": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": [
+    "s2 identical to prior architecture/initialization",
+    "s0 identical to prior architecture/initialization",
+    "s2 candidate equivariance and zero feature initialization",
+    "s0 candidate equivariance and zero feature initialization",
+    "pool candidate equivariance and zero feature initialization",
+    "s2_parse candidate equivariance and zero feature initialization",
+    "s2_consistency candidate equivariance and zero feature initialization",
+    "s2_style candidate equivariance and zero feature initialization",
+    "s2_all candidate equivariance and zero feature initialization",
+    "features_only candidate equivariance and zero feature initialization",
+    "numeric equivalent answer grouping",
+    "same-answer candidate ambiguity versus answer gap",
+    "unique-plurality fallback and support condition",
+    "tied plurality never triggers"
+  ],
+  "actual_oof_preprocessing_checked": [
+    "s2/fold0",
+    "s0/fold0",
+    "pool/fold0",
+    "s2_consistency/fold0",
+    "s2/fold1",
+    "s0/fold1",
+    "pool/fold1",
+    "s2_consistency/fold1",
+    "s2/fold2",
+    "s0/fold2",
+    "pool/fold2",
+    "s2_consistency/fold2",
+    "s2/fold3",
+    "s0/fold3",
+    "pool/fold3",
+    "s2_consistency/fold3",
+    "s2/fold4",
+    "s0/fold4",
+    "pool/fold4",
+    "s2_consistency/fold4"
+  ],
+  "all_four_candidates_same_fold": true,
+  "test_used": false
+}

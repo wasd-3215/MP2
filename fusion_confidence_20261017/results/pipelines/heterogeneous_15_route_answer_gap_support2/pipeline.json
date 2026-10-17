@@ -1,0 +1,25 @@
+{
+  "members": [
+    "..\\..\\runs\\s2\\seed_17\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_29\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_43\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_71\\full\\bundle",
+    "..\\..\\runs\\s2\\seed_101\\full\\bundle",
+    "..\\..\\runs\\s0\\seed_17\\full\\bundle",
+    "..\\..\\runs\\s0\\seed_29\\full\\bundle",
+    "..\\..\\runs\\s0\\seed_43\\full\\bundle",
+    "..\\..\\runs\\s0\\seed_71\\full\\bundle",
+    "..\\..\\runs\\s0\\seed_101\\full\\bundle",
+    "..\\..\\runs\\pool\\seed_17\\full\\bundle",
+    "..\\..\\runs\\pool\\seed_29\\full\\bundle",
+    "..\\..\\runs\\pool\\seed_43\\full\\bundle",
+    "..\\..\\runs\\pool\\seed_71\\full\\bundle",
+    "..\\..\\runs\\pool\\seed_101\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "answer_gap",
+    "threshold": 0.0,
+    "min_support": 2
+  }
+}
