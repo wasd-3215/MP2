@@ -1,0 +1,38 @@
+{
+  "name": "C_H_ensemble5",
+  "group": "C_H",
+  "kind": "ensemble",
+  "members": 5,
+  "correct": 740,
+  "accuracy": 92.73182957393483,
+  "member_paths": [
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_17\\bundle",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_29\\bundle",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_43\\bundle",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_71\\bundle",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_101\\bundle"
+  ],
+  "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\C_H_ensemble5\\validation-score.json",
+  "asset_bytes": 5503988,
+  "eligible": true,
+  "selection_protocol": "highest official validation correct among six fixed ensembles and six fixed-seed17 singles, subject to 16MiB; ties fewer members then lexical name; study success evaluated separately",
+  "portable_asset_bytes": 5503867,
+  "bundle_sha256": {
+    "pipeline.json": "c6582f392d715f3ff625e98d759200d6b67ccc6f7ef4dd848d8bfa9a38302d2f",
+    "members\\00\\config.json": "b959cc95cf5a85252c79960c7778b2b7e183aaa85955d1de4a2f9a88301356c8",
+    "members\\00\\preprocessing.npz": "308d944a9226d6ec19aabf3caa1fdae758f4c80515d2c1cffd94604a45c782b6",
+    "members\\00\\weights.npz": "275fcbc98d0d0e17a18fe32973564d7e98fb32e0aa417c0d71192d65b16b53a6",
+    "members\\01\\config.json": "b959cc95cf5a85252c79960c7778b2b7e183aaa85955d1de4a2f9a88301356c8",
+    "members\\01\\preprocessing.npz": "308d944a9226d6ec19aabf3caa1fdae758f4c80515d2c1cffd94604a45c782b6",
+    "members\\01\\weights.npz": "7537ebedf4e775be7516e2dd1a603602ce97121270fe0a5fff48d40750173306",
+    "members\\02\\config.json": "b959cc95cf5a85252c79960c7778b2b7e183aaa85955d1de4a2f9a88301356c8",
+    "members\\02\\preprocessing.npz": "308d944a9226d6ec19aabf3caa1fdae758f4c80515d2c1cffd94604a45c782b6",
+    "members\\02\\weights.npz": "8271f1f5b26ccc4823853abaa8730ee9a7c045752708a8b9c102d27f18284bb9",
+    "members\\03\\config.json": "b959cc95cf5a85252c79960c7778b2b7e183aaa85955d1de4a2f9a88301356c8",
+    "members\\03\\preprocessing.npz": "308d944a9226d6ec19aabf3caa1fdae758f4c80515d2c1cffd94604a45c782b6",
+    "members\\03\\weights.npz": "30314c0f7ae8b0eaf3809b75ddfb9dc98cdaee7e2e0d7ac689c40abd168dc92d",
+    "members\\04\\config.json": "b959cc95cf5a85252c79960c7778b2b7e183aaa85955d1de4a2f9a88301356c8",
+    "members\\04\\preprocessing.npz": "308d944a9226d6ec19aabf3caa1fdae758f4c80515d2c1cffd94604a45c782b6",
+    "members\\04\\weights.npz": "78b8be91fbb022b7a938c8809b4f925c99f509cf4a1dd9409d5e917752377e29"
+  }
+}

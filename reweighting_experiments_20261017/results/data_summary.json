@@ -1,0 +1,19 @@
+{
+  "train": 4755,
+  "validation": 798,
+  "validation_subgroups": {
+    "all": 798,
+    "all_correct": 379,
+    "mixed": 419,
+    "wrong_unique_plurality": 60,
+    "correct_unique_plurality_mixed": 271,
+    "plurality_tie": 88,
+    "one_correct": 117,
+    "two_correct": 123,
+    "three_correct": 179,
+    "multiple_valid_answer_groups": 355,
+    "any_invalid_parse": 126
+  },
+  "test_used": false,
+  "no_validation_fitted_weights": true
+}

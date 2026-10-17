@@ -1,0 +1,188 @@
+[
+  {
+    "name": "P_U_ensemble5",
+    "group": "P_U",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 734,
+    "accuracy": 91.97994987468671,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_U\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_U\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_U\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_U\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_U\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\P_U_ensemble5\\validation-score.json",
+    "asset_bytes": 5497558,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 91.97994987468672,
+      "all_correct": 100.0,
+      "mixed": 84.7255369928401,
+      "wrong_unique_plurality": 60.0,
+      "correct_unique_plurality_mixed": 94.4649446494465,
+      "plurality_tie": 71.5909090909091,
+      "one_correct": 63.24786324786324,
+      "two_correct": 89.43089430894308,
+      "three_correct": 95.53072625698324,
+      "multiple_valid_answer_groups": 82.25352112676056,
+      "any_invalid_parse": 88.09523809523809
+    }
+  },
+  {
+    "name": "P_K_ensemble5",
+    "group": "P_K",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 736,
+    "accuracy": 92.23057644110276,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_K\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_K\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_K\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_K\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_K\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\P_K_ensemble5\\validation-score.json",
+    "asset_bytes": 5497558,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 92.23057644110276,
+      "all_correct": 100.0,
+      "mixed": 85.20286396181385,
+      "wrong_unique_plurality": 60.0,
+      "correct_unique_plurality_mixed": 94.8339483394834,
+      "plurality_tie": 72.72727272727273,
+      "one_correct": 63.24786324786324,
+      "two_correct": 90.2439024390244,
+      "three_correct": 96.08938547486034,
+      "multiple_valid_answer_groups": 82.8169014084507,
+      "any_invalid_parse": 88.09523809523809
+    }
+  },
+  {
+    "name": "P_H_ensemble5",
+    "group": "P_H",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 734,
+    "accuracy": 91.97994987468671,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_H\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_H\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_H\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_H\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\P_H\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\P_H_ensemble5\\validation-score.json",
+    "asset_bytes": 5497558,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 91.97994987468672,
+      "all_correct": 100.0,
+      "mixed": 84.7255369928401,
+      "wrong_unique_plurality": 58.333333333333336,
+      "correct_unique_plurality_mixed": 94.8339483394834,
+      "plurality_tie": 71.5909090909091,
+      "one_correct": 61.53846153846154,
+      "two_correct": 91.05691056910568,
+      "three_correct": 95.53072625698324,
+      "multiple_valid_answer_groups": 82.25352112676056,
+      "any_invalid_parse": 88.09523809523809
+    }
+  },
+  {
+    "name": "C_U_ensemble5",
+    "group": "C_U",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_U\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_U\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_U\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_U\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_U\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\C_U_ensemble5\\validation-score.json",
+    "asset_bytes": 5503988,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 92.73182957393483,
+      "all_correct": 100.0,
+      "mixed": 86.15751789976133,
+      "wrong_unique_plurality": 40.0,
+      "correct_unique_plurality_mixed": 100.0,
+      "plurality_tie": 75.0,
+      "one_correct": 53.84615384615385,
+      "two_correct": 96.7479674796748,
+      "three_correct": 100.0,
+      "multiple_valid_answer_groups": 83.66197183098592,
+      "any_invalid_parse": 87.3015873015873
+    }
+  },
+  {
+    "name": "C_K_ensemble5",
+    "group": "C_K",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 738,
+    "accuracy": 92.4812030075188,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_K\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_K\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_K\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_K\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_K\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\C_K_ensemble5\\validation-score.json",
+    "asset_bytes": 5503988,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 92.4812030075188,
+      "all_correct": 100.0,
+      "mixed": 85.68019093078759,
+      "wrong_unique_plurality": 40.0,
+      "correct_unique_plurality_mixed": 99.63099630996311,
+      "plurality_tie": 73.86363636363636,
+      "one_correct": 53.84615384615385,
+      "two_correct": 95.1219512195122,
+      "three_correct": 100.0,
+      "multiple_valid_answer_groups": 83.09859154929578,
+      "any_invalid_parse": 87.3015873015873
+    }
+  },
+  {
+    "name": "C_H_ensemble5",
+    "group": "C_H",
+    "kind": "ensemble",
+    "members": 5,
+    "correct": 740,
+    "accuracy": 92.73182957393483,
+    "member_paths": [
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_17\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_29\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_43\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_71\\bundle",
+      "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\runs\\C_H\\seed_101\\bundle"
+    ],
+    "official_score_path": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\reweighting_experiments_20261017\\results\\pipelines\\C_H_ensemble5\\validation-score.json",
+    "asset_bytes": 5503988,
+    "eligible": true,
+    "subgroups_diagnostic": {
+      "all": 92.73182957393483,
+      "all_correct": 100.0,
+      "mixed": 86.15751789976133,
+      "wrong_unique_plurality": 40.0,
+      "correct_unique_plurality_mixed": 99.63099630996311,
+      "plurality_tie": 76.13636363636364,
+      "one_correct": 55.55555555555556,
+      "two_correct": 95.1219512195122,
+      "three_correct": 100.0,
+      "multiple_valid_answer_groups": 83.66197183098592,
+      "any_invalid_parse": 88.09523809523809
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "training_runs": 30,
+  "epochs_per_run": 20,
+  "training_wall_seconds_sum": 391.425986199989,
+  "optimizer_steps": 11400,
+  "draws": 2853000,
+  "official_validation_predictors": 36,
+  "checkpoint_or_weight_search": false,
+  "test_used": false
+}

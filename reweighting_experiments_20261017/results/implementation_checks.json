@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "training_group_counts": {
+    "all": 4755,
+    "all_correct": 2242,
+    "mixed": 2513,
+    "wrong_unique_plurality": 367,
+    "correct_unique_plurality_mixed": 1601,
+    "plurality_tie": 545,
+    "one_correct": 711,
+    "two_correct": 732,
+    "three_correct": 1070,
+    "multiple_valid_answer_groups": 2114,
+    "any_invalid_parse": 736
+  },
+  "uniform_gradient_matches_standard_bce_within_float32_roundoff": true,
+  "uniform_gradient_max_abs_error": 1.862645149230957e-09,
+  "weighted_gradient_matches_hand_formula": true,
+  "K_H_mass_matches_at_each_correct_count": true,
+  "K_H_positive_negative_label_mass_matches": true,
+  "all_positive_and_mixed_mass_preserved": true,
+  "candidate_permutation_preserves_groups_and_weights": true,
+  "P_C_initial_embedding_functions_identical": true,
+  "weights_fitted_on_train_only": true
+}

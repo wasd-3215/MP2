@@ -1,0 +1,11 @@
+{
+  "runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+  "reference_models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+  "scorers.py": "017458502f720d2fefb210c7ec6085e817165e2ff0ee713401c987bb9b8a7813",
+  "explicit_features.py": "f41c2f839790d5120f4990976ebbe448876e28e3ffa71d5fb0cc4f2e43ccc95d",
+  "utilities.py": "06b96fcbb7d327a63997ac82e6b9d12c2f545385d800e6a8c980024e0e44ac53",
+  "reference_training.py": "d71dc3694d95b6977196b126fcc572ae405c32a9b283a7379b1888c032dd87fd",
+  "weights.py": "3281662c992054a61c4dc28edeb6ef018d37d846a9a85dfcb8fe0e28abdd32a8",
+  "train.py": "071975fa816b4d67e33cb3979980758e78aa24115289a667257d464bd6fede03",
+  "protocol.json": "6fc500c45d970dceac96fa538464f9cdd56a8a23dc957545acb3e33676bec38d"
+}

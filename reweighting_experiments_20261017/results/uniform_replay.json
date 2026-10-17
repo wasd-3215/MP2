@@ -1,0 +1,102 @@
+[
+  {
+    "model": "P",
+    "seed": 17,
+    "max_abs_logit_error": 5.856156349182129e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 727,
+    "new_official_correct": 727,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "P",
+    "seed": 29,
+    "max_abs_logit_error": 5.7220458984375e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 727,
+    "new_official_correct": 727,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "P",
+    "seed": 43,
+    "max_abs_logit_error": 7.152557373046875e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 733,
+    "new_official_correct": 733,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "P",
+    "seed": 71,
+    "max_abs_logit_error": 6.079673767089844e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 734,
+    "new_official_correct": 734,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "P",
+    "seed": 101,
+    "max_abs_logit_error": 6.496906280517578e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 736,
+    "new_official_correct": 736,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "C",
+    "seed": 17,
+    "max_abs_logit_error": 5.7220458984375e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 734,
+    "new_official_correct": 734,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "C",
+    "seed": 29,
+    "max_abs_logit_error": 6.67572021484375e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 740,
+    "new_official_correct": 740,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "C",
+    "seed": 43,
+    "max_abs_logit_error": 5.9604644775390625e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 736,
+    "new_official_correct": 736,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "C",
+    "seed": 71,
+    "max_abs_logit_error": 7.62939453125e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 732,
+    "new_official_correct": 732,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  },
+  {
+    "model": "C",
+    "seed": 101,
+    "max_abs_logit_error": 4.887580871582031e-06,
+    "identical_candidate_choices": true,
+    "changed_choices": 0,
+    "old_correct_diagnostic": 734,
+    "new_official_correct": 734,
+    "note": "float32 reduction order and gradient clipping can differ; all primary comparisons use new runs"
+  }
+]

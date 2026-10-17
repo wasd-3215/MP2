@@ -1,0 +1,11 @@
+{
+  "members": [
+    "..\\..\\runs\\P_K\\seed_17\\bundle",
+    "..\\..\\runs\\P_K\\seed_29\\bundle",
+    "..\\..\\runs\\P_K\\seed_43\\bundle",
+    "..\\..\\runs\\P_K\\seed_71\\bundle",
+    "..\\..\\runs\\P_K\\seed_101\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": null
+}

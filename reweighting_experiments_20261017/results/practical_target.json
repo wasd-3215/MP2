@@ -1,0 +1,22 @@
+{
+  "P": {
+    "reference": "P_U",
+    "target": "P_H",
+    "hard_delta_pp": 0.33333333333333337,
+    "overall_delta_pp": 0.10025062656641603,
+    "hard_gain_at_least_10pp": false,
+    "overall_loss_at_most_0p5pp": true,
+    "point_target_met": false,
+    "not_a_significance_test": true
+  },
+  "C": {
+    "reference": "C_U",
+    "target": "C_H",
+    "hard_delta_pp": 0.33333333333333337,
+    "overall_delta_pp": -0.17543859649122806,
+    "hard_gain_at_least_10pp": false,
+    "overall_loss_at_most_0p5pp": true,
+    "point_target_met": false,
+    "not_a_significance_test": true
+  }
+}
