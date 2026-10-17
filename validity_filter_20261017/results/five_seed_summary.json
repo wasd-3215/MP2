@@ -1,0 +1,98 @@
+[
+  {
+    "variant": "s2",
+    "mode": "original",
+    "mean_accuracy": 91.2531328320802,
+    "sample_sd": 0.7220481348815976,
+    "seed_accuracies": [
+      90.72681704260651,
+      90.47619047619048,
+      91.10275689223057,
+      92.23057644110276,
+      91.72932330827066
+    ],
+    "mean_replacements": 3.8,
+    "mean_repairs": 3.8,
+    "mean_gain_pp": 0.47619047619047616
+  },
+  {
+    "variant": "s2",
+    "mode": "filtered",
+    "mean_accuracy": 91.72932330827068,
+    "sample_sd": 0.6977148324348375,
+    "seed_accuracies": [
+      91.35338345864662,
+      90.85213032581454,
+      91.60401002506265,
+      92.60651629072682,
+      92.23057644110276
+    ],
+    "mean_replacements": 3.8,
+    "mean_repairs": 3.8,
+    "mean_gain_pp": 0.47619047619047616
+  },
+  {
+    "variant": "s2_parse",
+    "mode": "original",
+    "mean_accuracy": 91.65413533834587,
+    "sample_sd": 0.5212189058417421,
+    "seed_accuracies": [
+      91.10275689223057,
+      91.10275689223057,
+      91.8546365914787,
+      91.97994987468672,
+      92.23057644110276
+    ],
+    "mean_replacements": 1.6,
+    "mean_repairs": 1.6,
+    "mean_gain_pp": 0.20050125313283207
+  },
+  {
+    "variant": "s2_parse",
+    "mode": "filtered",
+    "mean_accuracy": 91.8546365914787,
+    "sample_sd": 0.5242230742694748,
+    "seed_accuracies": [
+      91.22807017543859,
+      91.35338345864662,
+      92.10526315789474,
+      92.23057644110276,
+      92.35588972431079
+    ],
+    "mean_replacements": 1.6,
+    "mean_repairs": 1.6,
+    "mean_gain_pp": 0.20050125313283207
+  },
+  {
+    "variant": "s2_consistency",
+    "mode": "original",
+    "mean_accuracy": 92.13032581453633,
+    "sample_sd": 0.3800940072206284,
+    "seed_accuracies": [
+      91.97994987468672,
+      92.73182957393483,
+      92.23057644110276,
+      91.72932330827066,
+      91.97994987468672
+    ],
+    "mean_replacements": 0.2,
+    "mean_repairs": 0.2,
+    "mean_gain_pp": 0.02506265664160401
+  },
+  {
+    "variant": "s2_consistency",
+    "mode": "filtered",
+    "mean_accuracy": 92.15538847117794,
+    "sample_sd": 0.39229262763154255,
+    "seed_accuracies": [
+      91.97994987468672,
+      92.73182957393483,
+      92.35588972431079,
+      91.72932330827066,
+      91.97994987468672
+    ],
+    "mean_replacements": 0.2,
+    "mean_repairs": 0.2,
+    "mean_gain_pp": 0.02506265664160401
+  }
+]

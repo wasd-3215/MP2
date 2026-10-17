@@ -1,0 +1,986 @@
+[
+  {
+    "name": "I_P_seed17_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed17_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_P_seed17_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed17_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_P_seed29_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed29_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_P_seed29_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed29_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_P_seed43_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed43_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_P_seed43_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed43_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_P_seed71_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed71_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_P_seed71_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed71_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_P_seed101_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed101_raw",
+    "asset_bytes": 569353
+  },
+  {
+    "name": "I_P_seed101_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_seed101_filtered",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_P_ensemble5_raw",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_ensemble5_raw",
+    "asset_bytes": 2846389
+  },
+  {
+    "name": "I_P_ensemble5_filtered",
+    "variant": "I_P",
+    "architecture": "I",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_P_ensemble5_filtered",
+    "asset_bytes": 2846388
+  },
+  {
+    "name": "I_C_seed17_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed17_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_C_seed17_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed17_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_C_seed29_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed29_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_C_seed29_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed29_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_C_seed43_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed43_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_C_seed43_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed43_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_C_seed71_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed71_raw",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_C_seed71_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed71_filtered",
+    "asset_bytes": 569351
+  },
+  {
+    "name": "I_C_seed101_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed101_raw",
+    "asset_bytes": 569353
+  },
+  {
+    "name": "I_C_seed101_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_seed101_filtered",
+    "asset_bytes": 569352
+  },
+  {
+    "name": "I_C_ensemble5_raw",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_ensemble5_raw",
+    "asset_bytes": 2846389
+  },
+  {
+    "name": "I_C_ensemble5_filtered",
+    "variant": "I_C",
+    "architecture": "I",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\I_C_ensemble5_filtered",
+    "asset_bytes": 2846388
+  },
+  {
+    "name": "Pool_P_seed17_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed17_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_P_seed17_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed17_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_P_seed29_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed29_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_P_seed29_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed29_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_P_seed43_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed43_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_P_seed43_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed43_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_P_seed71_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed71_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_P_seed71_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed71_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_P_seed101_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed101_raw",
+    "asset_bytes": 602127
+  },
+  {
+    "name": "Pool_P_seed101_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_seed101_filtered",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_P_ensemble5_raw",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_ensemble5_raw",
+    "asset_bytes": 3010259
+  },
+  {
+    "name": "Pool_P_ensemble5_filtered",
+    "variant": "Pool_P",
+    "architecture": "Pool",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_P_ensemble5_filtered",
+    "asset_bytes": 3010258
+  },
+  {
+    "name": "Pool_C_seed17_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed17_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_C_seed17_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed17_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_C_seed29_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed29_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_C_seed29_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed29_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_C_seed43_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed43_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_C_seed43_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed43_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_C_seed71_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed71_raw",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_C_seed71_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed71_filtered",
+    "asset_bytes": 602125
+  },
+  {
+    "name": "Pool_C_seed101_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed101_raw",
+    "asset_bytes": 602127
+  },
+  {
+    "name": "Pool_C_seed101_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_seed101_filtered",
+    "asset_bytes": 602126
+  },
+  {
+    "name": "Pool_C_ensemble5_raw",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_ensemble5_raw",
+    "asset_bytes": 3010259
+  },
+  {
+    "name": "Pool_C_ensemble5_filtered",
+    "variant": "Pool_C",
+    "architecture": "Pool",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\Pool_C_ensemble5_filtered",
+    "asset_bytes": 3010258
+  },
+  {
+    "name": "S2_P_seed17_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed17_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_P_seed17_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed17_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_P_seed29_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed29_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_P_seed29_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed29_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_P_seed43_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed43_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_P_seed43_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed43_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_P_seed71_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed71_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_P_seed71_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed71_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_P_seed101_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed101_raw",
+    "asset_bytes": 1100811
+  },
+  {
+    "name": "S2_P_seed101_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_seed101_filtered",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_P_ensemble5_raw",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_ensemble5_raw",
+    "asset_bytes": 5503679
+  },
+  {
+    "name": "S2_P_ensemble5_filtered",
+    "variant": "S2_P",
+    "architecture": "S2",
+    "feature_mode": "P",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_P_ensemble5_filtered",
+    "asset_bytes": 5503678
+  },
+  {
+    "name": "S2_C_seed17_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed17_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_C_seed17_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed17_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_C_seed29_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed29_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_C_seed29_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed29_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_C_seed43_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed43_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_C_seed43_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed43_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_C_seed71_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed71_raw",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_C_seed71_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed71_filtered",
+    "asset_bytes": 1100809
+  },
+  {
+    "name": "S2_C_seed101_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed101_raw",
+    "asset_bytes": 1100811
+  },
+  {
+    "name": "S2_C_seed101_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_seed101_filtered",
+    "asset_bytes": 1100810
+  },
+  {
+    "name": "S2_C_ensemble5_raw",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "raw",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_ensemble5_raw",
+    "asset_bytes": 5503679
+  },
+  {
+    "name": "S2_C_ensemble5_filtered",
+    "variant": "S2_C",
+    "architecture": "S2",
+    "feature_mode": "C",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "mode": "filtered",
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\interaction_consensus_20261017\\results\\pipelines\\S2_C_ensemble5_filtered",
+    "asset_bytes": 5503678
+  }
+]

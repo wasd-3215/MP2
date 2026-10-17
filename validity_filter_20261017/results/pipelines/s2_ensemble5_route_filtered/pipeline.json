@@ -1,0 +1,16 @@
+{
+  "members": [
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "model_agreement",
+    "threshold": 0.8,
+    "min_support": 3
+  },
+  "filter_invalid": true
+}

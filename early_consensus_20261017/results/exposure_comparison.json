@@ -1,0 +1,18 @@
+[
+  {
+    "scope": "All",
+    "eligible_questions": 4755,
+    "updates": 380,
+    "draws": 95100,
+    "D_question_draws": 42280,
+    "eligible_pool_passes": 20.0
+  },
+  {
+    "scope": "D",
+    "eligible_questions": 2114,
+    "updates": 380,
+    "draws": 95100,
+    "D_question_draws": 95100,
+    "eligible_pool_passes": 44.98580889309366
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "passed": false,
+  "files_checked": 8574,
+  "changed": [
+    "code\\.git\\FETCH_HEAD"
+  ],
+  "non_git_original_changes": [],
+  "git_metadata_changes": [
+    "code\\.git\\FETCH_HEAD"
+  ],
+  "baseline_updated": false,
+  "original_files_restored_or_overwritten": false
+}

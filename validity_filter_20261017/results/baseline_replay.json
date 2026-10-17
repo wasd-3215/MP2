@@ -1,0 +1,97 @@
+[
+  {
+    "name": "s2_seed17_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_17\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_seed29_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_29\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_seed43_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_43\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_seed71_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_seed101_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2\\seed_101\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_ensemble5_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_seed17_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_17\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_seed29_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_29\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_seed43_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_43\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_seed71_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_71\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_seed101_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_parse\\seed_101\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_parse_ensemble5_original",
+    "matches": true,
+    "reference": "frozen fusion member logits, original aggregation"
+  },
+  {
+    "name": "s2_consistency_seed17_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_consistency_seed29_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_consistency_seed43_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_consistency_seed71_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_consistency_seed101_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\validation-predictions.json"
+  },
+  {
+    "name": "s2_consistency_ensemble5_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\consistency_5\\validation-predictions.json"
+  },
+  {
+    "name": "s2_ensemble5_route_original",
+    "matches": true,
+    "reference": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\fusion_confidence_20261017\\results\\pipelines\\s2_5_route_model_agreement_support3\\validation-predictions.json"
+  }
+]

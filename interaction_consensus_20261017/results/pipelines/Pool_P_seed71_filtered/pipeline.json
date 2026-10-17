@@ -1,0 +1,7 @@
+{
+  "members": [
+    "..\\..\\runs\\Pool_P\\seed_71\\bundle"
+  ],
+  "filter_invalid": true,
+  "rule": "mean_sigmoid_probability"
+}

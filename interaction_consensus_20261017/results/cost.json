@@ -1,0 +1,14 @@
+{
+  "runs": 30,
+  "epochs_per_run": 20,
+  "updates_per_run": 380,
+  "total_updates": 11400,
+  "training_question_exposures": 2853000,
+  "optimization_seconds": 183.72058210030082,
+  "diagnostic_seconds": 52.000858500483446,
+  "training_plus_diagnostics_seconds": 239.88266570010455,
+  "fresh_official_evaluation_seconds": 363.17021310009295,
+  "official_evaluations": 72,
+  "additional_searches": 0,
+  "test_used": false
+}

@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "architectures": [
+    {
+      "architecture": "I",
+      "parameters_per_PC_cell": 139905,
+      "PC_identical_initial_state_and_function": true,
+      "P_ignores_consensus_slots": true,
+      "C_can_use_consensus_slots": true,
+      "other_embedding_dependency_max": 0.0
+    },
+    {
+      "architecture": "Pool",
+      "parameters_per_PC_cell": 148097,
+      "PC_identical_initial_state_and_function": true,
+      "P_ignores_consensus_slots": true,
+      "C_can_use_consensus_slots": true,
+      "other_embedding_dependency_max": 0.12899599969387054
+    },
+    {
+      "architecture": "S2",
+      "parameters_per_PC_cell": 272385,
+      "PC_identical_initial_state_and_function": true,
+      "P_ignores_consensus_slots": true,
+      "C_can_use_consensus_slots": true,
+      "other_embedding_dependency_max": 0.32749295234680176
+    }
+  ],
+  "parser_filter_valid_choice_preserved": true,
+  "all_invalid_fallback": true,
+  "ties_earliest": true,
+  "permutation_equivariance": true,
+  "single_batch_consistency": true,
+  "finite_gradients": true,
+  "P_unused_feature_gradient_zero": true
+}

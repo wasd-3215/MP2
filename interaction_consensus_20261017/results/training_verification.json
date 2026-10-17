@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "runs": 30,
+  "PC_identical_initial_weights_and_functions": 15,
+  "PC_identical_training_orders": 15,
+  "final_epoch_only": true,
+  "epochs": 20,
+  "optimizer_steps_per_run": 380,
+  "eval_diagnostics_preserve_rng": true,
+  "test_used": false
+}

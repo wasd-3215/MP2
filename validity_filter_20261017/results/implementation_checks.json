@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "exhaustive_mask_choice_score_cases": 192,
+  "official_parser_boundaries": true,
+  "ties_earliest": true,
+  "scores_unchanged": true,
+  "valid_routed_choice_preserved_even_if_not_highest_score": true,
+  "all_invalid_fallback": true,
+  "batch_single_agreement": true
+}

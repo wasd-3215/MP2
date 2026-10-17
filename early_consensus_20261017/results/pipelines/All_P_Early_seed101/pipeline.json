@@ -1,0 +1,8 @@
+{
+  "members": [
+    "..\\..\\runs\\All_P_Early\\seed_101\\bundle"
+  ],
+  "rule": "mean_sigmoid_probability",
+  "one_valid_group_bypass": true,
+  "final_validity_filter": true
+}

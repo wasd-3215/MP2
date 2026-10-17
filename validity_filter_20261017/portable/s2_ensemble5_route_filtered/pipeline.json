@@ -1,0 +1,16 @@
+{
+  "members": [
+    "members/00",
+    "members/01",
+    "members/02",
+    "members/03",
+    "members/04"
+  ],
+  "rule": "mean_probability",
+  "routing": {
+    "signal": "model_agreement",
+    "threshold": 0.8,
+    "min_support": 3
+  },
+  "filter_invalid": true
+}

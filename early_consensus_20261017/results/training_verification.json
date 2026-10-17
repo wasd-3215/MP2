@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "runs": 40,
+  "all_eight_cells_initial_state_and_function_identical_per_seed": true,
+  "within_scope_exact_common_draw_order": true,
+  "last_budget_only": true,
+  "updates_each": 380,
+  "draws_each": 95100,
+  "D_draws_from_easy_questions": 0,
+  "eval_diagnostics_preserve_rng": true,
+  "test_used": false
+}

@@ -1,0 +1,10 @@
+{
+  "all": 798,
+  "mixed": 419,
+  "multiple_valid_answers": 355,
+  "one_correct": 117,
+  "wrong_unique_plurality": 60,
+  "correct_plurality_mixed": 271,
+  "plurality_tie_mixed": 88,
+  "any_invalid_parse": 126
+}

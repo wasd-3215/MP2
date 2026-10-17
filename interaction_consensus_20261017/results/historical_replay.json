@@ -1,0 +1,92 @@
+[
+  {
+    "feature_mode": "P",
+    "seed": 17,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 727,
+    "new_correct": 727,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "P",
+    "seed": 29,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 727,
+    "new_correct": 727,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "P",
+    "seed": 43,
+    "max_abs_logit_difference": 4.231929779052734e-06,
+    "same_all_choices": true,
+    "old_correct": 733,
+    "new_correct": 733,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "P",
+    "seed": 71,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 734,
+    "new_correct": 734,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "P",
+    "seed": 101,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 736,
+    "new_correct": 736,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "C",
+    "seed": 17,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 734,
+    "new_correct": 734,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "C",
+    "seed": 29,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 740,
+    "new_correct": 740,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "C",
+    "seed": 43,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 736,
+    "new_correct": 736,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "C",
+    "seed": 71,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 732,
+    "new_correct": 732,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  },
+  {
+    "feature_mode": "C",
+    "seed": 101,
+    "max_abs_logit_difference": 0.0,
+    "same_all_choices": true,
+    "old_correct": 734,
+    "new_correct": 734,
+    "note": "P padded six-slot head differs from old one-slot head; all primary comparisons use this round"
+  }
+]

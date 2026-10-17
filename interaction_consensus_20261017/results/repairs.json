@@ -1,0 +1,2594 @@
+[
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 14.0,
+    "net_repairs_mean": 6.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 14.0,
+    "net_repairs_mean": 6.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 14.0,
+    "net_repairs_mean": 6.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 12.2,
+    "new_errors_mean": 5.4,
+    "net_repairs_mean": 6.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 8.2,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 6.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.8,
+    "new_errors_mean": 6.6,
+    "net_repairs_mean": -0.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.8,
+    "new_errors_mean": 5.2,
+    "net_repairs_mean": 1.6
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.8,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": 0.8
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 10.8,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 8.2
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 7.4,
+    "new_errors_mean": 1.2,
+    "net_repairs_mean": 6.2
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.4,
+    "new_errors_mean": 3.6,
+    "net_repairs_mean": 1.8
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.8,
+    "new_errors_mean": 1.4,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 15.2,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 15.2,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 15.2,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 8.4,
+    "net_repairs_mean": -1.4
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 4.2,
+    "net_repairs_mean": -0.2
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": -2.6
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.6,
+    "new_errors_mean": 6.0,
+    "net_repairs_mean": -0.4
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 4.6,
+    "net_repairs_mean": -1.6
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 6.8,
+    "net_repairs_mean": 15.2
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 6.8,
+    "net_repairs_mean": 15.2
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 6.8,
+    "net_repairs_mean": 15.2
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 20.2,
+    "new_errors_mean": 4.2,
+    "net_repairs_mean": 16.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 15.6,
+    "new_errors_mean": 1.2,
+    "net_repairs_mean": 14.4
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.4,
+    "new_errors_mean": 4.6,
+    "net_repairs_mean": 1.8
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.8,
+    "new_errors_mean": 2.4,
+    "net_repairs_mean": 0.4
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 10.8
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 9.8,
+    "new_errors_mean": 0.2,
+    "net_repairs_mean": 9.6
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 1.4
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.2,
+    "net_repairs_mean": 4.2
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.2,
+    "net_repairs_mean": 4.2
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.2,
+    "net_repairs_mean": 4.2
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 11.4,
+    "new_errors_mean": 6.2,
+    "net_repairs_mean": 5.2
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 8.2,
+    "new_errors_mean": 3.4,
+    "net_repairs_mean": 4.8
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.2,
+    "new_errors_mean": 4.8,
+    "net_repairs_mean": 0.4
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 0.4
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 25.0,
+    "net_repairs_mean": -22.6
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.6,
+    "new_errors_mean": 23.2,
+    "net_repairs_mean": -22.6
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 14.4,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 14.4
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.4,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 2.2
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.6,
+    "new_errors_mean": 3.4,
+    "net_repairs_mean": -0.8
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 1.6,
+    "new_errors_mean": 21.6,
+    "net_repairs_mean": -20.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 19.2,
+    "net_repairs_mean": -19.2
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 12.6,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 12.6
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.2,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 1.6
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.8,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 19.0,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 19.0,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 19.0,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 2.8,
+    "new_errors_mean": 16.2,
+    "net_repairs_mean": -13.4
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.4,
+    "new_errors_mean": 14.6,
+    "net_repairs_mean": -14.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 14.2,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 14.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.4,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.6,
+    "new_errors_mean": 3.8,
+    "net_repairs_mean": -1.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 9.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 6.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 8.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 8.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 8.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 8.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 24.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 21.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 19.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 18.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 14.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 11.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 7.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 10.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 7.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -28.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 26.0,
+    "net_repairs_mean": -26.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -19.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 20.0,
+    "net_repairs_mean": -20.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 20.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 20.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 20.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 14.0,
+    "net_repairs_mean": -11.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": -12.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 14.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 3.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 15.6,
+    "net_repairs_mean": 5.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 15.6,
+    "net_repairs_mean": 5.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 20.8,
+    "new_errors_mean": 14.6,
+    "net_repairs_mean": 6.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 12.2,
+    "new_errors_mean": 6.0,
+    "net_repairs_mean": 6.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 8.2,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 6.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.8,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": -1.8
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.8,
+    "new_errors_mean": 5.8,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.8,
+    "new_errors_mean": 5.6,
+    "net_repairs_mean": -0.8
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 17.6,
+    "new_errors_mean": 7.6,
+    "net_repairs_mean": 10.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 10.8,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 8.2
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 7.4,
+    "new_errors_mean": 1.2,
+    "net_repairs_mean": 6.2
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.4,
+    "new_errors_mean": 3.6,
+    "net_repairs_mean": 1.8
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.8,
+    "new_errors_mean": 1.4,
+    "net_repairs_mean": 2.4
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 16.8,
+    "net_repairs_mean": -4.8
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 16.8,
+    "net_repairs_mean": -4.8
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 15.8,
+    "net_repairs_mean": -3.8
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 9.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 4.2,
+    "net_repairs_mean": -0.2
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 6.0,
+    "net_repairs_mean": -3.6
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.6,
+    "new_errors_mean": 6.6,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 6.2,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 15.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 15.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 22.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 15.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 20.2,
+    "new_errors_mean": 4.4,
+    "net_repairs_mean": 15.8
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 15.6,
+    "new_errors_mean": 1.2,
+    "net_repairs_mean": 14.4
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.4,
+    "new_errors_mean": 4.8,
+    "net_repairs_mean": 1.6
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.8,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 0.2
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 13.8,
+    "new_errors_mean": 2.8,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 10.8
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 9.8,
+    "new_errors_mean": 0.2,
+    "net_repairs_mean": 9.6
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 1.4
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.4,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.4,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 13.4,
+    "new_errors_mean": 9.4,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 11.4,
+    "new_errors_mean": 6.4,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 8.2,
+    "new_errors_mean": 3.4,
+    "net_repairs_mean": 4.8
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.2,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 0.2
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 0.2
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 25.4,
+    "net_repairs_mean": -6.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 2.4,
+    "new_errors_mean": 25.0,
+    "net_repairs_mean": -22.6
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.6,
+    "new_errors_mean": 23.2,
+    "net_repairs_mean": -22.6
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 14.4,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 14.4
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.4,
+    "new_errors_mean": 2.2,
+    "net_repairs_mean": 2.2
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.6,
+    "new_errors_mean": 3.4,
+    "net_repairs_mean": -0.8
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.8,
+    "new_errors_mean": 21.8,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 1.6,
+    "new_errors_mean": 21.6,
+    "net_repairs_mean": -20.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 19.2,
+    "net_repairs_mean": -19.2
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 12.6,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 12.6
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.2,
+    "new_errors_mean": 2.6,
+    "net_repairs_mean": 1.6
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.8,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": -3.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "repairs_mean": 20.4,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 3.8
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "repairs_mean": 20.4,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 3.8
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 19.4,
+    "new_errors_mean": 16.6,
+    "net_repairs_mean": 2.8
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.2,
+    "new_errors_mean": 16.2,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.4,
+    "new_errors_mean": 14.6,
+    "net_repairs_mean": -14.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 15.2,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 15.2
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.8,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.8
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 3.8,
+    "net_repairs_mean": 0.2
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 13.0,
+    "net_repairs_mean": 3.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 13.0,
+    "net_repairs_mean": 3.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 9.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "S2-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 7.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 8.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 9.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 9.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 7.0,
+    "new_errors_mean": 8.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 25.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 22.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 24.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 21.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 19.0,
+    "new_errors_mean": 1.0,
+    "net_repairs_mean": 18.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 4.0
+  },
+  {
+    "contrast": "S2-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 1.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 14.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 11.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 11.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 5.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "Pool-I at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 14.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 9.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 12.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": 7.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 10.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 7.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": -1.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 16.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 1.0,
+    "new_errors_mean": 29.0,
+    "net_repairs_mean": -28.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 26.0,
+    "net_repairs_mean": -26.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 0.0
+  },
+  {
+    "contrast": "C-P at I",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 2.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 17.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -5.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 22.0,
+    "net_repairs_mean": -19.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 20.0,
+    "net_repairs_mean": -20.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 13.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 13.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 4.0,
+    "new_errors_mean": 2.0,
+    "net_repairs_mean": 2.0
+  },
+  {
+    "contrast": "C-P at Pool",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 5.0,
+    "net_repairs_mean": -2.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "repairs_mean": 21.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 6.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "repairs_mean": 21.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 6.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "repairs_mean": 20.0,
+    "new_errors_mean": 15.0,
+    "net_repairs_mean": 5.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 14.0,
+    "net_repairs_mean": -11.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "repairs_mean": 0.0,
+    "new_errors_mean": 12.0,
+    "net_repairs_mean": -12.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "repairs_mean": 15.0,
+    "new_errors_mean": 0.0,
+    "net_repairs_mean": 15.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "repairs_mean": 6.0,
+    "new_errors_mean": 3.0,
+    "net_repairs_mean": 3.0
+  },
+  {
+    "contrast": "C-P at S2",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "repairs_mean": 3.0,
+    "new_errors_mean": 4.0,
+    "net_repairs_mean": -1.0
+  }
+]

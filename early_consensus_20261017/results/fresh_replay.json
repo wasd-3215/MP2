@@ -1,0 +1,290 @@
+[
+  {
+    "name": "All_P_Late_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Late_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Late_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Late_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Late_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Late_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_P_Early_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Late_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "All_C_Early_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Late_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_P_Early_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Late_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_seed17",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_seed29",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_seed43",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_seed71",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_seed101",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  },
+  {
+    "name": "D_C_Early_ensemble5",
+    "matches_full_bank_saved_logits_plus_fixed_decision": true,
+    "easy_correct": 443,
+    "neural_questions": 355
+  }
+]

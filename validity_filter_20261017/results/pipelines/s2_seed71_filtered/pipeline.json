@@ -1,0 +1,8 @@
+{
+  "members": [
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2\\seed_71\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": null,
+  "filter_invalid": true
+}

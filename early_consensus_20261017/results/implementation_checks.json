@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "configurations": [
+    {
+      "feature": "P",
+      "position": "Late",
+      "attention_directly_feature_conditioned": false
+    },
+    {
+      "feature": "P",
+      "position": "Early",
+      "attention_directly_feature_conditioned": false
+    },
+    {
+      "feature": "C",
+      "position": "Late",
+      "attention_directly_feature_conditioned": false
+    },
+    {
+      "feature": "C",
+      "position": "Early",
+      "attention_directly_feature_conditioned": true
+    }
+  ],
+  "matched_parameters": 272769,
+  "zero_injection_identical_initial_state_and_function": true,
+  "Late_attention_inputs_not_conditioned": true,
+  "Early_attention_inputs_conditioned": true,
+  "P_ignores_consensus": true,
+  "finite_gradients": true,
+  "permutation_and_single_batch": true,
+  "cyclic_sampler_complete_passes_and_leftovers": true,
+  "input_only_routing_parser_equivalence": true,
+  "fully_easy_bank_without_model_loading": true,
+  "all_invalid_neural_fallback": true
+}

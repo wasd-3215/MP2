@@ -1,0 +1,658 @@
+[
+  {
+    "name": "All_P_Late_seed17",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_seed17",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_P_Late_seed29",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_seed29",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_P_Late_seed43",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_seed43",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_P_Late_seed71",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_seed71",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_P_Late_seed101",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_seed101",
+    "asset_bytes": 1102520
+  },
+  {
+    "name": "All_P_Late_ensemble5",
+    "variant": "All_P_Late",
+    "scope": "All",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Late_ensemble5",
+    "asset_bytes": 5512060
+  },
+  {
+    "name": "All_P_Early_seed17",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_seed17",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_P_Early_seed29",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_seed29",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_P_Early_seed43",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_seed43",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_P_Early_seed71",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_seed71",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_P_Early_seed101",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_seed101",
+    "asset_bytes": 1102522
+  },
+  {
+    "name": "All_P_Early_ensemble5",
+    "variant": "All_P_Early",
+    "scope": "All",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_P_Early_ensemble5",
+    "asset_bytes": 5512070
+  },
+  {
+    "name": "All_C_Late_seed17",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_seed17",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_C_Late_seed29",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_seed29",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_C_Late_seed43",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_seed43",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_C_Late_seed71",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_seed71",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "All_C_Late_seed101",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_seed101",
+    "asset_bytes": 1102520
+  },
+  {
+    "name": "All_C_Late_ensemble5",
+    "variant": "All_C_Late",
+    "scope": "All",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Late_ensemble5",
+    "asset_bytes": 5512060
+  },
+  {
+    "name": "All_C_Early_seed17",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_seed17",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_C_Early_seed29",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_seed29",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_C_Early_seed43",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_seed43",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_C_Early_seed71",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_seed71",
+    "asset_bytes": 1102521
+  },
+  {
+    "name": "All_C_Early_seed101",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_seed101",
+    "asset_bytes": 1102522
+  },
+  {
+    "name": "All_C_Early_ensemble5",
+    "variant": "All_C_Early",
+    "scope": "All",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\All_C_Early_ensemble5",
+    "asset_bytes": 5512070
+  },
+  {
+    "name": "D_P_Late_seed17",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_seed17",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_P_Late_seed29",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_seed29",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_P_Late_seed43",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_seed43",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_P_Late_seed71",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_seed71",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_P_Late_seed101",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_seed101",
+    "asset_bytes": 1102518
+  },
+  {
+    "name": "D_P_Late_ensemble5",
+    "variant": "D_P_Late",
+    "scope": "D",
+    "feature": "P",
+    "position": "Late",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Late_ensemble5",
+    "asset_bytes": 5512050
+  },
+  {
+    "name": "D_P_Early_seed17",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_seed17",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_P_Early_seed29",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_seed29",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_P_Early_seed43",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_seed43",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_P_Early_seed71",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_seed71",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_P_Early_seed101",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_seed101",
+    "asset_bytes": 1102520
+  },
+  {
+    "name": "D_P_Early_ensemble5",
+    "variant": "D_P_Early",
+    "scope": "D",
+    "feature": "P",
+    "position": "Early",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_P_Early_ensemble5",
+    "asset_bytes": 5512060
+  },
+  {
+    "name": "D_C_Late_seed17",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_seed17",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_C_Late_seed29",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_seed29",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_C_Late_seed43",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_seed43",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_C_Late_seed71",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_seed71",
+    "asset_bytes": 1102517
+  },
+  {
+    "name": "D_C_Late_seed101",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_seed101",
+    "asset_bytes": 1102518
+  },
+  {
+    "name": "D_C_Late_ensemble5",
+    "variant": "D_C_Late",
+    "scope": "D",
+    "feature": "C",
+    "position": "Late",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Late_ensemble5",
+    "asset_bytes": 5512050
+  },
+  {
+    "name": "D_C_Early_seed17",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_seed17",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_C_Early_seed29",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_seed29",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_C_Early_seed43",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_seed43",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_C_Early_seed71",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_seed71",
+    "asset_bytes": 1102519
+  },
+  {
+    "name": "D_C_Early_seed101",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_seed101",
+    "asset_bytes": 1102520
+  },
+  {
+    "name": "D_C_Early_ensemble5",
+    "variant": "D_C_Early",
+    "scope": "D",
+    "feature": "C",
+    "position": "Early",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\early_consensus_20261017\\results\\pipelines\\D_C_Early_ensemble5",
+    "asset_bytes": 5512060
+  }
+]

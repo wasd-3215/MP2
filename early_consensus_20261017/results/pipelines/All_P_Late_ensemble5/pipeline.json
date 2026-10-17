@@ -1,0 +1,12 @@
+{
+  "members": [
+    "..\\..\\runs\\All_P_Late\\seed_17\\bundle",
+    "..\\..\\runs\\All_P_Late\\seed_29\\bundle",
+    "..\\..\\runs\\All_P_Late\\seed_43\\bundle",
+    "..\\..\\runs\\All_P_Late\\seed_71\\bundle",
+    "..\\..\\runs\\All_P_Late\\seed_101\\bundle"
+  ],
+  "rule": "mean_sigmoid_probability",
+  "one_valid_group_bypass": true,
+  "final_validity_filter": true
+}

@@ -1,0 +1,11 @@
+{
+  "train": 4755,
+  "validation": 798,
+  "train_D": 2114,
+  "validation_D": 355,
+  "train_easy": 2641,
+  "validation_easy": 443,
+  "pool_selection_references_used": false,
+  "standardization_fit_split": "all training inputs, shared across scopes",
+  "test_used": false
+}

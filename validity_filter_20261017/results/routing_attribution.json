@@ -1,0 +1,56 @@
+[
+  {
+    "comparison": "C-A",
+    "stratum": "all",
+    "questions": 798,
+    "answer_changes": 8,
+    "repairs": 6,
+    "new_errors": 2,
+    "net_repairs": 4
+  },
+  {
+    "comparison": "C-A",
+    "stratum": "base_choice_valid",
+    "questions": 796,
+    "answer_changes": 7,
+    "repairs": 5,
+    "new_errors": 2,
+    "net_repairs": 3
+  },
+  {
+    "comparison": "C-A",
+    "stratum": "base_choice_invalid",
+    "questions": 2,
+    "answer_changes": 1,
+    "repairs": 1,
+    "new_errors": 0,
+    "net_repairs": 1
+  },
+  {
+    "comparison": "D-B",
+    "stratum": "all",
+    "questions": 798,
+    "answer_changes": 7,
+    "repairs": 5,
+    "new_errors": 2,
+    "net_repairs": 3
+  },
+  {
+    "comparison": "D-B",
+    "stratum": "base_choice_valid",
+    "questions": 798,
+    "answer_changes": 7,
+    "repairs": 5,
+    "new_errors": 2,
+    "net_repairs": 3
+  },
+  {
+    "comparison": "D-B",
+    "stratum": "base_choice_invalid",
+    "questions": 0,
+    "answer_changes": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "net_repairs": 0
+  }
+]

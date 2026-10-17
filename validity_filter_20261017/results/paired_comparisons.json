@@ -1,0 +1,1730 @@
+[
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 91.72932330827066,
+    "right_accuracy": 91.25313283208021,
+    "difference_pp": 0.47619047619047616,
+    "ci95_pp": [
+      0.15037593984962402,
+      0.9273182957393483
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.24821002386635,
+    "right_accuracy": 83.34128878281624,
+    "difference_pp": 0.9069212410501192,
+    "ci95_pp": [
+      0.28639618138424816,
+      1.718377088305489
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.418803418803435,
+    "right_accuracy": 61.367521367521384,
+    "difference_pp": 2.051282051282051,
+    "ci95_pp": [
+      0.5128205128205128,
+      4.273504273504273
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 59.33333333333333,
+    "difference_pp": 0.6666666666666665,
+    "ci95_pp": [
+      0.0,
+      1.6666666666666663
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 93.94833948339483,
+    "right_accuracy": 93.06273062730627,
+    "difference_pp": 0.8856088560885609,
+    "ci95_pp": [
+      0.07380073800738006,
+      2.0664206642066416
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 70.9090909090909,
+    "right_accuracy": 69.77272727272728,
+    "difference_pp": 1.1363636363636362,
+    "ci95_pp": [
+      0.2272727272727272,
+      2.5
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 81.40845070422536,
+    "right_accuracy": 81.01408450704226,
+    "difference_pp": 0.39436619718309857,
+    "ci95_pp": [
+      0.11267605633802816,
+      0.732394366197183
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.73015873015872,
+    "right_accuracy": 85.71428571428571,
+    "difference_pp": 3.0158730158730154,
+    "ci95_pp": [
+      0.9523809523809521,
+      5.714285714285714
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.35588972431079,
+    "right_accuracy": 92.10526315789474,
+    "difference_pp": 0.2506265664160401,
+    "ci95_pp": [
+      0.0,
+      0.6265664160401002
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.44152744630071,
+    "right_accuracy": 84.96420047732697,
+    "difference_pp": 0.47732696897374705,
+    "ci95_pp": [
+      0.0,
+      1.1933174224343674
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 64.95726495726495,
+    "right_accuracy": 64.1025641025641,
+    "difference_pp": 0.8547008547008548,
+    "ci95_pp": [
+      0.0,
+      2.564102564102564
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 61.66666666666667,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.8339483394834,
+    "right_accuracy": 94.0959409594096,
+    "difference_pp": 0.7380073800738007,
+    "ci95_pp": [
+      0.0,
+      1.8450184501845017
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 72.72727272727273,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.8169014084507,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2: filter - original (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 89.68253968253968,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      0.0,
+      3.968253968253968
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 91.8546365914787,
+    "right_accuracy": 91.65413533834588,
+    "difference_pp": 0.20050125313283207,
+    "ci95_pp": [
+      0.025062656641604005,
+      0.5012531328320802
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.48687350835323,
+    "right_accuracy": 84.10501193317423,
+    "difference_pp": 0.3818615751789976,
+    "ci95_pp": [
+      0.04773269689737469,
+      0.9546539379474941
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786326,
+    "right_accuracy": 62.73504273504275,
+    "difference_pp": 0.5128205128205128,
+    "ci95_pp": [
+      0.0,
+      1.1965811965811963
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 60.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.39114391143913,
+    "right_accuracy": 94.02214022140221,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      0.0,
+      1.107011070110701
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 70.68181818181819,
+    "right_accuracy": 70.0,
+    "difference_pp": 0.6818181818181817,
+    "ci95_pp": [
+      0.0,
+      1.5909090909090904
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 81.69014084507043,
+    "right_accuracy": 81.52112676056339,
+    "difference_pp": 0.16901408450704222,
+    "ci95_pp": [
+      0.0,
+      0.3943661971830985
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.88888888888889,
+    "right_accuracy": 87.61904761904762,
+    "difference_pp": 1.2698412698412698,
+    "ci95_pp": [
+      0.1587301587301587,
+      3.1746031746031744
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.10526315789474,
+    "right_accuracy": 91.97994987468672,
+    "difference_pp": 0.12531328320802004,
+    "ci95_pp": [
+      0.0,
+      0.37593984962406013
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.96420047732697,
+    "right_accuracy": 84.7255369928401,
+    "difference_pp": 0.23866348448687352,
+    "ci95_pp": [
+      0.0,
+      0.7159904534606205
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786324,
+    "right_accuracy": 63.24786324786324,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 60.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.8339483394834,
+    "right_accuracy": 94.4649446494465,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      0.0,
+      1.107011070110701
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 71.5909090909091,
+    "right_accuracy": 71.5909090909091,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.25352112676056,
+    "right_accuracy": 82.25352112676056,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse: filter - original (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.88888888888889,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      0.0,
+      2.380952380952381
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.15538847117796,
+    "right_accuracy": 92.13032581453635,
+    "difference_pp": 0.025062656641604005,
+    "ci95_pp": [
+      0.0,
+      0.07518796992481201
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.05966587112171,
+    "right_accuracy": 85.01193317422434,
+    "difference_pp": 0.04773269689737469,
+    "ci95_pp": [
+      0.0,
+      0.14319809069212408
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 51.7948717948718,
+    "right_accuracy": 51.62393162393163,
+    "difference_pp": 0.1709401709401709,
+    "ci95_pp": [
+      0.0,
+      0.5128205128205128
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 36.333333333333336,
+    "right_accuracy": 36.333333333333336,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 99.63099630996311,
+    "right_accuracy": 99.63099630996311,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 73.40909090909092,
+    "right_accuracy": 73.18181818181819,
+    "difference_pp": 0.2272727272727272,
+    "ci95_pp": [
+      0.0,
+      0.6818181818181817
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.36619718309859,
+    "right_accuracy": 82.30985915492958,
+    "difference_pp": 0.05633802816901408,
+    "ci95_pp": [
+      0.0,
+      0.16901408450704222
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.93650793650794,
+    "right_accuracy": 87.77777777777779,
+    "difference_pp": 0.1587301587301587,
+    "ci95_pp": [
+      0.0,
+      0.47619047619047605
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.73182957393483,
+    "right_accuracy": 92.73182957393483,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 86.15751789976133,
+    "right_accuracy": 86.15751789976133,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 53.84615384615385,
+    "right_accuracy": 53.84615384615385,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 40.0,
+    "right_accuracy": 40.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 100.0,
+    "right_accuracy": 100.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 75.0,
+    "right_accuracy": 75.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 83.66197183098592,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency: filter - original (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.3015873015873,
+    "right_accuracy": 87.3015873015873,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 91.65413533834588,
+    "right_accuracy": 91.25313283208021,
+    "difference_pp": 0.40100250626566414,
+    "ci95_pp": [
+      -0.050125313283208066,
+      0.9273182957393483
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.10501193317423,
+    "right_accuracy": 83.34128878281624,
+    "difference_pp": 0.7637231503579952,
+    "ci95_pp": [
+      -0.09546539379474955,
+      1.7183770883054894
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 62.73504273504275,
+    "right_accuracy": 61.367521367521384,
+    "difference_pp": 1.3675213675213675,
+    "ci95_pp": [
+      -1.367521367521367,
+      4.444444444444444
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 59.33333333333333,
+    "difference_pp": 0.6666666666666665,
+    "ci95_pp": [
+      -3.0000000000000004,
+      4.666666666666666
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.02214022140221,
+    "right_accuracy": 93.06273062730627,
+    "difference_pp": 0.959409594095941,
+    "ci95_pp": [
+      0.21955719557195713,
+      1.9926199261992616
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 70.0,
+    "right_accuracy": 69.77272727272728,
+    "difference_pp": 0.2272727272727274,
+    "ci95_pp": [
+      -1.8181818181818183,
+      2.272727272727273
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 81.52112676056339,
+    "right_accuracy": 81.01408450704226,
+    "difference_pp": 0.5070422535211268,
+    "ci95_pp": [
+      -0.3943661971830987,
+      1.464788732394366
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.61904761904762,
+    "right_accuracy": 85.71428571428571,
+    "difference_pp": 1.9047619047619049,
+    "ci95_pp": [
+      -0.15873015873015897,
+      4.444444444444445
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 91.97994987468672,
+    "right_accuracy": 92.10526315789474,
+    "difference_pp": -0.12531328320802004,
+    "ci95_pp": [
+      -0.8771929824561403,
+      0.6265664160401002
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.7255369928401,
+    "right_accuracy": 84.96420047732697,
+    "difference_pp": -0.23866348448687352,
+    "ci95_pp": [
+      -1.6706443914081146,
+      1.1933174224343674
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786324,
+    "right_accuracy": 64.1025641025641,
+    "difference_pp": -0.8547008547008548,
+    "ci95_pp": [
+      -4.273504273504273,
+      2.564102564102564
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": -1.6666666666666667,
+    "ci95_pp": [
+      -6.666666666666667,
+      3.3333333333333335
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.4649446494465,
+    "right_accuracy": 94.0959409594096,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      -0.7380073800738007,
+      1.8450184501845017
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 71.5909090909091,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": -1.1363636363636365,
+    "ci95_pp": [
+      -4.545454545454546,
+      2.272727272727273
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.25352112676056,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": -0.5633802816901409,
+    "ci95_pp": [
+      -2.2535211267605635,
+      0.8450704225352111
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: original (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.09523809523809,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -3.1746031746031744,
+      3.1746031746031744
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.13032581453635,
+    "right_accuracy": 91.65413533834588,
+    "difference_pp": 0.47619047619047616,
+    "ci95_pp": [
+      -0.6766917293233083,
+      1.6290726817042605
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.01193317422434,
+    "right_accuracy": 84.10501193317423,
+    "difference_pp": 0.9069212410501192,
+    "ci95_pp": [
+      -1.288782816229117,
+      3.1980906921241044
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 51.62393162393163,
+    "right_accuracy": 62.73504273504275,
+    "difference_pp": -11.11111111111111,
+    "ci95_pp": [
+      -16.410256410256412,
+      -5.982905982905984
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 36.333333333333336,
+    "right_accuracy": 60.0,
+    "difference_pp": -23.666666666666668,
+    "ci95_pp": [
+      -32.00000000000001,
+      -16.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 99.63099630996311,
+    "right_accuracy": 94.02214022140221,
+    "difference_pp": 5.608856088560885,
+    "ci95_pp": [
+      3.468634686346863,
+      7.970479704797048
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 73.18181818181819,
+    "right_accuracy": 70.0,
+    "difference_pp": 3.1818181818181817,
+    "ci95_pp": [
+      0.0,
+      6.590909090909092
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.30985915492958,
+    "right_accuracy": 81.52112676056339,
+    "difference_pp": 0.7887323943661971,
+    "ci95_pp": [
+      -1.8028169014084505,
+      3.323943661971831
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.77777777777779,
+    "right_accuracy": 87.61904761904762,
+    "difference_pp": 0.1587301587301588,
+    "ci95_pp": [
+      -3.3333333333333335,
+      3.6507936507936503
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.73182957393483,
+    "right_accuracy": 91.97994987468672,
+    "difference_pp": 0.7518796992481203,
+    "ci95_pp": [
+      -0.7518796992481203,
+      2.2556390977443606
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 86.15751789976133,
+    "right_accuracy": 84.7255369928401,
+    "difference_pp": 1.431980906921241,
+    "ci95_pp": [
+      -1.431980906921241,
+      4.295942720763723
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 53.84615384615385,
+    "right_accuracy": 63.24786324786324,
+    "difference_pp": -9.401709401709402,
+    "ci95_pp": [
+      -16.23931623931624,
+      -2.564102564102564
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 40.0,
+    "right_accuracy": 60.0,
+    "difference_pp": -20.0,
+    "ci95_pp": [
+      -30.0,
+      -10.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 100.0,
+    "right_accuracy": 94.4649446494465,
+    "difference_pp": 5.535055350553505,
+    "ci95_pp": [
+      2.952029520295203,
+      8.487084870848708
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 75.0,
+    "right_accuracy": 71.5909090909091,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -3.4090909090909087,
+      10.227272727272728
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 82.25352112676056,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -1.6901408450704223,
+      4.788732394366197
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: original (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.3015873015873,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -4.761904761904762,
+      3.1746031746031744
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 91.8546365914787,
+    "right_accuracy": 91.72932330827066,
+    "difference_pp": 0.12531328320802004,
+    "ci95_pp": [
+      -0.3007518796992481,
+      0.5513784461152882
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.48687350835323,
+    "right_accuracy": 84.24821002386635,
+    "difference_pp": 0.23866348448687352,
+    "ci95_pp": [
+      -0.5727923627684963,
+      1.0501193317422435
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786326,
+    "right_accuracy": 63.418803418803435,
+    "difference_pp": -0.1709401709401708,
+    "ci95_pp": [
+      -2.564102564102564,
+      2.2222222222222223
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 60.0,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -3.666666666666666,
+      4.000000000000001
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.39114391143913,
+    "right_accuracy": 93.94833948339483,
+    "difference_pp": 0.44280442804428044,
+    "ci95_pp": [
+      -0.07380073800738014,
+      1.0332103321033208
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 70.68181818181819,
+    "right_accuracy": 70.9090909090909,
+    "difference_pp": -0.2272727272727271,
+    "ci95_pp": [
+      -2.5,
+      1.8181818181818183
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 81.69014084507043,
+    "right_accuracy": 81.40845070422536,
+    "difference_pp": 0.28169014084507044,
+    "ci95_pp": [
+      -0.6760563380281689,
+      1.23943661971831
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.88888888888889,
+    "right_accuracy": 88.73015873015872,
+    "difference_pp": 0.15873015873015878,
+    "ci95_pp": [
+      -1.5873015873015872,
+      2.0634920634920633
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.10526315789474,
+    "right_accuracy": 92.35588972431079,
+    "difference_pp": -0.2506265664160401,
+    "ci95_pp": [
+      -1.0025062656641603,
+      0.37593984962406013
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 84.96420047732697,
+    "right_accuracy": 85.44152744630071,
+    "difference_pp": -0.47732696897374705,
+    "ci95_pp": [
+      -1.9093078758949882,
+      0.7159904534606205
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786324,
+    "right_accuracy": 64.95726495726495,
+    "difference_pp": -1.7094017094017095,
+    "ci95_pp": [
+      -5.128205128205128,
+      1.7094017094017095
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 60.0,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": -1.6666666666666667,
+    "ci95_pp": [
+      -8.333333333333332,
+      3.3333333333333335
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.8339483394834,
+    "right_accuracy": 94.8339483394834,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -1.107011070110701,
+      1.107011070110701
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 71.5909090909091,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": -1.1363636363636365,
+    "ci95_pp": [
+      -5.681818181818182,
+      2.272727272727273
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.25352112676056,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": -0.5633802816901409,
+    "ci95_pp": [
+      -2.2535211267605635,
+      1.1267605633802817
+    ]
+  },
+  {
+    "comparison": "s2_parse - s2: filtered (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.88888888888889,
+    "right_accuracy": 89.68253968253968,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      1.5873015873015872
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.15538847117796,
+    "right_accuracy": 91.8546365914787,
+    "difference_pp": 0.30075187969924805,
+    "ci95_pp": [
+      -0.8270676691729324,
+      1.4536340852130325
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.05966587112171,
+    "right_accuracy": 84.48687350835323,
+    "difference_pp": 0.5727923627684963,
+    "ci95_pp": [
+      -1.5751789976133652,
+      2.720763723150358
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 51.7948717948718,
+    "right_accuracy": 63.24786324786326,
+    "difference_pp": -11.452991452991451,
+    "ci95_pp": [
+      -16.581196581196583,
+      -6.495726495726495
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 36.333333333333336,
+    "right_accuracy": 60.0,
+    "difference_pp": -23.666666666666668,
+    "ci95_pp": [
+      -32.0,
+      -15.999999999999998
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 99.63099630996311,
+    "right_accuracy": 94.39114391143913,
+    "difference_pp": 5.239852398523985,
+    "ci95_pp": [
+      3.1734317343173433,
+      7.527675276752767
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 73.40909090909092,
+    "right_accuracy": 70.68181818181819,
+    "difference_pp": 2.727272727272727,
+    "ci95_pp": [
+      -0.45454545454545453,
+      6.136363636363637
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.36619718309859,
+    "right_accuracy": 81.69014084507043,
+    "difference_pp": 0.6760563380281691,
+    "ci95_pp": [
+      -1.8028169014084507,
+      3.2112676056338025
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (five-seed mean)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.93650793650794,
+    "right_accuracy": 88.88888888888889,
+    "difference_pp": -0.9523809523809523,
+    "ci95_pp": [
+      -3.968253968253968,
+      2.0634920634920633
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.73182957393483,
+    "right_accuracy": 92.10526315789474,
+    "difference_pp": 0.6265664160401002,
+    "ci95_pp": [
+      -0.7518796992481203,
+      2.1303258145363406
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 86.15751789976133,
+    "right_accuracy": 84.96420047732697,
+    "difference_pp": 1.1933174224343674,
+    "ci95_pp": [
+      -1.6706443914081146,
+      4.05727923627685
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 53.84615384615385,
+    "right_accuracy": 63.24786324786324,
+    "difference_pp": -9.401709401709402,
+    "ci95_pp": [
+      -16.23931623931624,
+      -3.418803418803419
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 40.0,
+    "right_accuracy": 60.0,
+    "difference_pp": -20.0,
+    "ci95_pp": [
+      -30.0,
+      -10.0
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 100.0,
+    "right_accuracy": 94.8339483394834,
+    "difference_pp": 5.166051660516605,
+    "ci95_pp": [
+      2.5830258302583027,
+      7.7490774907749085
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 75.0,
+    "right_accuracy": 71.5909090909091,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -3.4090909090909087,
+      10.227272727272728
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 82.25352112676056,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -1.6901408450704223,
+      4.788732394366197
+    ]
+  },
+  {
+    "comparison": "s2_consistency - s2_parse: filtered (ensemble)",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 87.3015873015873,
+    "right_accuracy": 88.88888888888889,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -5.555555555555555,
+      2.380952380952381
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.35588972431079,
+    "right_accuracy": 92.10526315789474,
+    "difference_pp": 0.2506265664160401,
+    "ci95_pp": [
+      0.0,
+      0.6265664160401002
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.44152744630071,
+    "right_accuracy": 84.96420047732697,
+    "difference_pp": 0.47732696897374705,
+    "ci95_pp": [
+      0.0,
+      1.1933174224343674
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 64.95726495726495,
+    "right_accuracy": 64.1025641025641,
+    "difference_pp": 0.8547008547008548,
+    "ci95_pp": [
+      0.0,
+      2.564102564102564
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 61.66666666666667,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 94.8339483394834,
+    "right_accuracy": 94.0959409594096,
+    "difference_pp": 0.7380073800738007,
+    "ci95_pp": [
+      0.0,
+      1.8450184501845017
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 72.72727272727273,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 82.8169014084507,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "B-A: filter",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 89.68253968253968,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      0.0,
+      3.968253968253968
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.60651629072682,
+    "right_accuracy": 92.10526315789474,
+    "difference_pp": 0.5012531328320802,
+    "ci95_pp": [
+      -0.12531328320802004,
+      1.2531328320802004
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 85.91885441527445,
+    "right_accuracy": 84.96420047732697,
+    "difference_pp": 0.9546539379474941,
+    "ci95_pp": [
+      -0.23866348448687352,
+      2.386634844868735
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 62.39316239316239,
+    "right_accuracy": 64.1025641025641,
+    "difference_pp": -1.7094017094017095,
+    "ci95_pp": [
+      -4.273504273504273,
+      0.0
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 58.333333333333336,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": -3.3333333333333335,
+    "ci95_pp": [
+      -8.333333333333332,
+      0.0
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 96.30996309963099,
+    "right_accuracy": 94.0959409594096,
+    "difference_pp": 2.214022140221402,
+    "ci95_pp": [
+      0.7380073800738007,
+      4.059040590405904
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 72.72727272727273,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": 0.8450704225352111,
+    "ci95_pp": [
+      -0.5633802816901409,
+      2.2535211267605635
+    ]
+  },
+  {
+    "comparison": "C-A: frozen route",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 88.88888888888889,
+    "right_accuracy": 88.09523809523809,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      0.0,
+      2.380952380952381
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.73182957393483,
+    "right_accuracy": 92.35588972431079,
+    "difference_pp": 0.37593984962406013,
+    "ci95_pp": [
+      -0.2506265664160401,
+      1.0025062656641603
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 86.15751789976133,
+    "right_accuracy": 85.44152744630071,
+    "difference_pp": 0.7159904534606205,
+    "ci95_pp": [
+      -0.47732696897374705,
+      1.9093078758949882
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786324,
+    "right_accuracy": 64.95726495726495,
+    "difference_pp": -1.7094017094017095,
+    "ci95_pp": [
+      -4.273504273504273,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 58.333333333333336,
+    "right_accuracy": 61.66666666666667,
+    "difference_pp": -3.3333333333333335,
+    "ci95_pp": [
+      -8.333333333333332,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 96.6789667896679,
+    "right_accuracy": 94.8339483394834,
+    "difference_pp": 1.8450184501845017,
+    "ci95_pp": [
+      0.36900369003690037,
+      3.6900369003690034
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 72.72727272727273,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 82.8169014084507,
+    "difference_pp": 0.8450704225352111,
+    "ci95_pp": [
+      -0.5633802816901409,
+      2.2535211267605635
+    ]
+  },
+  {
+    "comparison": "D-B: frozen route after equal final filtering",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 89.68253968253968,
+    "right_accuracy": 89.68253968253968,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "all",
+    "questions": 798,
+    "left_accuracy": 92.73182957393483,
+    "right_accuracy": 92.60651629072682,
+    "difference_pp": 0.12531328320802004,
+    "ci95_pp": [
+      0.0,
+      0.37593984962406013
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "mixed",
+    "questions": 419,
+    "left_accuracy": 86.15751789976133,
+    "right_accuracy": 85.91885441527445,
+    "difference_pp": 0.23866348448687352,
+    "ci95_pp": [
+      0.0,
+      0.7159904534606205
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "left_accuracy": 63.24786324786324,
+    "right_accuracy": 62.39316239316239,
+    "difference_pp": 0.8547008547008548,
+    "ci95_pp": [
+      0.0,
+      2.564102564102564
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "left_accuracy": 58.333333333333336,
+    "right_accuracy": 58.333333333333336,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "left_accuracy": 96.6789667896679,
+    "right_accuracy": 96.30996309963099,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      0.0,
+      1.107011070110701
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "left_accuracy": 72.72727272727273,
+    "right_accuracy": 72.72727272727273,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "left_accuracy": 83.66197183098592,
+    "right_accuracy": 83.66197183098592,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "comparison": "D-C: filter after route",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "left_accuracy": 89.68253968253968,
+    "right_accuracy": 88.88888888888889,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      0.0,
+      2.380952380952381
+    ]
+  }
+]

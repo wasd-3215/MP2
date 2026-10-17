@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17 Asia/Shanghai",
+  "split": "validation",
+  "training_runs": 0,
+  "source": "fusion_confidence_20261017 fixed20 full-data models",
+  "variants": [
+    "s2",
+    "s2_parse",
+    "s2_consistency"
+  ],
+  "seeds": [
+    17,
+    29,
+    43,
+    71,
+    101
+  ],
+  "predictors": 38,
+  "paired_filters": 19,
+  "filter": "After complete scoring and frozen routing; replace invalid choice with highest original aggregate score among valid candidates; preserve valid/all-invalid choices",
+  "tie_rule": "earliest original candidate",
+  "routing": {
+    "signal": "model_agreement",
+    "threshold": 0.8,
+    "min_support": 3
+  },
+  "no_recalibration_or_threshold_search": true,
+  "test_used": false,
+  "bootstrap": {
+    "unit": "question",
+    "replicates": 10000,
+    "seed": 20261017,
+    "scope": "descriptive conditional on frozen predictors and repeated validation development"
+  },
+  "selection": "No model winner selected; all predeclared comparisons retained"
+}

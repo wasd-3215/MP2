@@ -1,0 +1,290 @@
+[
+  {
+    "raw": "I_P_seed17_raw",
+    "filtered": "I_P_seed17_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_P_seed29_raw",
+    "filtered": "I_P_seed29_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_P_seed43_raw",
+    "filtered": "I_P_seed43_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_P_seed71_raw",
+    "filtered": "I_P_seed71_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_P_seed101_raw",
+    "filtered": "I_P_seed101_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_P_ensemble5_raw",
+    "filtered": "I_P_ensemble5_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_seed17_raw",
+    "filtered": "I_C_seed17_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_seed29_raw",
+    "filtered": "I_C_seed29_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_seed43_raw",
+    "filtered": "I_C_seed43_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_seed71_raw",
+    "filtered": "I_C_seed71_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_seed101_raw",
+    "filtered": "I_C_seed101_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "I_C_ensemble5_raw",
+    "filtered": "I_C_ensemble5_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_seed17_raw",
+    "filtered": "Pool_P_seed17_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_seed29_raw",
+    "filtered": "Pool_P_seed29_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_seed43_raw",
+    "filtered": "Pool_P_seed43_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_seed71_raw",
+    "filtered": "Pool_P_seed71_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_seed101_raw",
+    "filtered": "Pool_P_seed101_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_P_ensemble5_raw",
+    "filtered": "Pool_P_ensemble5_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_seed17_raw",
+    "filtered": "Pool_C_seed17_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_seed29_raw",
+    "filtered": "Pool_C_seed29_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_seed43_raw",
+    "filtered": "Pool_C_seed43_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_seed71_raw",
+    "filtered": "Pool_C_seed71_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_seed101_raw",
+    "filtered": "Pool_C_seed101_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "Pool_C_ensemble5_raw",
+    "filtered": "Pool_C_ensemble5_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "S2_P_seed17_raw",
+    "filtered": "S2_P_seed17_filtered",
+    "replacements": 1,
+    "repairs": 1,
+    "new_errors": 0,
+    "gain_pp": 0.12531328320802004
+  },
+  {
+    "raw": "S2_P_seed29_raw",
+    "filtered": "S2_P_seed29_filtered",
+    "replacements": 2,
+    "repairs": 2,
+    "new_errors": 0,
+    "gain_pp": 0.2506265664160401
+  },
+  {
+    "raw": "S2_P_seed43_raw",
+    "filtered": "S2_P_seed43_filtered",
+    "replacements": 2,
+    "repairs": 2,
+    "new_errors": 0,
+    "gain_pp": 0.2506265664160401
+  },
+  {
+    "raw": "S2_P_seed71_raw",
+    "filtered": "S2_P_seed71_filtered",
+    "replacements": 2,
+    "repairs": 2,
+    "new_errors": 0,
+    "gain_pp": 0.2506265664160401
+  },
+  {
+    "raw": "S2_P_seed101_raw",
+    "filtered": "S2_P_seed101_filtered",
+    "replacements": 1,
+    "repairs": 1,
+    "new_errors": 0,
+    "gain_pp": 0.12531328320802004
+  },
+  {
+    "raw": "S2_P_ensemble5_raw",
+    "filtered": "S2_P_ensemble5_filtered",
+    "replacements": 1,
+    "repairs": 1,
+    "new_errors": 0,
+    "gain_pp": 0.12531328320802004
+  },
+  {
+    "raw": "S2_C_seed17_raw",
+    "filtered": "S2_C_seed17_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "S2_C_seed29_raw",
+    "filtered": "S2_C_seed29_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "S2_C_seed43_raw",
+    "filtered": "S2_C_seed43_filtered",
+    "replacements": 1,
+    "repairs": 1,
+    "new_errors": 0,
+    "gain_pp": 0.12531328320802004
+  },
+  {
+    "raw": "S2_C_seed71_raw",
+    "filtered": "S2_C_seed71_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "S2_C_seed101_raw",
+    "filtered": "S2_C_seed101_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  },
+  {
+    "raw": "S2_C_ensemble5_raw",
+    "filtered": "S2_C_ensemble5_filtered",
+    "replacements": 0,
+    "repairs": 0,
+    "new_errors": 0,
+    "gain_pp": 0.0
+  }
+]

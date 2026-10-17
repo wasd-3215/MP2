@@ -1,0 +1,11 @@
+{
+  "members": [
+    "..\\..\\runs\\Pool_C\\seed_17\\bundle",
+    "..\\..\\runs\\Pool_C\\seed_29\\bundle",
+    "..\\..\\runs\\Pool_C\\seed_43\\bundle",
+    "..\\..\\runs\\Pool_C\\seed_71\\bundle",
+    "..\\..\\runs\\Pool_C\\seed_101\\bundle"
+  ],
+  "filter_invalid": false,
+  "rule": "mean_sigmoid_probability"
+}

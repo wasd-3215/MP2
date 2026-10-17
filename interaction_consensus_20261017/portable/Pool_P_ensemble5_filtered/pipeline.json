@@ -1,0 +1,11 @@
+{
+  "members": [
+    "members/00",
+    "members/01",
+    "members/02",
+    "members/03",
+    "members/04"
+  ],
+  "filter_invalid": true,
+  "rule": "mean_sigmoid_probability"
+}

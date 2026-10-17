@@ -1,0 +1,290 @@
+[
+  {
+    "name": "I_P_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_P_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "I_C_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_P_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "Pool_C_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_P_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed17_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed17_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed29_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed29_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed43_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed43_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed71_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed71_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed101_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_seed101_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_ensemble5_raw",
+    "fresh_matches_saved_final_weights_inference": true
+  },
+  {
+    "name": "S2_C_ensemble5_filtered",
+    "fresh_matches_saved_final_weights_inference": true
+  }
+]

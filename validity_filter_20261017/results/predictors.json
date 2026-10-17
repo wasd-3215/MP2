@@ -1,0 +1,498 @@
+[
+  {
+    "name": "s2_seed17_original",
+    "variant": "s2",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed17_original",
+    "asset_bytes": 1099394
+  },
+  {
+    "name": "s2_seed17_filtered",
+    "variant": "s2",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed17_filtered",
+    "asset_bytes": 1099393
+  },
+  {
+    "name": "s2_seed29_original",
+    "variant": "s2",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed29_original",
+    "asset_bytes": 1099394
+  },
+  {
+    "name": "s2_seed29_filtered",
+    "variant": "s2",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed29_filtered",
+    "asset_bytes": 1099393
+  },
+  {
+    "name": "s2_seed43_original",
+    "variant": "s2",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed43_original",
+    "asset_bytes": 1099394
+  },
+  {
+    "name": "s2_seed43_filtered",
+    "variant": "s2",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed43_filtered",
+    "asset_bytes": 1099393
+  },
+  {
+    "name": "s2_seed71_original",
+    "variant": "s2",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed71_original",
+    "asset_bytes": 1099394
+  },
+  {
+    "name": "s2_seed71_filtered",
+    "variant": "s2",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed71_filtered",
+    "asset_bytes": 1099393
+  },
+  {
+    "name": "s2_seed101_original",
+    "variant": "s2",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed101_original",
+    "asset_bytes": 1099395
+  },
+  {
+    "name": "s2_seed101_filtered",
+    "variant": "s2",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_seed101_filtered",
+    "asset_bytes": 1099394
+  },
+  {
+    "name": "s2_ensemble5_original",
+    "variant": "s2",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_ensemble5_original",
+    "asset_bytes": 5496551
+  },
+  {
+    "name": "s2_ensemble5_filtered",
+    "variant": "s2",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_ensemble5_filtered",
+    "asset_bytes": 5496550
+  },
+  {
+    "name": "s2_parse_seed17_original",
+    "variant": "s2_parse",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed17_original",
+    "asset_bytes": 1099657
+  },
+  {
+    "name": "s2_parse_seed17_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed17_filtered",
+    "asset_bytes": 1099656
+  },
+  {
+    "name": "s2_parse_seed29_original",
+    "variant": "s2_parse",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed29_original",
+    "asset_bytes": 1099657
+  },
+  {
+    "name": "s2_parse_seed29_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed29_filtered",
+    "asset_bytes": 1099656
+  },
+  {
+    "name": "s2_parse_seed43_original",
+    "variant": "s2_parse",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed43_original",
+    "asset_bytes": 1099657
+  },
+  {
+    "name": "s2_parse_seed43_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed43_filtered",
+    "asset_bytes": 1099656
+  },
+  {
+    "name": "s2_parse_seed71_original",
+    "variant": "s2_parse",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed71_original",
+    "asset_bytes": 1099657
+  },
+  {
+    "name": "s2_parse_seed71_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed71_filtered",
+    "asset_bytes": 1099656
+  },
+  {
+    "name": "s2_parse_seed101_original",
+    "variant": "s2_parse",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed101_original",
+    "asset_bytes": 1099658
+  },
+  {
+    "name": "s2_parse_seed101_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_seed101_filtered",
+    "asset_bytes": 1099657
+  },
+  {
+    "name": "s2_parse_ensemble5_original",
+    "variant": "s2_parse",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_ensemble5_original",
+    "asset_bytes": 5497866
+  },
+  {
+    "name": "s2_parse_ensemble5_filtered",
+    "variant": "s2_parse",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_parse_ensemble5_filtered",
+    "asset_bytes": 5497865
+  },
+  {
+    "name": "s2_consistency_seed17_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed17_original",
+    "asset_bytes": 1100949
+  },
+  {
+    "name": "s2_consistency_seed17_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      17
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed17_filtered",
+    "asset_bytes": 1100948
+  },
+  {
+    "name": "s2_consistency_seed29_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed29_original",
+    "asset_bytes": 1100949
+  },
+  {
+    "name": "s2_consistency_seed29_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      29
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed29_filtered",
+    "asset_bytes": 1100948
+  },
+  {
+    "name": "s2_consistency_seed43_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed43_original",
+    "asset_bytes": 1100949
+  },
+  {
+    "name": "s2_consistency_seed43_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      43
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed43_filtered",
+    "asset_bytes": 1100948
+  },
+  {
+    "name": "s2_consistency_seed71_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed71_original",
+    "asset_bytes": 1100949
+  },
+  {
+    "name": "s2_consistency_seed71_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      71
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed71_filtered",
+    "asset_bytes": 1100948
+  },
+  {
+    "name": "s2_consistency_seed101_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed101_original",
+    "asset_bytes": 1100950
+  },
+  {
+    "name": "s2_consistency_seed101_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      101
+    ],
+    "members": 1,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_seed101_filtered",
+    "asset_bytes": 1100949
+  },
+  {
+    "name": "s2_consistency_ensemble5_original",
+    "variant": "s2_consistency",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": false,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_ensemble5_original",
+    "asset_bytes": 5504326
+  },
+  {
+    "name": "s2_consistency_ensemble5_filtered",
+    "variant": "s2_consistency",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": true,
+    "routing": null,
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_consistency_ensemble5_filtered",
+    "asset_bytes": 5504325
+  },
+  {
+    "name": "s2_ensemble5_route_original",
+    "variant": "s2",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": false,
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 3
+    },
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_ensemble5_route_original",
+    "asset_bytes": 5496632
+  },
+  {
+    "name": "s2_ensemble5_route_filtered",
+    "variant": "s2",
+    "seeds": [
+      17,
+      29,
+      43,
+      71,
+      101
+    ],
+    "members": 5,
+    "filtered": true,
+    "routing": {
+      "signal": "model_agreement",
+      "threshold": 0.8,
+      "min_support": 3
+    },
+    "checkpoint": "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\validity_filter_20261017\\results\\pipelines\\s2_ensemble5_route_filtered",
+    "asset_bytes": 5496631
+  }
+]

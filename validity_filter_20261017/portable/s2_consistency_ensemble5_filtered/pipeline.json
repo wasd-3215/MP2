@@ -1,0 +1,12 @@
+{
+  "members": [
+    "members/00",
+    "members/01",
+    "members/02",
+    "members/03",
+    "members/04"
+  ],
+  "rule": "mean_probability",
+  "routing": null,
+  "filter_invalid": true
+}

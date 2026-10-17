@@ -1,0 +1,1026 @@
+[
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 92.15538847117794,
+    "correct_mean": 735.4
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 82.36619718309859,
+    "correct_mean": 292.4
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 85.05966587112171,
+    "correct_mean": 356.4
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 63.418803418803414,
+    "correct_mean": 74.2
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 60.0,
+    "correct_mean": 36.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 94.90774907749078,
+    "correct_mean": 257.2
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 71.81818181818181,
+    "correct_mean": 63.2
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.88888888888889,
+    "correct_mean": 112.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.97994987468672,
+    "correct_mean": 734.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 81.97183098591549,
+    "correct_mean": 291.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 84.7255369928401,
+    "correct_mean": 355.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 63.24786324786324,
+    "correct_mean": 74.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 61.66666666666667,
+    "correct_mean": 37.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 94.8339483394834,
+    "correct_mean": 257.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 69.31818181818183,
+    "correct_mean": 61.0
+  },
+  {
+    "variant": "All_P_Late",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.88888888888889,
+    "correct_mean": 112.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 92.15538847117794,
+    "correct_mean": 735.4
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 82.36619718309859,
+    "correct_mean": 292.4
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 85.05966587112171,
+    "correct_mean": 356.4
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 62.9059829059829,
+    "correct_mean": 73.6
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 57.99999999999999,
+    "correct_mean": 34.8
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 95.20295202952029,
+    "correct_mean": 258.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 72.27272727272728,
+    "correct_mean": 63.6
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.57142857142857,
+    "correct_mean": 111.6
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 92.35588972431079,
+    "correct_mean": 737.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 82.8169014084507,
+    "correct_mean": 294.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 85.44152744630071,
+    "correct_mean": 358.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 63.24786324786324,
+    "correct_mean": 74.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 61.66666666666667,
+    "correct_mean": 37.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 95.9409594095941,
+    "correct_mean": 260.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 69.31818181818183,
+    "correct_mean": 61.0
+  },
+  {
+    "variant": "All_P_Early",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.09523809523809,
+    "correct_mean": 111.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.47869674185463,
+    "correct_mean": 730.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 80.84507042253522,
+    "correct_mean": 287.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.7708830548926,
+    "correct_mean": 351.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 45.64102564102564,
+    "correct_mean": 53.4
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 24.666666666666668,
+    "correct_mean": 14.8
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 99.92619926199262,
+    "correct_mean": 270.8
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 74.31818181818181,
+    "correct_mean": 65.4
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.3015873015873,
+    "correct_mean": 110.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.60401002506265,
+    "correct_mean": 731.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 81.12676056338029,
+    "correct_mean": 288.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 84.00954653937947,
+    "correct_mean": 352.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 46.15384615384615,
+    "correct_mean": 54.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 25.0,
+    "correct_mean": 15.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 100.0,
+    "correct_mean": 271.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 75.0,
+    "correct_mean": 66.0
+  },
+  {
+    "variant": "All_C_Late",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.09523809523809,
+    "correct_mean": 111.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.02756892230576,
+    "correct_mean": 726.4
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 79.83098591549296,
+    "correct_mean": 283.4
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 82.91169451073985,
+    "correct_mean": 347.4
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 45.81196581196581,
+    "correct_mean": 53.6
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 25.666666666666664,
+    "correct_mean": 15.4
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 98.96678966789668,
+    "correct_mean": 268.2
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 72.5,
+    "correct_mean": 63.8
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.14285714285714,
+    "correct_mean": 109.8
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.47869674185463,
+    "correct_mean": 730.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 80.84507042253522,
+    "correct_mean": 287.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.7708830548926,
+    "correct_mean": 351.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 47.008547008547005,
+    "correct_mean": 55.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 26.666666666666668,
+    "correct_mean": 16.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 99.63099630996311,
+    "correct_mean": 270.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 73.86363636363636,
+    "correct_mean": 65.0
+  },
+  {
+    "variant": "All_C_Early",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.3015873015873,
+    "correct_mean": 110.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.80451127819549,
+    "correct_mean": 732.6
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 81.57746478873239,
+    "correct_mean": 289.6
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 84.39140811455847,
+    "correct_mean": 353.6
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 60.85470085470085,
+    "correct_mean": 71.2
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 52.666666666666664,
+    "correct_mean": 31.6
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 94.4649446494465,
+    "correct_mean": 256.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 75.0,
+    "correct_mean": 66.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 90.0,
+    "correct_mean": 113.4
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 92.35588972431079,
+    "correct_mean": 737.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 82.8169014084507,
+    "correct_mean": 294.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 85.44152744630071,
+    "correct_mean": 358.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 61.53846153846154,
+    "correct_mean": 72.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 53.333333333333336,
+    "correct_mean": 32.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 95.5719557195572,
+    "correct_mean": 259.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 76.13636363636364,
+    "correct_mean": 67.0
+  },
+  {
+    "variant": "D_P_Late",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 91.26984126984127,
+    "correct_mean": 115.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.57894736842105,
+    "correct_mean": 730.8
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 81.07042253521128,
+    "correct_mean": 287.8
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.9618138424821,
+    "correct_mean": 351.8
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 60.51282051282051,
+    "correct_mean": 70.8
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 54.0,
+    "correct_mean": 32.4
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 94.24354243542436,
+    "correct_mean": 255.4
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 72.72727272727273,
+    "correct_mean": 64.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 89.52380952380953,
+    "correct_mean": 112.8
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 92.23057644110276,
+    "correct_mean": 736.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 82.53521126760563,
+    "correct_mean": 293.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 85.20286396181385,
+    "correct_mean": 357.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 62.39316239316239,
+    "correct_mean": 73.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 55.00000000000001,
+    "correct_mean": 33.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 94.8339483394834,
+    "correct_mean": 257.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 76.13636363636364,
+    "correct_mean": 67.0
+  },
+  {
+    "variant": "D_P_Early",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 91.26984126984127,
+    "correct_mean": 115.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.22807017543859,
+    "correct_mean": 728.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 80.28169014084507,
+    "correct_mean": 285.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.29355608591885,
+    "correct_mean": 349.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 44.61538461538462,
+    "correct_mean": 52.2
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 25.0,
+    "correct_mean": 15.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 99.77859778597787,
+    "correct_mean": 270.4
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 72.27272727272728,
+    "correct_mean": 63.6
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.61904761904762,
+    "correct_mean": 110.4
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.60401002506265,
+    "correct_mean": 731.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 81.12676056338029,
+    "correct_mean": 288.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 84.00954653937947,
+    "correct_mean": 352.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 45.2991452991453,
+    "correct_mean": 53.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 26.666666666666668,
+    "correct_mean": 16.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 100.0,
+    "correct_mean": 271.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 73.86363636363636,
+    "correct_mean": 65.0
+  },
+  {
+    "variant": "D_C_Late",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.3015873015873,
+    "correct_mean": 110.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.203007518797,
+    "correct_mean": 727.8
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 80.22535211267605,
+    "correct_mean": 284.8
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.24582338902148,
+    "correct_mean": 348.8
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 46.666666666666664,
+    "correct_mean": 54.6
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 28.999999999999996,
+    "correct_mean": 17.4
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 98.96678966789668,
+    "correct_mean": 268.2
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 71.81818181818181,
+    "correct_mean": 63.2
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 87.61904761904762,
+    "correct_mean": 110.4
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "accuracy": 91.47869674185463,
+    "correct_mean": 730.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "disagreement",
+    "questions": 355,
+    "accuracy": 80.84507042253522,
+    "correct_mean": 287.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "accuracy": 83.7708830548926,
+    "correct_mean": 351.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "accuracy": 47.863247863247864,
+    "correct_mean": 56.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "accuracy": 30.0,
+    "correct_mean": 18.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "accuracy": 99.2619926199262,
+    "correct_mean": 269.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "accuracy": 72.72727272727273,
+    "correct_mean": 64.0
+  },
+  {
+    "variant": "D_C_Early",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "accuracy": 88.09523809523809,
+    "correct_mean": 111.0
+  }
+]

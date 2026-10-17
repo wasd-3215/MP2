@@ -1,0 +1,36 @@
+{
+  "validation_questions": 798,
+  "deterministic_easy": 443,
+  "disagreement": 355,
+  "primary_methods": [
+    "Pool_P",
+    "S2_C",
+    "S2_route"
+  ],
+  "review_error_union": 79,
+  "all_primary_wrong": 38,
+  "partly_correct_partly_wrong": 41,
+  "review_cards": 8,
+  "selection_seed": 20261017,
+  "manual_causal_annotations_completed": 0,
+  "primary_correct": {
+    "Pool_P": 736,
+    "S2_C": 740,
+    "S2_route": 740
+  },
+  "error_group_size_patterns": {
+    "2,2": 8,
+    "1,1,1": 9,
+    "2,1,1": 26,
+    "3,1": 19,
+    "1,1,1,1": 8,
+    "2,1": 5,
+    "1,1": 4
+  },
+  "full_bank_question_candidate_characters": 1705184,
+  "eight_card_question_excerpt_characters": 8978,
+  "character_reduction_percent": 99.47348790511758,
+  "character_counts_are_not_token_counts": true,
+  "official_scores_recomputed": false,
+  "test_used": false
+}

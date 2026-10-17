@@ -1,0 +1,4 @@
+{
+  "analysis/finalize_verification.py": "fee9a274357305aea61f07873a11ae27a9d5f824cdd85b4cd2e13b1280db7829",
+  "reason": "Strict original verifier completed portable and input checks but stopped on changed code/.git/FETCH_HEAD; no scientific or inference code changed"
+}

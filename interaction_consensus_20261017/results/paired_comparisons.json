@@ -1,0 +1,8066 @@
+[
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.8521303258145364,
+    "ci95_pp": [
+      -0.05012531328320792,
+      1.754385964912281
+    ],
+    "by_seed_pp": [
+      -0.12531328320802004,
+      1.1278195488721803,
+      1.5037593984962405,
+      0.7518796992481203,
+      1.0025062656641603
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.6229116945107398,
+    "ci95_pp": [
+      -0.09546539379474928,
+      3.389021479713604
+    ],
+    "by_seed_pp": [
+      -0.23866348448687352,
+      2.1479713603818613,
+      2.863961813842482,
+      1.431980906921241,
+      1.9093078758949882
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.915492957746479,
+    "ci95_pp": [
+      -0.05633802816901395,
+      3.943661971830986
+    ],
+    "by_seed_pp": [
+      -0.28169014084507044,
+      2.535211267605634,
+      3.3802816901408446,
+      1.6901408450704223,
+      2.2535211267605635
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.811965811965813,
+    "ci95_pp": [
+      1.8803418803418805,
+      9.743589743589745
+    ],
+    "by_seed_pp": [
+      4.273504273504273,
+      6.837606837606838,
+      4.273504273504273,
+      7.6923076923076925,
+      5.982905982905983
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.0,
+    "ci95_pp": [
+      4.333333333333334,
+      16.33333333333333
+    ],
+    "by_seed_pp": [
+      10.0,
+      8.333333333333332,
+      10.0,
+      13.333333333333334,
+      8.333333333333332
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.2952029520295203,
+    "ci95_pp": [
+      -1.9926199261992614,
+      1.3284132841328415
+    ],
+    "by_seed_pp": [
+      -2.214022140221402,
+      -0.36900369003690037,
+      1.4760147601476015,
+      0.0,
+      -0.36900369003690037
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.8181818181818183,
+    "ci95_pp": [
+      -2.727272727272728,
+      6.369318181818102
+    ],
+    "by_seed_pp": [
+      -1.1363636363636365,
+      5.681818181818182,
+      2.272727272727273,
+      -2.272727272727273,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.6349206349206349,
+    "ci95_pp": [
+      -1.9047619047619047,
+      3.1746031746031744
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872,
+      2.380952380952381,
+      0.7936507936507936,
+      0.7936507936507936,
+      0.7936507936507936
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.2531328320802004,
+    "ci95_pp": [
+      0.4260651629072682,
+      2.1052631578947367
+    ],
+    "by_seed_pp": [
+      1.1278195488721803,
+      1.8796992481203008,
+      1.6290726817042605,
+      0.6265664160401002,
+      1.0025062656641603
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.386634844868735,
+    "ci95_pp": [
+      0.8114558472553702,
+      4.009546539379475
+    ],
+    "by_seed_pp": [
+      2.1479713603818613,
+      3.579952267303103,
+      3.1026252983293556,
+      1.1933174224343674,
+      1.9093078758949882
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.8169014084507045,
+    "ci95_pp": [
+      0.9577464788732395,
+      4.676056338028169
+    ],
+    "by_seed_pp": [
+      2.535211267605634,
+      4.225352112676056,
+      3.6619718309859155,
+      1.4084507042253522,
+      2.2535211267605635
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 7.00854700854701,
+    "ci95_pp": [
+      2.735042735042735,
+      11.282051282051283
+    ],
+    "by_seed_pp": [
+      7.6923076923076925,
+      8.547008547008547,
+      7.6923076923076925,
+      6.837606837606838,
+      4.273504273504273
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.333333333333334,
+    "ci95_pp": [
+      3.6666666666666665,
+      17.666666666666668
+    ],
+    "by_seed_pp": [
+      10.0,
+      13.333333333333334,
+      13.333333333333334,
+      10.0,
+      5.0
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.6642066420664207,
+    "ci95_pp": [
+      -0.7380073800738007,
+      2.0664206642066416
+    ],
+    "by_seed_pp": [
+      -0.36900369003690037,
+      1.107011070110701,
+      2.214022140221402,
+      -0.36900369003690037,
+      0.7380073800738007
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727274,
+    "ci95_pp": [
+      -1.8181818181818183,
+      5.909090909090909
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      4.545454545454546,
+      -1.1363636363636365,
+      0.0,
+      3.4090909090909087
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.9047619047619047,
+    "ci95_pp": [
+      -0.6349206349206349,
+      4.444444444444444
+    ],
+    "by_seed_pp": [
+      1.5873015873015872,
+      3.1746031746031744,
+      2.380952380952381,
+      0.7936507936507936,
+      1.5873015873015872
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.40100250626566425,
+    "ci95_pp": [
+      -1.1278195488721803,
+      0.32581453634085206
+    ],
+    "by_seed_pp": [
+      -1.2531328320802004,
+      -0.7518796992481203,
+      -0.12531328320802004,
+      0.12531328320802004,
+      0.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -0.7637231503579952,
+    "ci95_pp": [
+      -2.195704057279236,
+      0.6205250596658712
+    ],
+    "by_seed_pp": [
+      -2.386634844868735,
+      -1.431980906921241,
+      -0.23866348448687352,
+      0.23866348448687352,
+      0.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -0.9014084507042254,
+    "ci95_pp": [
+      -2.5366197183098587,
+      0.6760563380281691
+    ],
+    "by_seed_pp": [
+      -2.8169014084507045,
+      -1.6901408450704223,
+      -0.28169014084507044,
+      0.28169014084507044,
+      0.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -1.1965811965811965,
+    "ci95_pp": [
+      -4.957264957264957,
+      2.3931623931623935
+    ],
+    "by_seed_pp": [
+      -3.418803418803419,
+      -1.7094017094017095,
+      -3.418803418803419,
+      0.8547008547008548,
+      1.7094017094017095
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -0.33333333333333326,
+    "ci95_pp": [
+      -5.666666666666667,
+      5.333333333333334
+    ],
+    "by_seed_pp": [
+      0.0,
+      -5.0,
+      -3.3333333333333335,
+      3.3333333333333335,
+      3.3333333333333335
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.959409594095941,
+    "ci95_pp": [
+      -2.1402214022140225,
+      0.07380073800738009
+    ],
+    "by_seed_pp": [
+      -1.8450184501845017,
+      -1.4760147601476015,
+      -0.7380073800738007,
+      0.36900369003690037,
+      -1.107011070110701
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": -0.4545454545454546,
+    "ci95_pp": [
+      -4.772727272727273,
+      3.6363636363636362
+    ],
+    "by_seed_pp": [
+      -5.681818181818182,
+      1.1363636363636365,
+      3.4090909090909087,
+      -2.272727272727273,
+      1.1363636363636365
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.2698412698412698,
+    "ci95_pp": [
+      -4.285714285714285,
+      1.2698412698412698
+    ],
+    "by_seed_pp": [
+      -3.1746031746031744,
+      -0.7936507936507936,
+      -1.5873015873015872,
+      0.0,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.9047619047619053,
+    "ci95_pp": [
+      0.9273182957393485,
+      2.9573934837092737
+    ],
+    "by_seed_pp": [
+      1.2531328320802004,
+      2.882205513784461,
+      2.2556390977443606,
+      1.3784461152882206,
+      1.7543859649122806
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 3.6276849642004776,
+    "ci95_pp": [
+      1.766109785202864,
+      5.632458233890215
+    ],
+    "by_seed_pp": [
+      2.386634844868735,
+      5.4892601431980905,
+      4.295942720763723,
+      2.6252983293556085,
+      3.341288782816229
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 4.281690140845071,
+    "ci95_pp": [
+      2.084507042253521,
+      6.591549295774649
+    ],
+    "by_seed_pp": [
+      2.8169014084507045,
+      6.478873239436619,
+      5.070422535211268,
+      3.0985915492957745,
+      3.943661971830986
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 13.675213675213675,
+    "ci95_pp": [
+      7.521367521367522,
+      19.82905982905983
+    ],
+    "by_seed_pp": [
+      8.547008547008547,
+      19.65811965811966,
+      15.384615384615385,
+      11.965811965811966,
+      12.82051282051282
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 23.999999999999996,
+    "ci95_pp": [
+      14.333333333333334,
+      34.0
+    ],
+    "by_seed_pp": [
+      21.666666666666668,
+      36.666666666666664,
+      23.333333333333332,
+      18.333333333333332,
+      20.0
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -0.8118081180811809,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      -0.36900369003690037,
+      -1.107011070110701,
+      0.0,
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.045454545454546,
+    "ci95_pp": [
+      -2.954545454545454,
+      7.045454545454545
+    ],
+    "by_seed_pp": [
+      -3.4090909090909087,
+      2.272727272727273,
+      7.954545454545454,
+      0.0,
+      3.4090909090909087
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.3174603174603174,
+    "ci95_pp": [
+      -1.9047619047619047,
+      2.8571428571428568
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872,
+      1.5873015873015872,
+      1.5873015873015872,
+      0.7936507936507936,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.3784461152882206,
+    "ci95_pp": [
+      0.6265664160401002,
+      2.1804511278195493
+    ],
+    "by_seed_pp": [
+      0.6265664160401002,
+      1.7543859649122806,
+      1.7543859649122806,
+      0.8771929824561403,
+      1.8796992481203008
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.6252983293556085,
+    "ci95_pp": [
+      1.1933174224343674,
+      4.152744630071599
+    ],
+    "by_seed_pp": [
+      1.1933174224343674,
+      3.341288782816229,
+      3.341288782816229,
+      1.6706443914081146,
+      3.579952267303103
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 3.0985915492957745,
+    "ci95_pp": [
+      1.4647887323943662,
+      4.901408450704225
+    ],
+    "by_seed_pp": [
+      1.4084507042253522,
+      3.943661971830986,
+      3.943661971830986,
+      1.971830985915493,
+      4.225352112676056
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 9.23076923076923,
+    "ci95_pp": [
+      4.444444444444445,
+      14.358974358974361
+    ],
+    "by_seed_pp": [
+      5.128205128205128,
+      11.965811965811966,
+      11.11111111111111,
+      5.982905982905983,
+      11.965811965811966
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 16.0,
+    "ci95_pp": [
+      8.325000000000006,
+      24.666666666666668
+    ],
+    "by_seed_pp": [
+      11.666666666666666,
+      21.666666666666668,
+      16.666666666666664,
+      11.666666666666666,
+      18.333333333333332
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.590909090909091,
+    "ci95_pp": [
+      -1.8181818181818183,
+      5.0
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      1.1363636363636365,
+      4.545454545454546,
+      0.0,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -8.811293846231401e-17,
+    "ci95_pp": [
+      -2.222222222222222,
+      2.0634920634920633
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.7936507936507936,
+      1.5873015873015872,
+      -2.380952380952381,
+      0.7936507936507936
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.5263157894736842,
+    "ci95_pp": [
+      -0.32581453634085206,
+      1.4035087719298245
+    ],
+    "by_seed_pp": [
+      0.6265664160401002,
+      1.1278195488721803,
+      0.5012531328320802,
+      0.5012531328320802,
+      -0.12531328320802004
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.0023866348448687,
+    "ci95_pp": [
+      -0.5727923627684965,
+      2.626491646778026
+    ],
+    "by_seed_pp": [
+      1.1933174224343674,
+      2.1479713603818613,
+      0.9546539379474941,
+      0.9546539379474941,
+      -0.23866348448687352
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.1830985915492958,
+    "ci95_pp": [
+      -0.676056338028169,
+      3.0985915492957745
+    ],
+    "by_seed_pp": [
+      1.4084507042253522,
+      2.535211267605634,
+      1.1267605633802817,
+      1.1267605633802817,
+      -0.28169014084507044
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 4.444444444444445,
+    "ci95_pp": [
+      -0.5128205128205129,
+      9.743589743589745
+    ],
+    "by_seed_pp": [
+      3.418803418803419,
+      7.6923076923076925,
+      4.273504273504273,
+      5.982905982905983,
+      0.8547008547008548
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.000000000000002,
+    "ci95_pp": [
+      -0.3333333333333331,
+      17.0
+    ],
+    "by_seed_pp": [
+      10.0,
+      15.0,
+      6.666666666666667,
+      6.666666666666667,
+      1.6666666666666667
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -0.885608856088561,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      -0.36900369003690037,
+      -1.107011070110701,
+      0.0,
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.4545454545454547,
+    "ci95_pp": [
+      -4.09090909090909,
+      5.0
+    ],
+    "by_seed_pp": [
+      -1.1363636363636365,
+      1.1363636363636365,
+      3.4090909090909087,
+      0.0,
+      -1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.31746031746031755,
+    "ci95_pp": [
+      -1.746031746031746,
+      2.2222222222222223
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.7936507936507936,
+      0.0,
+      3.1746031746031744,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.75187969924812,
+    "ci95_pp": [
+      -2.1804511278195484,
+      0.6766917293233083
+    ],
+    "by_seed_pp": [
+      -0.6265664160401002,
+      -0.37593984962406013,
+      -0.5012531328320802,
+      -1.1278195488721803,
+      -1.1278195488721803
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.4319809069212412,
+    "ci95_pp": [
+      -4.200477326968973,
+      1.2410501193317425
+    ],
+    "by_seed_pp": [
+      -1.1933174224343674,
+      -0.7159904534606205,
+      -0.9546539379474941,
+      -2.1479713603818613,
+      -2.1479713603818613
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.6901408450704223,
+    "ci95_pp": [
+      -4.845070422535211,
+      1.4647887323943662
+    ],
+    "by_seed_pp": [
+      -1.4084507042253522,
+      -0.8450704225352111,
+      -1.1267605633802817,
+      -2.535211267605634,
+      -2.535211267605634
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -19.31623931623932,
+    "ci95_pp": [
+      -26.153846153846157,
+      -12.478632478632479
+    ],
+    "by_seed_pp": [
+      -16.23931623931624,
+      -19.65811965811966,
+      -20.51282051282051,
+      -19.65811965811966,
+      -20.51282051282051
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -37.66666666666667,
+    "ci95_pp": [
+      -48.66666666666667,
+      -26.658333333333456
+    ],
+    "by_seed_pp": [
+      -33.33333333333333,
+      -38.333333333333336,
+      -36.666666666666664,
+      -38.333333333333336,
+      -41.66666666666667
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.313653136531366,
+    "ci95_pp": [
+      3.2472324723247237,
+      7.601476014760149
+    ],
+    "by_seed_pp": [
+      4.059040590405904,
+      6.273062730627306,
+      7.011070110701106,
+      4.428044280442804,
+      4.797047970479705
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.5,
+    "ci95_pp": [
+      -1.363636363636364,
+      6.8181818181818175
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      3.4090909090909087,
+      -1.1363636363636365,
+      2.272727272727273,
+      3.4090909090909087
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.6349206349206346,
+    "ci95_pp": [
+      -3.8095238095238084,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.0,
+      -0.7936507936507936,
+      -0.7936507936507936,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.6265664160401002,
+    "ci95_pp": [
+      -1.9799498746867168,
+      0.6773182957393395
+    ],
+    "by_seed_pp": [
+      -1.1278195488721803,
+      -0.5012531328320802,
+      -0.37593984962406013,
+      -0.8771929824561403,
+      -0.2506265664160401
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.1933174224343677,
+    "ci95_pp": [
+      -3.7708830548926016,
+      1.3842482100238662
+    ],
+    "by_seed_pp": [
+      -2.1479713603818613,
+      -0.9546539379474941,
+      -0.7159904534606205,
+      -1.6706443914081146,
+      -0.47732696897374705
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.4084507042253522,
+    "ci95_pp": [
+      -4.450704225352112,
+      1.6338028169014085
+    ],
+    "by_seed_pp": [
+      -2.535211267605634,
+      -1.1267605633802817,
+      -0.8450704225352111,
+      -1.971830985915493,
+      -0.5633802816901409
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -17.094017094017094,
+    "ci95_pp": [
+      -23.76068376068376,
+      -10.769230769230766
+    ],
+    "by_seed_pp": [
+      -18.803418803418804,
+      -16.23931623931624,
+      -17.094017094017094,
+      -20.51282051282051,
+      -12.82051282051282
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -32.00000000000001,
+    "ci95_pp": [
+      -42.99999999999999,
+      -21.66666666666667
+    ],
+    "by_seed_pp": [
+      -31.666666666666664,
+      -30.0,
+      -33.33333333333333,
+      -36.666666666666664,
+      -28.333333333333332
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.649446494464945,
+    "ci95_pp": [
+      2.5092250922509223,
+      7.158671586715866
+    ],
+    "by_seed_pp": [
+      4.428044280442804,
+      5.166051660516605,
+      4.797047970479705,
+      4.797047970479705,
+      4.059040590405904
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.8181818181818183,
+    "ci95_pp": [
+      -2.272727272727273,
+      5.909090909090909
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      0.0,
+      4.545454545454546,
+      2.272727272727273,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -2.5396825396825395,
+    "ci95_pp": [
+      -6.349206349206349,
+      0.9523809523809524
+    ],
+    "by_seed_pp": [
+      -3.1746031746031744,
+      -2.380952380952381,
+      -1.5873015873015872,
+      -3.968253968253968,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.30075187969924805,
+    "ci95_pp": [
+      -0.8020050125313283,
+      1.4285714285714288
+    ],
+    "by_seed_pp": [
+      0.7518796992481203,
+      1.3784461152882206,
+      0.2506265664160401,
+      -0.5012531328320802,
+      -0.37593984962406013
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.5727923627684963,
+    "ci95_pp": [
+      -1.5751789976133648,
+      2.720763723150358
+    ],
+    "by_seed_pp": [
+      1.431980906921241,
+      2.6252983293556085,
+      0.47732696897374705,
+      -0.9546539379474941,
+      -0.7159904534606205
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 0.6760563380281692,
+    "ci95_pp": [
+      -1.859154929577465,
+      3.211267605633803
+    ],
+    "by_seed_pp": [
+      1.6901408450704223,
+      3.0985915492957745,
+      0.5633802816901409,
+      -1.1267605633802817,
+      -0.8450704225352111
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -11.452991452991453,
+    "ci95_pp": [
+      -16.75213675213675,
+      -6.491452991453053
+    ],
+    "by_seed_pp": [
+      -11.965811965811966,
+      -6.837606837606838,
+      -9.401709401709402,
+      -15.384615384615385,
+      -13.675213675213676
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -23.666666666666668,
+    "ci95_pp": [
+      -31.666666666666664,
+      -15.999999999999998
+    ],
+    "by_seed_pp": [
+      -21.666666666666668,
+      -10.0,
+      -23.333333333333332,
+      -33.33333333333333,
+      -30.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.239852398523985,
+    "ci95_pp": [
+      3.1734317343173437,
+      7.4538745387453895
+    ],
+    "by_seed_pp": [
+      6.273062730627306,
+      6.273062730627306,
+      4.428044280442804,
+      4.428044280442804,
+      4.797047970479705
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.727272727272727,
+    "ci95_pp": [
+      -0.4545454545454546,
+      6.363636363636363
+    ],
+    "by_seed_pp": [
+      2.272727272727273,
+      0.0,
+      4.545454545454546,
+      4.545454545454546,
+      2.272727272727273
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.9523809523809523,
+    "ci95_pp": [
+      -3.968253968253968,
+      2.0634920634920633
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      -0.7936507936507936,
+      0.0,
+      -0.7936507936507936,
+      -2.380952380952381
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.0526315789473684,
+    "ci95_pp": [
+      -0.15037593984962414,
+      2.280701754385965
+    ],
+    "by_seed_pp": [
+      1.3784461152882206,
+      1.7543859649122806,
+      0.7518796992481203,
+      0.6265664160401002,
+      0.7518796992481203
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": true
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.0047732696897373,
+    "ci95_pp": [
+      -0.33412887828162297,
+      4.391408114558472
+    ],
+    "by_seed_pp": [
+      2.6252983293556085,
+      3.341288782816229,
+      1.431980906921241,
+      1.1933174224343674,
+      1.431980906921241
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.3661971830985915,
+    "ci95_pp": [
+      -0.3380281690140843,
+      5.126760563380282
+    ],
+    "by_seed_pp": [
+      3.0985915492957745,
+      3.943661971830986,
+      1.6901408450704223,
+      1.4084507042253522,
+      1.6901408450704223
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 7.863247863247865,
+    "ci95_pp": [
+      1.1965811965811968,
+      14.871794871794872
+    ],
+    "by_seed_pp": [
+      4.273504273504273,
+      12.82051282051282,
+      11.11111111111111,
+      4.273504273504273,
+      6.837606837606838
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 14.000000000000002,
+    "ci95_pp": [
+      2.3333333333333326,
+      26.0
+    ],
+    "by_seed_pp": [
+      11.666666666666666,
+      28.333333333333332,
+      13.333333333333334,
+      5.0,
+      11.666666666666666
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.07380073800738023,
+    "ci95_pp": [
+      -1.697416974169742,
+      1.5498154981549817
+    ],
+    "by_seed_pp": [
+      2.214022140221402,
+      0.0,
+      -2.5830258302583027,
+      0.0,
+      0.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.2272727272727272,
+    "ci95_pp": [
+      -5.227272727272727,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      -3.4090909090909087,
+      5.681818181818182,
+      2.272727272727273,
+      -1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.3174603174603175,
+    "ci95_pp": [
+      -3.3333333333333335,
+      2.698412698412698
+    ],
+    "by_seed_pp": [
+      0.0,
+      -0.7936507936507936,
+      0.7936507936507936,
+      0.0,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.12531328320802004,
+    "ci95_pp": [
+      -0.9273182957393483,
+      1.1779448621553885
+    ],
+    "by_seed_pp": [
+      -0.5012531328320802,
+      -0.12531328320802004,
+      0.12531328320802004,
+      0.2506265664160401,
+      0.8771929824561403
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.23866348448687355,
+    "ci95_pp": [
+      -1.766109785202864,
+      2.1957040572792366
+    ],
+    "by_seed_pp": [
+      -0.9546539379474941,
+      -0.23866348448687352,
+      0.23866348448687352,
+      0.47732696897374705,
+      1.6706443914081146
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 0.28169014084507055,
+    "ci95_pp": [
+      -2.028169014084507,
+      2.704225352112676
+    ],
+    "by_seed_pp": [
+      -1.1267605633802817,
+      -0.28169014084507044,
+      0.28169014084507044,
+      0.5633802816901409,
+      1.971830985915493
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 2.2222222222222214,
+    "ci95_pp": [
+      -3.9316239316239314,
+      8.547008547008547
+    ],
+    "by_seed_pp": [
+      -2.564102564102564,
+      3.418803418803419,
+      3.418803418803419,
+      -0.8547008547008548,
+      7.6923076923076925
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 5.666666666666666,
+    "ci95_pp": [
+      -5.333333333333334,
+      17.333333333333332
+    ],
+    "by_seed_pp": [
+      1.6666666666666667,
+      8.333333333333332,
+      3.3333333333333335,
+      1.6666666666666667,
+      13.333333333333334
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.6642066420664207,
+    "ci95_pp": [
+      -2.0664206642066416,
+      0.8118081180811809
+    ],
+    "by_seed_pp": [
+      0.36900369003690037,
+      -1.107011070110701,
+      -2.214022140221402,
+      0.36900369003690037,
+      -0.7380073800738007
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": -0.6818181818181817,
+    "ci95_pp": [
+      -4.09090909090909,
+      2.5
+    ],
+    "by_seed_pp": [
+      -6.8181818181818175,
+      -3.4090909090909087,
+      5.681818181818182,
+      0.0,
+      1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.9047619047619047,
+    "ci95_pp": [
+      -4.285714285714286,
+      0.15873015873015878
+    ],
+    "by_seed_pp": [
+      -2.380952380952381,
+      -2.380952380952381,
+      -0.7936507936507936,
+      -3.1746031746031744,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.9273182957393483,
+    "ci95_pp": [
+      -0.02506265664160395,
+      1.9047619047619047
+    ],
+    "by_seed_pp": [
+      1.8796992481203008,
+      1.8796992481203008,
+      0.6265664160401002,
+      0.37593984962406013,
+      -0.12531328320802004
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.766109785202864,
+    "ci95_pp": [
+      -0.04773269689737464,
+      3.579952267303103
+    ],
+    "by_seed_pp": [
+      3.579952267303103,
+      3.579952267303103,
+      1.1933174224343674,
+      0.7159904534606205,
+      -0.23866348448687352
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.084507042253522,
+    "ci95_pp": [
+      -0.05633802816901401,
+      4.225352112676056
+    ],
+    "by_seed_pp": [
+      4.225352112676056,
+      4.225352112676056,
+      1.4084507042253522,
+      0.8450704225352111,
+      -0.28169014084507044
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.641025641025641,
+    "ci95_pp": [
+      0.3418803418803418,
+      11.11111111111111
+    ],
+    "by_seed_pp": [
+      6.837606837606838,
+      9.401709401709402,
+      7.6923076923076925,
+      5.128205128205128,
+      -0.8547008547008548
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.333333333333332,
+    "ci95_pp": [
+      -0.9999999999999999,
+      17.666666666666668
+    ],
+    "by_seed_pp": [
+      10.0,
+      20.0,
+      10.0,
+      3.3333333333333335,
+      -1.6666666666666667
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.5904059040590407,
+    "ci95_pp": [
+      -0.5904059040590407,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      1.8450184501845017,
+      1.107011070110701,
+      -0.36900369003690037,
+      -0.36900369003690037,
+      0.7380073800738007
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.9090909090909088,
+    "ci95_pp": [
+      -3.4090909090909087,
+      5.227272727272727
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      0.0,
+      0.0,
+      2.272727272727273,
+      -2.272727272727273
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.5873015873015877,
+    "ci95_pp": [
+      -0.9523809523809521,
+      4.285714285714286
+    ],
+    "by_seed_pp": [
+      2.380952380952381,
+      1.5873015873015872,
+      1.5873015873015872,
+      3.1746031746031744,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.5012531328320802,
+    "ci95_pp": [
+      -0.7518796992481203,
+      1.7543859649122806
+    ],
+    "by_seed_pp": [
+      0.5012531328320802
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.9546539379474941,
+    "ci95_pp": [
+      -1.6706443914081146,
+      3.579952267303103
+    ],
+    "by_seed_pp": [
+      0.9546539379474941
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.1267605633802817,
+    "ci95_pp": [
+      -1.971830985915493,
+      3.943661971830986
+    ],
+    "by_seed_pp": [
+      1.1267605633802817
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 3.418803418803419,
+    "ci95_pp": [
+      -2.564102564102564,
+      9.401709401709402
+    ],
+    "by_seed_pp": [
+      3.418803418803419
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 6.666666666666667,
+    "ci95_pp": [
+      0.0,
+      15.0
+    ],
+    "by_seed_pp": [
+      6.666666666666667
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -2.952029520295203,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -5.681818181818182,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      0.7936507936507936
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.6265664160401002,
+    "ci95_pp": [
+      -0.5012531328320802,
+      1.7543859649122806
+    ],
+    "by_seed_pp": [
+      0.6265664160401002
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.1933174224343674,
+    "ci95_pp": [
+      -0.7159904534606205,
+      3.341288782816229
+    ],
+    "by_seed_pp": [
+      1.1933174224343674
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -0.8450704225352111,
+      3.943661971830986
+    ],
+    "by_seed_pp": [
+      1.4084507042253522
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 4.273504273504273,
+    "ci95_pp": [
+      -0.8547008547008548,
+      10.256410256410255
+    ],
+    "by_seed_pp": [
+      4.273504273504273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.333333333333332,
+    "ci95_pp": [
+      0.0,
+      16.666666666666664
+    ],
+    "by_seed_pp": [
+      8.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -1.8450184501845017,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -5.681818181818182,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      -2.380952380952381,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      1.5873015873015872
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.12531328320802004,
+    "ci95_pp": [
+      -1.1278195488721803,
+      0.8771929824561403
+    ],
+    "by_seed_pp": [
+      -0.12531328320802004
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -0.23866348448687352,
+    "ci95_pp": [
+      -2.1479713603818613,
+      1.6706443914081146
+    ],
+    "by_seed_pp": [
+      -0.23866348448687352
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -0.28169014084507044,
+    "ci95_pp": [
+      -2.2535211267605635,
+      1.971830985915493
+    ],
+    "by_seed_pp": [
+      -0.28169014084507044
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -0.8547008547008548,
+    "ci95_pp": [
+      -5.128205128205128,
+      3.418803418803419
+    ],
+    "by_seed_pp": [
+      -0.8547008547008548
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -1.6666666666666667,
+    "ci95_pp": [
+      -6.666666666666667,
+      3.3333333333333335
+    ],
+    "by_seed_pp": [
+      -1.6666666666666667
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -2.214022140221402,
+      1.107011070110701
+    ],
+    "by_seed_pp": [
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -4.545454545454546,
+      6.8181818181818175
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      1.5873015873015872
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 2.756892230576441,
+    "ci95_pp": [
+      1.5037593984962405,
+      4.135338345864661
+    ],
+    "by_seed_pp": [
+      2.756892230576441
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 5.250596658711217,
+    "ci95_pp": [
+      2.863961813842482,
+      7.637231503579953
+    ],
+    "by_seed_pp": [
+      5.250596658711217
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 6.197183098591549,
+    "ci95_pp": [
+      3.3802816901408446,
+      9.014084507042254
+    ],
+    "by_seed_pp": [
+      6.197183098591549
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 17.94871794871795,
+    "ci95_pp": [
+      10.256410256410255,
+      26.495726495726498
+    ],
+    "by_seed_pp": [
+      17.94871794871795
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 30.0,
+    "ci95_pp": [
+      18.333333333333332,
+      43.333333333333336
+    ],
+    "by_seed_pp": [
+      30.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 4.545454545454546,
+    "ci95_pp": [
+      -1.1363636363636365,
+      11.363636363636363
+    ],
+    "by_seed_pp": [
+      4.545454545454546
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -2.380952380952381,
+      3.968253968253968
+    ],
+    "by_seed_pp": [
+      0.7936507936507936
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.6290726817042605,
+    "ci95_pp": [
+      0.6265664160401002,
+      2.756892230576441
+    ],
+    "by_seed_pp": [
+      1.6290726817042605
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 3.1026252983293556,
+    "ci95_pp": [
+      1.1933174224343674,
+      5.250596658711217
+    ],
+    "by_seed_pp": [
+      3.1026252983293556
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 3.6619718309859155,
+    "ci95_pp": [
+      1.4084507042253522,
+      6.197183098591549
+    ],
+    "by_seed_pp": [
+      3.6619718309859155
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 11.965811965811966,
+    "ci95_pp": [
+      5.128205128205128,
+      18.803418803418804
+    ],
+    "by_seed_pp": [
+      11.965811965811966
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 18.333333333333332,
+    "ci95_pp": [
+      8.333333333333332,
+      28.333333333333332
+    ],
+    "by_seed_pp": [
+      18.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      -2.380952380952381,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      1.5873015873015872
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.1278195488721803,
+    "ci95_pp": [
+      0.12531328320802004,
+      2.2556390977443606
+    ],
+    "by_seed_pp": [
+      1.1278195488721803
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.1479713603818613,
+    "ci95_pp": [
+      0.23866348448687352,
+      4.295942720763723
+    ],
+    "by_seed_pp": [
+      2.1479713603818613
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.535211267605634,
+    "ci95_pp": [
+      0.28169014084507044,
+      5.070422535211268
+    ],
+    "by_seed_pp": [
+      2.535211267605634
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.982905982905983,
+    "ci95_pp": [
+      -0.8547008547008548,
+      12.82051282051282
+    ],
+    "by_seed_pp": [
+      5.982905982905983
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 11.666666666666666,
+    "ci95_pp": [
+      0.0,
+      23.333333333333332
+    ],
+    "by_seed_pp": [
+      11.666666666666666
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      1.5873015873015872
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -1.6290726817042605,
+    "ci95_pp": [
+      -3.258145363408521,
+      0.0
+    ],
+    "by_seed_pp": [
+      -1.6290726817042605
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -3.1026252983293556,
+    "ci95_pp": [
+      -6.205250596658711,
+      0.0
+    ],
+    "by_seed_pp": [
+      -3.1026252983293556
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -3.6619718309859155,
+    "ci95_pp": [
+      -7.323943661971831,
+      0.0
+    ],
+    "by_seed_pp": [
+      -3.6619718309859155
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -23.931623931623932,
+    "ci95_pp": [
+      -32.47863247863248,
+      -16.23931623931624
+    ],
+    "by_seed_pp": [
+      -23.931623931623932
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -43.333333333333336,
+    "ci95_pp": [
+      -56.666666666666664,
+      -31.666666666666664
+    ],
+    "by_seed_pp": [
+      -43.333333333333336
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.797047970479705,
+    "ci95_pp": [
+      2.5830258302583027,
+      7.380073800738007
+    ],
+    "by_seed_pp": [
+      4.797047970479705
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -5.681818181818182,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -5.555555555555555,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.6265664160401002,
+    "ci95_pp": [
+      -2.1303258145363406,
+      0.8771929824561403
+    ],
+    "by_seed_pp": [
+      -0.6265664160401002
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.1933174224343674,
+    "ci95_pp": [
+      -4.05727923627685,
+      1.6706443914081146
+    ],
+    "by_seed_pp": [
+      -1.1933174224343674
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.4084507042253522,
+    "ci95_pp": [
+      -4.788732394366197,
+      1.971830985915493
+    ],
+    "by_seed_pp": [
+      -1.4084507042253522
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -16.23931623931624,
+    "ci95_pp": [
+      -23.931623931623932,
+      -8.547008547008547
+    ],
+    "by_seed_pp": [
+      -16.23931623931624
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -33.33333333333333,
+    "ci95_pp": [
+      -45.0,
+      -21.666666666666668
+    ],
+    "by_seed_pp": [
+      -33.33333333333333
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.797047970479705,
+    "ci95_pp": [
+      2.5830258302583027,
+      7.380073800738007
+    ],
+    "by_seed_pp": [
+      4.797047970479705
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -6.349206349206349,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.6265664160401002,
+    "ci95_pp": [
+      -0.7518796992481203,
+      2.0050125313283207
+    ],
+    "by_seed_pp": [
+      0.6265664160401002
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.1933174224343674,
+    "ci95_pp": [
+      -1.431980906921241,
+      3.8186157517899764
+    ],
+    "by_seed_pp": [
+      1.1933174224343674
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -1.971830985915493,
+      4.788732394366197
+    ],
+    "by_seed_pp": [
+      1.4084507042253522
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -9.401709401709402,
+    "ci95_pp": [
+      -16.23931623931624,
+      -2.564102564102564
+    ],
+    "by_seed_pp": [
+      -9.401709401709402
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -20.0,
+    "ci95_pp": [
+      -30.0,
+      -10.0
+    ],
+    "by_seed_pp": [
+      -20.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.166051660516605,
+    "ci95_pp": [
+      2.5830258302583027,
+      8.118081180811808
+    ],
+    "by_seed_pp": [
+      5.166051660516605
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -3.4090909090909087,
+      10.227272727272728
+    ],
+    "by_seed_pp": [
+      3.4090909090909087
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -5.555555555555555,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 2.2556390977443606,
+    "ci95_pp": [
+      0.5012531328320802,
+      4.010025062656641
+    ],
+    "by_seed_pp": [
+      2.2556390977443606
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 4.295942720763723,
+    "ci95_pp": [
+      1.1933174224343674,
+      7.637231503579953
+    ],
+    "by_seed_pp": [
+      4.295942720763723
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 5.070422535211268,
+    "ci95_pp": [
+      1.4084507042253522,
+      9.014084507042254
+    ],
+    "by_seed_pp": [
+      5.070422535211268
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 14.529914529914532,
+    "ci95_pp": [
+      5.128205128205128,
+      23.931623931623932
+    ],
+    "by_seed_pp": [
+      14.529914529914532
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 23.333333333333332,
+    "ci95_pp": [
+      8.333333333333332,
+      38.333333333333336
+    ],
+    "by_seed_pp": [
+      23.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      -1.8450184501845017,
+      2.952029520295203
+    ],
+    "by_seed_pp": [
+      0.36900369003690037
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -4.545454545454546,
+      11.363636363636363
+    ],
+    "by_seed_pp": [
+      3.4090909090909087
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -4.761904761904762,
+      4.761904761904762
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.0025062656641603,
+    "ci95_pp": [
+      -0.37593984962406013,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      1.0025062656641603
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.9093078758949882,
+    "ci95_pp": [
+      -0.7159904534606205,
+      4.534606205250596
+    ],
+    "by_seed_pp": [
+      1.9093078758949882
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.2535211267605635,
+    "ci95_pp": [
+      -0.8450704225352111,
+      5.352112676056338
+    ],
+    "by_seed_pp": [
+      2.2535211267605635
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 7.6923076923076925,
+    "ci95_pp": [
+      -0.8547008547008548,
+      16.23931623931624
+    ],
+    "by_seed_pp": [
+      7.6923076923076925
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.0,
+    "ci95_pp": [
+      -3.3333333333333335,
+      23.333333333333332
+    ],
+    "by_seed_pp": [
+      10.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -1.8450184501845017,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -4.761904761904762,
+      3.968253968253968
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.2531328320802004,
+    "ci95_pp": [
+      -0.12531328320802004,
+      2.631578947368421
+    ],
+    "by_seed_pp": [
+      1.2531328320802004
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.386634844868735,
+    "ci95_pp": [
+      -0.23866348448687352,
+      5.011933174224343
+    ],
+    "by_seed_pp": [
+      2.386634844868735
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.8169014084507045,
+    "ci95_pp": [
+      -0.28169014084507044,
+      5.915492957746479
+    ],
+    "by_seed_pp": [
+      2.8169014084507045
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 6.837606837606838,
+    "ci95_pp": [
+      -0.8547008547008548,
+      14.529914529914532
+    ],
+    "by_seed_pp": [
+      6.837606837606838
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 13.333333333333334,
+    "ci95_pp": [
+      1.6666666666666667,
+      25.0
+    ],
+    "by_seed_pp": [
+      13.333333333333334
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.36900369003690037,
+    "ci95_pp": [
+      -1.107011070110701,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      0.36900369003690037
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -6.8181818181818175,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "filtered",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -3.968253968253968,
+      3.1746031746031744
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.6516290726817044,
+    "ci95_pp": [
+      -0.2756892230576441,
+      1.6040100250626566
+    ],
+    "by_seed_pp": [
+      -0.2506265664160401,
+      0.8771929824561403,
+      1.2531328320802004,
+      0.5012531328320802,
+      0.8771929824561403
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.2410501193317425,
+    "ci95_pp": [
+      -0.5727923627684965,
+      3.054892601431981
+    ],
+    "by_seed_pp": [
+      -0.47732696897374705,
+      1.6706443914081146,
+      2.386634844868735,
+      0.9546539379474941,
+      1.6706443914081146
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.7464788732394365,
+    "ci95_pp": [
+      -0.28169014084507027,
+      3.8873239436619715
+    ],
+    "by_seed_pp": [
+      -0.28169014084507044,
+      2.2535211267605635,
+      3.0985915492957745,
+      1.4084507042253522,
+      2.2535211267605635
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.299145299145299,
+    "ci95_pp": [
+      1.3675213675213675,
+      9.401709401709402
+    ],
+    "by_seed_pp": [
+      4.273504273504273,
+      5.982905982905983,
+      3.418803418803419,
+      6.837606837606838,
+      5.982905982905983
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.0,
+    "ci95_pp": [
+      4.333333333333334,
+      16.33333333333333
+    ],
+    "by_seed_pp": [
+      10.0,
+      8.333333333333332,
+      10.0,
+      13.333333333333334,
+      8.333333333333332
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.6642066420664208,
+    "ci95_pp": [
+      -2.5092250922509227,
+      1.1070110701107012
+    ],
+    "by_seed_pp": [
+      -2.5830258302583027,
+      -0.7380073800738007,
+      1.107011070110701,
+      -0.36900369003690037,
+      -0.7380073800738007
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -3.6363636363636362,
+      5.681818181818183
+    ],
+    "by_seed_pp": [
+      -1.1363636363636365,
+      4.545454545454546,
+      1.1363636363636365,
+      -3.4090909090909087,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.6349206349206349,
+    "ci95_pp": [
+      -3.8095238095238098,
+      2.3809523809523805
+    ],
+    "by_seed_pp": [
+      -2.380952380952381,
+      0.7936507936507936,
+      -0.7936507936507936,
+      -0.7936507936507936,
+      0.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.2531328320802004,
+    "ci95_pp": [
+      0.4260651629072681,
+      2.1303258145363406
+    ],
+    "by_seed_pp": [
+      1.1278195488721803,
+      1.8796992481203008,
+      1.6290726817042605,
+      0.6265664160401002,
+      1.0025062656641603
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.386634844868735,
+    "ci95_pp": [
+      0.8114558472553699,
+      4.05727923627685
+    ],
+    "by_seed_pp": [
+      2.1479713603818613,
+      3.579952267303103,
+      3.1026252983293556,
+      1.1933174224343674,
+      1.9093078758949882
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.8169014084507045,
+    "ci95_pp": [
+      0.9577464788732396,
+      4.676056338028169
+    ],
+    "by_seed_pp": [
+      2.535211267605634,
+      4.225352112676056,
+      3.6619718309859155,
+      1.4084507042253522,
+      2.2535211267605635
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 7.00854700854701,
+    "ci95_pp": [
+      2.9059829059829063,
+      11.282051282051283
+    ],
+    "by_seed_pp": [
+      7.6923076923076925,
+      8.547008547008547,
+      7.6923076923076925,
+      6.837606837606838,
+      4.273504273504273
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.333333333333334,
+    "ci95_pp": [
+      4.0,
+      17.333333333333336
+    ],
+    "by_seed_pp": [
+      10.0,
+      13.333333333333334,
+      13.333333333333334,
+      10.0,
+      5.0
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.6642066420664207,
+    "ci95_pp": [
+      -0.7380073800738007,
+      2.066420664206642
+    ],
+    "by_seed_pp": [
+      -0.36900369003690037,
+      1.107011070110701,
+      2.214022140221402,
+      -0.36900369003690037,
+      0.7380073800738007
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727274,
+    "ci95_pp": [
+      -1.8181818181818183,
+      6.136363636363637
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      4.545454545454546,
+      -1.1363636363636365,
+      0.0,
+      3.4090909090909087
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.9047619047619047,
+    "ci95_pp": [
+      -0.6349206349206349,
+      4.285714285714286
+    ],
+    "by_seed_pp": [
+      1.5873015873015872,
+      3.1746031746031744,
+      2.380952380952381,
+      0.7936507936507936,
+      1.5873015873015872
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.6015037593984963,
+    "ci95_pp": [
+      -1.4035087719298245,
+      0.1503759398496241
+    ],
+    "by_seed_pp": [
+      -1.3784461152882206,
+      -1.0025062656641603,
+      -0.37593984962406013,
+      -0.12531328320802004,
+      -0.12531328320802004
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.1455847255369929,
+    "ci95_pp": [
+      -2.6252983293556085,
+      0.3341288782816229
+    ],
+    "by_seed_pp": [
+      -2.6252983293556085,
+      -1.9093078758949882,
+      -0.7159904534606205,
+      -0.23866348448687352,
+      -0.23866348448687352
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.070422535211268,
+    "ci95_pp": [
+      -2.7042253521126765,
+      0.5633802816901409
+    ],
+    "by_seed_pp": [
+      -2.8169014084507045,
+      -1.971830985915493,
+      -0.5633802816901409,
+      0.0,
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -1.70940170940171,
+    "ci95_pp": [
+      -5.641025641025641,
+      2.0512820512820515
+    ],
+    "by_seed_pp": [
+      -3.418803418803419,
+      -2.564102564102564,
+      -4.273504273504273,
+      0.0,
+      1.7094017094017095
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -0.33333333333333326,
+    "ci95_pp": [
+      -5.999999999999999,
+      5.333333333333334
+    ],
+    "by_seed_pp": [
+      0.0,
+      -5.0,
+      -3.3333333333333335,
+      3.3333333333333335,
+      3.3333333333333335
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -1.328413284132841,
+    "ci95_pp": [
+      -2.730627306273063,
+      -0.07380073800738006
+    ],
+    "by_seed_pp": [
+      -2.214022140221402,
+      -1.8450184501845017,
+      -1.107011070110701,
+      0.0,
+      -1.4760147601476015
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": -1.1363636363636362,
+    "ci95_pp": [
+      -5.454545454545456,
+      2.954545454545455
+    ],
+    "by_seed_pp": [
+      -5.681818181818182,
+      0.0,
+      2.272727272727273,
+      -3.4090909090909087,
+      1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -2.5396825396825395,
+    "ci95_pp": [
+      -5.873015873015873,
+      0.31746031746031755
+    ],
+    "by_seed_pp": [
+      -3.968253968253968,
+      -2.380952380952381,
+      -3.1746031746031744,
+      -1.5873015873015872,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.8796992481203014,
+    "ci95_pp": [
+      0.8771929824561405,
+      2.9573934837092737
+    ],
+    "by_seed_pp": [
+      1.2531328320802004,
+      2.882205513784461,
+      2.1303258145363406,
+      1.3784461152882206,
+      1.7543859649122806
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 3.579952267303103,
+    "ci95_pp": [
+      1.7183770883054894,
+      5.538186157517884
+    ],
+    "by_seed_pp": [
+      2.386634844868735,
+      5.4892601431980905,
+      4.05727923627685,
+      2.6252983293556085,
+      3.341288782816229
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 4.225352112676057,
+    "ci95_pp": [
+      1.971830985915493,
+      6.591549295774647
+    ],
+    "by_seed_pp": [
+      2.8169014084507045,
+      6.478873239436619,
+      4.788732394366197,
+      3.0985915492957745,
+      3.943661971830986
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 13.504273504273504,
+    "ci95_pp": [
+      7.521367521367522,
+      19.65811965811966
+    ],
+    "by_seed_pp": [
+      8.547008547008547,
+      19.65811965811966,
+      14.529914529914532,
+      11.965811965811966,
+      12.82051282051282
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 23.999999999999996,
+    "ci95_pp": [
+      14.666666666666666,
+      34.0
+    ],
+    "by_seed_pp": [
+      21.666666666666668,
+      36.666666666666664,
+      23.333333333333332,
+      18.333333333333332,
+      20.0
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -0.8856088560885609,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      -0.36900369003690037,
+      -1.107011070110701,
+      0.0,
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.8181818181818183,
+    "ci95_pp": [
+      -2.9545454545454546,
+      6.8181818181818175
+    ],
+    "by_seed_pp": [
+      -3.4090909090909087,
+      2.272727272727273,
+      6.8181818181818175,
+      0.0,
+      3.4090909090909087
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.1587301587301587,
+    "ci95_pp": [
+      -2.0634920634920633,
+      2.6984126984126986
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872,
+      1.5873015873015872,
+      0.7936507936507936,
+      0.7936507936507936,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.3784461152882206,
+    "ci95_pp": [
+      0.6265664160401002,
+      2.2055137844611528
+    ],
+    "by_seed_pp": [
+      0.6265664160401002,
+      1.7543859649122806,
+      1.7543859649122806,
+      0.8771929824561403,
+      1.8796992481203008
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.6252983293556085,
+    "ci95_pp": [
+      1.241050119331742,
+      4.152744630071599
+    ],
+    "by_seed_pp": [
+      1.1933174224343674,
+      3.341288782816229,
+      3.341288782816229,
+      1.6706443914081146,
+      3.579952267303103
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 3.0985915492957745,
+    "ci95_pp": [
+      1.4084507042253522,
+      4.901408450704225
+    ],
+    "by_seed_pp": [
+      1.4084507042253522,
+      3.943661971830986,
+      3.943661971830986,
+      1.971830985915493,
+      4.225352112676056
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 9.23076923076923,
+    "ci95_pp": [
+      4.444444444444445,
+      14.529914529914528
+    ],
+    "by_seed_pp": [
+      5.128205128205128,
+      11.965811965811966,
+      11.11111111111111,
+      5.982905982905983,
+      11.965811965811966
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 16.0,
+    "ci95_pp": [
+      8.333333333333332,
+      24.666666666666668
+    ],
+    "by_seed_pp": [
+      11.666666666666666,
+      21.666666666666668,
+      16.666666666666664,
+      11.666666666666666,
+      18.333333333333332
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.590909090909091,
+    "ci95_pp": [
+      -1.8181818181818188,
+      5.0
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      1.1363636363636365,
+      4.545454545454546,
+      0.0,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -8.811293846231401e-17,
+    "ci95_pp": [
+      -2.0634920634920637,
+      2.0634920634920633
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.7936507936507936,
+      1.5873015873015872,
+      -2.380952380952381,
+      0.7936507936507936
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.5012531328320802,
+    "ci95_pp": [
+      -0.3258145363408522,
+      1.3784461152882206
+    ],
+    "by_seed_pp": [
+      0.6265664160401002,
+      1.1278195488721803,
+      0.37593984962406013,
+      0.5012531328320802,
+      -0.12531328320802004
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.9546539379474941,
+    "ci95_pp": [
+      -0.620525059665871,
+      2.578758949880651
+    ],
+    "by_seed_pp": [
+      1.1933174224343674,
+      2.1479713603818613,
+      0.7159904534606205,
+      0.9546539379474941,
+      -0.23866348448687352
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.1267605633802817,
+    "ci95_pp": [
+      -0.7323943661971831,
+      3.042253521126761
+    ],
+    "by_seed_pp": [
+      1.4084507042253522,
+      2.535211267605634,
+      0.8450704225352111,
+      1.1267605633802817,
+      -0.28169014084507044
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 4.273504273504274,
+    "ci95_pp": [
+      -0.8547008547008539,
+      9.401709401709402
+    ],
+    "by_seed_pp": [
+      3.418803418803419,
+      7.6923076923076925,
+      3.418803418803419,
+      5.982905982905983,
+      0.8547008547008548
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.000000000000002,
+    "ci95_pp": [
+      -0.3333333333333338,
+      17.0
+    ],
+    "by_seed_pp": [
+      10.0,
+      15.0,
+      6.666666666666667,
+      6.666666666666667,
+      1.6666666666666667
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.36900369003690037,
+    "ci95_pp": [
+      -0.885608856088561,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0,
+      -0.36900369003690037,
+      -1.107011070110701,
+      0.0,
+      -0.36900369003690037
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.2272727272727272,
+    "ci95_pp": [
+      -4.318181818181818,
+      4.772727272727273
+    ],
+    "by_seed_pp": [
+      -1.1363636363636365,
+      1.1363636363636365,
+      2.272727272727273,
+      0.0,
+      -1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.1587301587301587,
+    "ci95_pp": [
+      -1.9047619047619049,
+      2.0634920634920633
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.7936507936507936,
+      -0.7936507936507936,
+      3.1746031746031744,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.75187969924812,
+    "ci95_pp": [
+      -2.2055137844611528,
+      0.6516290726817044
+    ],
+    "by_seed_pp": [
+      -0.6265664160401002,
+      -0.37593984962406013,
+      -0.5012531328320802,
+      -1.1278195488721803,
+      -1.1278195488721803
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.4319809069212412,
+    "ci95_pp": [
+      -4.105011933174225,
+      1.2410501193317425
+    ],
+    "by_seed_pp": [
+      -1.1933174224343674,
+      -0.7159904534606205,
+      -0.9546539379474941,
+      -2.1479713603818613,
+      -2.1479713603818613
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.6901408450704223,
+    "ci95_pp": [
+      -4.845070422535212,
+      1.4647887323943665
+    ],
+    "by_seed_pp": [
+      -1.4084507042253522,
+      -0.8450704225352111,
+      -1.1267605633802817,
+      -2.535211267605634,
+      -2.535211267605634
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -19.31623931623932,
+    "ci95_pp": [
+      -26.49572649572649,
+      -12.47863247863248
+    ],
+    "by_seed_pp": [
+      -16.23931623931624,
+      -19.65811965811966,
+      -20.51282051282051,
+      -19.65811965811966,
+      -20.51282051282051
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -37.66666666666667,
+    "ci95_pp": [
+      -49.0,
+      -26.666666666666668
+    ],
+    "by_seed_pp": [
+      -33.33333333333333,
+      -38.333333333333336,
+      -36.666666666666664,
+      -38.333333333333336,
+      -41.66666666666667
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.313653136531366,
+    "ci95_pp": [
+      3.2472324723247237,
+      7.601476014760149
+    ],
+    "by_seed_pp": [
+      4.059040590405904,
+      6.273062730627306,
+      7.011070110701106,
+      4.428044280442804,
+      4.797047970479705
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.5,
+    "ci95_pp": [
+      -1.363636363636364,
+      6.8181818181818175
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      3.4090909090909087,
+      -1.1363636363636365,
+      2.272727272727273,
+      3.4090909090909087
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.6349206349206346,
+    "ci95_pp": [
+      -3.6507936507936503,
+      2.3809523809523814
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936,
+      0.0,
+      -0.7936507936507936,
+      -0.7936507936507936,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 4,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.6265664160401002,
+    "ci95_pp": [
+      -2.0050125313283207,
+      0.7268170426065164
+    ],
+    "by_seed_pp": [
+      -1.1278195488721803,
+      -0.5012531328320802,
+      -0.37593984962406013,
+      -0.8771929824561403,
+      -0.2506265664160401
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.1933174224343677,
+    "ci95_pp": [
+      -3.7708830548926016,
+      1.431980906921241
+    ],
+    "by_seed_pp": [
+      -2.1479713603818613,
+      -0.9546539379474941,
+      -0.7159904534606205,
+      -1.6706443914081146,
+      -0.47732696897374705
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.4084507042253522,
+    "ci95_pp": [
+      -4.450704225352113,
+      1.6901408450704223
+    ],
+    "by_seed_pp": [
+      -2.535211267605634,
+      -1.1267605633802817,
+      -0.8450704225352111,
+      -1.971830985915493,
+      -0.5633802816901409
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -17.094017094017094,
+    "ci95_pp": [
+      -23.76068376068376,
+      -10.769230769230766
+    ],
+    "by_seed_pp": [
+      -18.803418803418804,
+      -16.23931623931624,
+      -17.094017094017094,
+      -20.51282051282051,
+      -12.82051282051282
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -32.00000000000001,
+    "ci95_pp": [
+      -43.00000000000001,
+      -21.666666666666668
+    ],
+    "by_seed_pp": [
+      -31.666666666666664,
+      -30.0,
+      -33.33333333333333,
+      -36.666666666666664,
+      -28.333333333333332
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.649446494464945,
+    "ci95_pp": [
+      2.5092250922509227,
+      7.084870848708487
+    ],
+    "by_seed_pp": [
+      4.428044280442804,
+      5.166051660516605,
+      4.797047970479705,
+      4.797047970479705,
+      4.059040590405904
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.8181818181818183,
+    "ci95_pp": [
+      -2.2727272727272725,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      0.0,
+      4.545454545454546,
+      2.272727272727273,
+      4.545454545454546
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -2.5396825396825395,
+    "ci95_pp": [
+      -6.349206349206349,
+      0.9523809523809523
+    ],
+    "by_seed_pp": [
+      -3.1746031746031744,
+      -2.380952380952381,
+      -1.5873015873015872,
+      -3.968253968253968,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.47619047619047616,
+    "ci95_pp": [
+      -0.6766917293233082,
+      1.629072681704261
+    ],
+    "by_seed_pp": [
+      0.8771929824561403,
+      1.6290726817042605,
+      0.37593984962406013,
+      -0.2506265664160401,
+      -0.2506265664160401
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.9069212410501192,
+    "ci95_pp": [
+      -1.2899761336515505,
+      3.054892601431981
+    ],
+    "by_seed_pp": [
+      1.6706443914081146,
+      3.1026252983293556,
+      0.7159904534606205,
+      -0.47732696897374705,
+      -0.47732696897374705
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 0.7887323943661971,
+    "ci95_pp": [
+      -1.7464788732394365,
+      3.3802816901408446
+    ],
+    "by_seed_pp": [
+      1.6901408450704223,
+      3.3802816901408446,
+      0.5633802816901409,
+      -0.8450704225352111,
+      -0.8450704225352111
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -11.11111111111111,
+    "ci95_pp": [
+      -16.410256410256412,
+      -5.982905982905984
+    ],
+    "by_seed_pp": [
+      -11.965811965811966,
+      -5.982905982905983,
+      -9.401709401709402,
+      -14.529914529914532,
+      -13.675213675213676
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -23.666666666666668,
+    "ci95_pp": [
+      -31.66666666666667,
+      -16.0
+    ],
+    "by_seed_pp": [
+      -21.666666666666668,
+      -10.0,
+      -23.333333333333332,
+      -33.33333333333333,
+      -30.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.608856088560885,
+    "ci95_pp": [
+      3.394833948339484,
+      7.970479704797047
+    ],
+    "by_seed_pp": [
+      6.642066420664207,
+      6.642066420664207,
+      4.797047970479705,
+      4.797047970479705,
+      5.166051660516605
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 3.1818181818181817,
+    "ci95_pp": [
+      6.30808536718839e-17,
+      6.590909090909092
+    ],
+    "by_seed_pp": [
+      2.272727272727273,
+      1.1363636363636365,
+      4.545454545454546,
+      5.681818181818182,
+      2.272727272727273
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.15873015873015864,
+    "ci95_pp": [
+      -3.3333333333333335,
+      3.6507936507936503
+    ],
+    "by_seed_pp": [
+      0.0,
+      0.7936507936507936,
+      0.7936507936507936,
+      0.7936507936507936,
+      -1.5873015873015872
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.2280701754385968,
+    "ci95_pp": [
+      -0.025062656641604144,
+      2.5313283208020043
+    ],
+    "by_seed_pp": [
+      1.5037593984962405,
+      2.0050125313283207,
+      0.8771929824561403,
+      0.8771929824561403,
+      0.8771929824561403
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.3389021479713605,
+    "ci95_pp": [
+      0.0,
+      4.77326968973747
+    ],
+    "by_seed_pp": [
+      2.863961813842482,
+      3.8186157517899764,
+      1.6706443914081146,
+      1.6706443914081146,
+      1.6706443914081146
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.47887323943662,
+    "ci95_pp": [
+      -0.2816901408450704,
+      5.352112676056338
+    ],
+    "by_seed_pp": [
+      3.0985915492957745,
+      4.225352112676056,
+      1.6901408450704223,
+      1.6901408450704223,
+      1.6901408450704223
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 8.205128205128206,
+    "ci95_pp": [
+      1.5384615384615379,
+      15.042735042735044
+    ],
+    "by_seed_pp": [
+      4.273504273504273,
+      13.675213675213676,
+      11.11111111111111,
+      5.128205128205128,
+      6.837606837606838
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 14.000000000000002,
+    "ci95_pp": [
+      2.6666666666666665,
+      26.0
+    ],
+    "by_seed_pp": [
+      11.666666666666666,
+      28.333333333333332,
+      13.333333333333334,
+      5.0,
+      11.666666666666666
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.2952029520295202,
+    "ci95_pp": [
+      -1.4760147601476015,
+      2.1402214022140225
+    ],
+    "by_seed_pp": [
+      2.5830258302583027,
+      0.36900369003690037,
+      -2.214022140221402,
+      0.36900369003690037,
+      0.36900369003690037
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.6818181818181814,
+    "ci95_pp": [
+      -4.7727272727272725,
+      6.136363636363636
+    ],
+    "by_seed_pp": [
+      -2.272727272727273,
+      -2.272727272727273,
+      5.681818181818182,
+      3.4090909090909087,
+      -1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -2.5396825396825395,
+      4.285714285714286
+    ],
+    "by_seed_pp": [
+      0.7936507936507936,
+      0.7936507936507936,
+      1.5873015873015872,
+      1.5873015873015872,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.12531328320802004,
+    "ci95_pp": [
+      -0.9273182957393483,
+      1.2030075187969924
+    ],
+    "by_seed_pp": [
+      -0.5012531328320802,
+      -0.12531328320802004,
+      0.12531328320802004,
+      0.2506265664160401,
+      0.8771929824561403
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.23866348448687355,
+    "ci95_pp": [
+      -1.7183770883054894,
+      2.2911694510739857
+    ],
+    "by_seed_pp": [
+      -0.9546539379474941,
+      -0.23866348448687352,
+      0.23866348448687352,
+      0.47732696897374705,
+      1.6706443914081146
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 0.28169014084507055,
+    "ci95_pp": [
+      -2.028169014084507,
+      2.647887323943662
+    ],
+    "by_seed_pp": [
+      -1.1267605633802817,
+      -0.28169014084507044,
+      0.28169014084507044,
+      0.5633802816901409,
+      1.971830985915493
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 2.2222222222222214,
+    "ci95_pp": [
+      -4.102564102564102,
+      8.717948717948717
+    ],
+    "by_seed_pp": [
+      -2.564102564102564,
+      3.418803418803419,
+      3.418803418803419,
+      -0.8547008547008548,
+      7.6923076923076925
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 5.666666666666666,
+    "ci95_pp": [
+      -5.000000000000002,
+      17.0
+    ],
+    "by_seed_pp": [
+      1.6666666666666667,
+      8.333333333333332,
+      3.3333333333333335,
+      1.6666666666666667,
+      13.333333333333334
+    ],
+    "positive_seeds": 5,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.6642066420664207,
+    "ci95_pp": [
+      -2.0664206642066416,
+      0.7380073800738008
+    ],
+    "by_seed_pp": [
+      0.36900369003690037,
+      -1.107011070110701,
+      -2.214022140221402,
+      0.36900369003690037,
+      -0.7380073800738007
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 3,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": -0.6818181818181817,
+    "ci95_pp": [
+      -4.09090909090909,
+      2.5
+    ],
+    "by_seed_pp": [
+      -6.8181818181818175,
+      -3.4090909090909087,
+      5.681818181818182,
+      0.0,
+      1.1363636363636365
+    ],
+    "positive_seeds": 2,
+    "negative_seeds": 2,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.9047619047619047,
+    "ci95_pp": [
+      -4.285714285714286,
+      0.15873015873015872
+    ],
+    "by_seed_pp": [
+      -2.380952380952381,
+      -2.380952380952381,
+      -0.7936507936507936,
+      -3.1746031746031744,
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 5,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.1027568922305764,
+    "ci95_pp": [
+      0.1253132832080201,
+      2.1058897243107677
+    ],
+    "by_seed_pp": [
+      2.0050125313283207,
+      2.1303258145363406,
+      0.7518796992481203,
+      0.6265664160401002,
+      0.0
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.100238663484487,
+    "ci95_pp": [
+      0.23866348448687355,
+      3.961813842482101
+    ],
+    "by_seed_pp": [
+      3.8186157517899764,
+      4.05727923627685,
+      1.431980906921241,
+      1.1933174224343674,
+      0.0
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.1971830985915495,
+    "ci95_pp": [
+      0.05633802816901408,
+      4.394366197183099
+    ],
+    "by_seed_pp": [
+      4.225352112676056,
+      4.507042253521127,
+      1.4084507042253522,
+      1.1267605633802817,
+      -0.28169014084507044
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.982905982905984,
+    "ci95_pp": [
+      0.6837606837606834,
+      11.452991452991453
+    ],
+    "by_seed_pp": [
+      6.837606837606838,
+      10.256410256410255,
+      7.6923076923076925,
+      5.982905982905983,
+      -0.8547008547008548
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.333333333333332,
+    "ci95_pp": [
+      -0.9999999999999993,
+      18.000000000000004
+    ],
+    "by_seed_pp": [
+      10.0,
+      20.0,
+      10.0,
+      3.3333333333333335,
+      -1.6666666666666667
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.959409594095941,
+    "ci95_pp": [
+      -0.3690036900369004,
+      2.4354243542435423
+    ],
+    "by_seed_pp": [
+      2.214022140221402,
+      1.4760147601476015,
+      0.0,
+      0.0,
+      1.107011070110701
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.3636363636363633,
+    "ci95_pp": [
+      -2.9545454545454546,
+      5.681818181818183
+    ],
+    "by_seed_pp": [
+      4.545454545454546,
+      1.1363636363636365,
+      0.0,
+      3.4090909090909087,
+      -2.272727272727273
+    ],
+    "positive_seeds": 3,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "single_mean",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 2.698412698412698,
+    "ci95_pp": [
+      -0.15873015873015872,
+      5.873015873015873
+    ],
+    "by_seed_pp": [
+      3.1746031746031744,
+      3.1746031746031744,
+      2.380952380952381,
+      4.761904761904762,
+      0.0
+    ],
+    "positive_seeds": 4,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.37593984962406013,
+    "ci95_pp": [
+      -1.0025062656641603,
+      1.7543859649122806
+    ],
+    "by_seed_pp": [
+      0.37593984962406013
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 0.7159904534606205,
+    "ci95_pp": [
+      -1.6706443914081146,
+      3.1026252983293556
+    ],
+    "by_seed_pp": [
+      0.7159904534606205
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.1267605633802817,
+    "ci95_pp": [
+      -1.6901408450704223,
+      3.943661971830986
+    ],
+    "by_seed_pp": [
+      1.1267605633802817
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 3.418803418803419,
+    "ci95_pp": [
+      -2.564102564102564,
+      9.401709401709402
+    ],
+    "by_seed_pp": [
+      3.418803418803419
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 6.666666666666667,
+    "ci95_pp": [
+      0.0,
+      15.0
+    ],
+    "by_seed_pp": [
+      6.666666666666667
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.7380073800738007,
+    "ci95_pp": [
+      -3.3210332103321036,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      -0.7380073800738007
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -5.681818181818182,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -4.761904761904762,
+      4.761904761904762
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.6265664160401002,
+    "ci95_pp": [
+      -0.5012531328320802,
+      1.7543859649122806
+    ],
+    "by_seed_pp": [
+      0.6265664160401002
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.1933174224343674,
+    "ci95_pp": [
+      -0.7159904534606205,
+      3.341288782816229
+    ],
+    "by_seed_pp": [
+      1.1933174224343674
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -0.8450704225352111,
+      3.943661971830986
+    ],
+    "by_seed_pp": [
+      1.4084507042253522
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 4.273504273504273,
+    "ci95_pp": [
+      -0.8547008547008548,
+      10.256410256410255
+    ],
+    "by_seed_pp": [
+      4.273504273504273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 8.333333333333332,
+    "ci95_pp": [
+      0.0,
+      16.666666666666664
+    ],
+    "by_seed_pp": [
+      8.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -1.8450184501845017,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -5.681818181818182,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      -2.380952380952381,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      1.5873015873015872
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.2506265664160401,
+    "ci95_pp": [
+      -1.2531328320802004,
+      0.7518796992481203
+    ],
+    "by_seed_pp": [
+      -0.2506265664160401
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -0.47732696897374705,
+    "ci95_pp": [
+      -2.386634844868735,
+      1.431980906921241
+    ],
+    "by_seed_pp": [
+      -0.47732696897374705
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -0.28169014084507044,
+    "ci95_pp": [
+      -2.535211267605634,
+      1.971830985915493
+    ],
+    "by_seed_pp": [
+      -0.28169014084507044
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -0.8547008547008548,
+    "ci95_pp": [
+      -5.128205128205128,
+      3.418803418803419
+    ],
+    "by_seed_pp": [
+      -0.8547008547008548
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -1.6666666666666667,
+    "ci95_pp": [
+      -8.333333333333332,
+      3.3333333333333335
+    ],
+    "by_seed_pp": [
+      -1.6666666666666667
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": -0.7380073800738007,
+    "ci95_pp": [
+      -2.5830258302583027,
+      1.107011070110701
+    ],
+    "by_seed_pp": [
+      -0.7380073800738007
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -4.545454545454546,
+      6.8181818181818175
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at P",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -4.761904761904762,
+      1.5873015873015872
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 2.756892230576441,
+    "ci95_pp": [
+      1.5037593984962405,
+      4.010025062656641
+    ],
+    "by_seed_pp": [
+      2.756892230576441
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 5.250596658711217,
+    "ci95_pp": [
+      2.863961813842482,
+      7.875894988066825
+    ],
+    "by_seed_pp": [
+      5.250596658711217
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 6.197183098591549,
+    "ci95_pp": [
+      3.3802816901408446,
+      9.014084507042254
+    ],
+    "by_seed_pp": [
+      6.197183098591549
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 17.94871794871795,
+    "ci95_pp": [
+      10.256410256410255,
+      25.66239316239285
+    ],
+    "by_seed_pp": [
+      17.94871794871795
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 30.0,
+    "ci95_pp": [
+      18.333333333333332,
+      43.333333333333336
+    ],
+    "by_seed_pp": [
+      30.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 4.545454545454546,
+    "ci95_pp": [
+      -1.1363636363636365,
+      11.363636363636363
+    ],
+    "by_seed_pp": [
+      4.545454545454546
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -2.380952380952381,
+      4.761904761904762
+    ],
+    "by_seed_pp": [
+      0.7936507936507936
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.6290726817042605,
+    "ci95_pp": [
+      0.6265664160401002,
+      2.756892230576441
+    ],
+    "by_seed_pp": [
+      1.6290726817042605
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 3.1026252983293556,
+    "ci95_pp": [
+      1.1933174224343674,
+      5.250596658711217
+    ],
+    "by_seed_pp": [
+      3.1026252983293556
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 3.6619718309859155,
+    "ci95_pp": [
+      1.4084507042253522,
+      6.197183098591549
+    ],
+    "by_seed_pp": [
+      3.6619718309859155
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 11.965811965811966,
+    "ci95_pp": [
+      5.128205128205128,
+      18.803418803418804
+    ],
+    "by_seed_pp": [
+      11.965811965811966
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 18.333333333333332,
+    "ci95_pp": [
+      8.333333333333332,
+      28.333333333333332
+    ],
+    "by_seed_pp": [
+      18.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "Pool-I at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 1.5873015873015872,
+    "ci95_pp": [
+      -2.380952380952381,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      1.5873015873015872
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.1278195488721803,
+    "ci95_pp": [
+      0.12531328320802004,
+      2.2556390977443606
+    ],
+    "by_seed_pp": [
+      1.1278195488721803
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.1479713603818613,
+    "ci95_pp": [
+      0.23866348448687352,
+      4.295942720763723
+    ],
+    "by_seed_pp": [
+      2.1479713603818613
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.535211267605634,
+    "ci95_pp": [
+      0.28169014084507044,
+      4.788732394366197
+    ],
+    "by_seed_pp": [
+      2.535211267605634
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 5.982905982905983,
+    "ci95_pp": [
+      -0.8547008547008548,
+      12.82051282051282
+    ],
+    "by_seed_pp": [
+      5.982905982905983
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 11.666666666666666,
+    "ci95_pp": [
+      0.0,
+      23.333333333333332
+    ],
+    "by_seed_pp": [
+      11.666666666666666
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      0.0,
+      0.0
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "S2-Pool at C",
+    "category": "structure",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      1.5873015873015872
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -1.6290726817042605,
+    "ci95_pp": [
+      -3.258145363408521,
+      0.0
+    ],
+    "by_seed_pp": [
+      -1.6290726817042605
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -3.1026252983293556,
+    "ci95_pp": [
+      -6.205250596658711,
+      0.0
+    ],
+    "by_seed_pp": [
+      -3.1026252983293556
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -3.6619718309859155,
+    "ci95_pp": [
+      -7.323943661971831,
+      0.0
+    ],
+    "by_seed_pp": [
+      -3.6619718309859155
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -23.931623931623932,
+    "ci95_pp": [
+      -32.47863247863248,
+      -16.23931623931624
+    ],
+    "by_seed_pp": [
+      -23.931623931623932
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -43.333333333333336,
+    "ci95_pp": [
+      -55.00000000000001,
+      -31.666666666666664
+    ],
+    "by_seed_pp": [
+      -43.333333333333336
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.797047970479705,
+    "ci95_pp": [
+      2.5830258302583027,
+      7.380073800738007
+    ],
+    "by_seed_pp": [
+      4.797047970479705
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -5.681818181818182,
+      5.681818181818182
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at I",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -5.555555555555555,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": -0.6265664160401002,
+    "ci95_pp": [
+      -2.133458646616538,
+      0.8771929824561403
+    ],
+    "by_seed_pp": [
+      -0.6265664160401002
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": -1.1933174224343674,
+    "ci95_pp": [
+      -4.05727923627685,
+      1.6706443914081146
+    ],
+    "by_seed_pp": [
+      -1.1933174224343674
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": -1.4084507042253522,
+    "ci95_pp": [
+      -4.788732394366197,
+      1.971830985915493
+    ],
+    "by_seed_pp": [
+      -1.4084507042253522
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -16.23931623931624,
+    "ci95_pp": [
+      -23.931623931623932,
+      -8.547008547008547
+    ],
+    "by_seed_pp": [
+      -16.23931623931624
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -33.33333333333333,
+    "ci95_pp": [
+      -45.0,
+      -21.666666666666668
+    ],
+    "by_seed_pp": [
+      -33.33333333333333
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 4.797047970479705,
+    "ci95_pp": [
+      2.5830258302583027,
+      7.380073800738007
+    ],
+    "by_seed_pp": [
+      4.797047970479705
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -3.4090909090909087,
+      7.954545454545454
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at Pool",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -1.5873015873015872,
+    "ci95_pp": [
+      -6.349206349206349,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      -1.5873015873015872
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 0.7518796992481203,
+    "ci95_pp": [
+      -0.7518796992481203,
+      2.2556390977443606
+    ],
+    "by_seed_pp": [
+      0.7518796992481203
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.431980906921241,
+    "ci95_pp": [
+      -1.431980906921241,
+      4.295942720763723
+    ],
+    "by_seed_pp": [
+      1.431980906921241
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 1.4084507042253522,
+    "ci95_pp": [
+      -1.6901408450704223,
+      4.507042253521127
+    ],
+    "by_seed_pp": [
+      1.4084507042253522
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": -9.401709401709402,
+    "ci95_pp": [
+      -16.23931623931624,
+      -2.564102564102564
+    ],
+    "by_seed_pp": [
+      -9.401709401709402
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": -20.0,
+    "ci95_pp": [
+      -30.0,
+      -10.0
+    ],
+    "by_seed_pp": [
+      -20.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 5.535055350553505,
+    "ci95_pp": [
+      2.952029520295203,
+      8.487084870848708
+    ],
+    "by_seed_pp": [
+      5.535055350553505
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -3.4090909090909087,
+      10.227272727272728
+    ],
+    "by_seed_pp": [
+      3.4090909090909087
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "C-P at S2",
+    "category": "features",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": -0.7936507936507936,
+    "ci95_pp": [
+      -4.761904761904762,
+      3.1746031746031744
+    ],
+    "by_seed_pp": [
+      -0.7936507936507936
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 1,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 2.380952380952381,
+    "ci95_pp": [
+      0.6265664160401002,
+      4.135338345864661
+    ],
+    "by_seed_pp": [
+      2.380952380952381
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 4.534606205250596,
+    "ci95_pp": [
+      1.1933174224343674,
+      7.875894988066825
+    ],
+    "by_seed_pp": [
+      4.534606205250596
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 5.070422535211268,
+    "ci95_pp": [
+      1.1267605633802817,
+      9.014084507042254
+    ],
+    "by_seed_pp": [
+      5.070422535211268
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 14.529914529914532,
+    "ci95_pp": [
+      5.128205128205128,
+      23.931623931623932
+    ],
+    "by_seed_pp": [
+      14.529914529914532
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 23.333333333333332,
+    "ci95_pp": [
+      8.333333333333332,
+      38.333333333333336
+    ],
+    "by_seed_pp": [
+      23.333333333333332
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.7380073800738007,
+    "ci95_pp": [
+      -1.8450184501845017,
+      3.3210332103321036
+    ],
+    "by_seed_pp": [
+      0.7380073800738007
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 3.4090909090909087,
+    "ci95_pp": [
+      -4.545454545454546,
+      11.363636363636363
+    ],
+    "by_seed_pp": [
+      3.4090909090909087
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      5.555555555555555
+    ],
+    "by_seed_pp": [
+      0.7936507936507936
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.0025062656641603,
+    "ci95_pp": [
+      -0.37593984962406013,
+      2.380952380952381
+    ],
+    "by_seed_pp": [
+      1.0025062656641603
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 1.9093078758949882,
+    "ci95_pp": [
+      -0.7159904534606205,
+      4.534606205250596
+    ],
+    "by_seed_pp": [
+      1.9093078758949882
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.2535211267605635,
+    "ci95_pp": [
+      -0.8450704225352111,
+      5.352112676056338
+    ],
+    "by_seed_pp": [
+      2.2535211267605635
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 7.6923076923076925,
+    "ci95_pp": [
+      -0.8547008547008548,
+      16.23931623931624
+    ],
+    "by_seed_pp": [
+      7.6923076923076925
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 10.0,
+    "ci95_pp": [
+      -3.3333333333333335,
+      23.333333333333332
+    ],
+    "by_seed_pp": [
+      10.0
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -1.8450184501845017,
+      1.8450184501845017
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 2.272727272727273,
+    "ci95_pp": [
+      -4.545454545454546,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      2.272727272727273
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (Pool-I): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.0,
+    "ci95_pp": [
+      -3.968253968253968,
+      3.988095238094949
+    ],
+    "by_seed_pp": [
+      0.0
+    ],
+    "positive_seeds": 0,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "all",
+    "questions": 798,
+    "difference_pp": 1.3784461152882206,
+    "ci95_pp": [
+      0.0,
+      2.756892230576441
+    ],
+    "by_seed_pp": [
+      1.3784461152882206
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "mixed",
+    "questions": 419,
+    "difference_pp": 2.6252983293556085,
+    "ci95_pp": [
+      0.0,
+      5.250596658711217
+    ],
+    "by_seed_pp": [
+      2.6252983293556085
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "multiple_valid_answers",
+    "questions": 355,
+    "difference_pp": 2.8169014084507045,
+    "ci95_pp": [
+      -0.28169014084507044,
+      5.915492957746479
+    ],
+    "by_seed_pp": [
+      2.8169014084507045
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "one_correct",
+    "questions": 117,
+    "difference_pp": 6.837606837606838,
+    "ci95_pp": [
+      -0.8547008547008548,
+      14.529914529914532
+    ],
+    "by_seed_pp": [
+      6.837606837606838
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "wrong_unique_plurality",
+    "questions": 60,
+    "difference_pp": 13.333333333333334,
+    "ci95_pp": [
+      1.6666666666666667,
+      25.0
+    ],
+    "by_seed_pp": [
+      13.333333333333334
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "correct_plurality_mixed",
+    "questions": 271,
+    "difference_pp": 0.7380073800738007,
+    "ci95_pp": [
+      -1.107011070110701,
+      2.5830258302583027
+    ],
+    "by_seed_pp": [
+      0.7380073800738007
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "plurality_tie_mixed",
+    "questions": 88,
+    "difference_pp": 1.1363636363636365,
+    "ci95_pp": [
+      -6.8181818181818175,
+      9.090909090909092
+    ],
+    "by_seed_pp": [
+      1.1363636363636365
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  },
+  {
+    "contrast": "interaction (S2-Pool): C-P",
+    "category": "interaction",
+    "mode": "raw",
+    "kind": "ensemble",
+    "subgroup": "any_invalid_parse",
+    "questions": 126,
+    "difference_pp": 0.7936507936507936,
+    "ci95_pp": [
+      -3.968253968253968,
+      4.761904761904762
+    ],
+    "by_seed_pp": [
+      0.7936507936507936
+    ],
+    "positive_seeds": 1,
+    "negative_seeds": 0,
+    "primary": false
+  }
+]

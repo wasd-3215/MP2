@@ -1,0 +1,12 @@
+{
+  "members": [
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_17\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_29\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_43\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_71\\full\\bundle",
+    "..\\..\\..\\..\\fusion_confidence_20261017\\results\\runs\\s2_consistency\\seed_101\\full\\bundle"
+  ],
+  "rule": "mean_probability",
+  "routing": null,
+  "filter_invalid": true
+}

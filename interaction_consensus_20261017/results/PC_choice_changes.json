@@ -1,0 +1,137 @@
+[
+  {
+    "architecture": "I",
+    "seed": 17,
+    "candidate_changes": 170,
+    "answer_changes": 47,
+    "same_answer_candidate_changes": 123,
+    "repairs": 17,
+    "new_errors": 22
+  },
+  {
+    "architecture": "I",
+    "seed": 29,
+    "candidate_changes": 199,
+    "answer_changes": 55,
+    "same_answer_candidate_changes": 144,
+    "repairs": 23,
+    "new_errors": 26
+  },
+  {
+    "architecture": "I",
+    "seed": 43,
+    "candidate_changes": 172,
+    "answer_changes": 58,
+    "same_answer_candidate_changes": 114,
+    "repairs": 24,
+    "new_errors": 28
+  },
+  {
+    "architecture": "I",
+    "seed": 71,
+    "candidate_changes": 178,
+    "answer_changes": 46,
+    "same_answer_candidate_changes": 132,
+    "repairs": 15,
+    "new_errors": 24
+  },
+  {
+    "architecture": "I",
+    "seed": 101,
+    "candidate_changes": 185,
+    "answer_changes": 49,
+    "same_answer_candidate_changes": 136,
+    "repairs": 18,
+    "new_errors": 27
+  },
+  {
+    "architecture": "Pool",
+    "seed": 17,
+    "candidate_changes": 154,
+    "answer_changes": 43,
+    "same_answer_candidate_changes": 111,
+    "repairs": 15,
+    "new_errors": 24
+  },
+  {
+    "architecture": "Pool",
+    "seed": 29,
+    "candidate_changes": 152,
+    "answer_changes": 40,
+    "same_answer_candidate_changes": 112,
+    "repairs": 16,
+    "new_errors": 20
+  },
+  {
+    "architecture": "Pool",
+    "seed": 43,
+    "candidate_changes": 151,
+    "answer_changes": 46,
+    "same_answer_candidate_changes": 105,
+    "repairs": 19,
+    "new_errors": 22
+  },
+  {
+    "architecture": "Pool",
+    "seed": 71,
+    "candidate_changes": 145,
+    "answer_changes": 47,
+    "same_answer_candidate_changes": 98,
+    "repairs": 18,
+    "new_errors": 25
+  },
+  {
+    "architecture": "Pool",
+    "seed": 101,
+    "candidate_changes": 156,
+    "answer_changes": 38,
+    "same_answer_candidate_changes": 118,
+    "repairs": 16,
+    "new_errors": 18
+  },
+  {
+    "architecture": "S2",
+    "seed": 17,
+    "candidate_changes": 186,
+    "answer_changes": 38,
+    "same_answer_candidate_changes": 148,
+    "repairs": 21,
+    "new_errors": 15
+  },
+  {
+    "architecture": "S2",
+    "seed": 29,
+    "candidate_changes": 186,
+    "answer_changes": 34,
+    "same_answer_candidate_changes": 152,
+    "repairs": 22,
+    "new_errors": 11
+  },
+  {
+    "architecture": "S2",
+    "seed": 43,
+    "candidate_changes": 179,
+    "answer_changes": 36,
+    "same_answer_candidate_changes": 143,
+    "repairs": 18,
+    "new_errors": 16
+  },
+  {
+    "architecture": "S2",
+    "seed": 71,
+    "candidate_changes": 187,
+    "answer_changes": 44,
+    "same_answer_candidate_changes": 143,
+    "repairs": 18,
+    "new_errors": 22
+  },
+  {
+    "architecture": "S2",
+    "seed": 101,
+    "candidate_changes": 190,
+    "answer_changes": 37,
+    "same_answer_candidate_changes": 153,
+    "repairs": 16,
+    "new_errors": 19
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "training_runs": 40,
+  "updates_each": 380,
+  "total_updates": 15200,
+  "draws_each": 95100,
+  "total_question_draws": 3804000,
+  "optimization_seconds": 423.6128385999764,
+  "diagnostic_seconds": 232.7946259000164,
+  "training_plus_diagnostics_seconds": 660.7485896002327,
+  "official_evaluations": 48,
+  "fresh_official_evaluation_seconds": 235.5177616001165,
+  "additional_searches": 0,
+  "test_used": false
+}

@@ -1,0 +1,23 @@
+{
+  "contrast": "interaction (S2-I): C-P",
+  "category": "interaction",
+  "mode": "filtered",
+  "kind": "single_mean",
+  "subgroup": "all",
+  "questions": 798,
+  "difference_pp": 1.0526315789473684,
+  "ci95_pp": [
+    -0.15037593984962414,
+    2.280701754385965
+  ],
+  "by_seed_pp": [
+    1.3784461152882206,
+    1.7543859649122806,
+    0.7518796992481203,
+    0.6265664160401002,
+    0.7518796992481203
+  ],
+  "positive_seeds": 5,
+  "negative_seeds": 0,
+  "primary": true
+}
