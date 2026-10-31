@@ -1,0 +1,54 @@
+{
+  "mode": "gate4",
+  "gate": {
+    "columns": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "feature_names": [
+      "Pool_answer_gap",
+      "S2_answer_gap",
+      "Pool_seed_answer_agreement",
+      "S2_seed_answer_agreement"
+    ],
+    "mean": [
+      0.0642975904149303,
+      0.16694715880321387,
+      0.8580419580419579,
+      0.8671328671328671
+    ],
+    "std": [
+      0.07462888485190124,
+      0.15610179592083953,
+      0.1910268854554129,
+      0.18312601178554302
+    ],
+    "intercept": -0.1258741258741259,
+    "coefficients": [
+      0.003678673872846069,
+      -0.16513925191251502,
+      0.05719254684170756,
+      -0.14266929741717693
+    ],
+    "ridge": 10.0,
+    "threshold": 0.0
+  },
+  "members": {
+    "Pool_P": [
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_17\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_29\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_43\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_71\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_101\\bundle"
+    ],
+    "S2_C": [
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_17\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_29\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_43\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_71\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_101\\bundle"
+    ]
+  }
+}

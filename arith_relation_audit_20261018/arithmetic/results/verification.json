@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "fresh_official_evaluations": 5,
+  "portable_replays": 5,
+  "baseline_and_historical_choices_exact": true,
+  "candidate_permutation_max_probability_error": 9.3843163240237e-08,
+  "new_ids_reordered_single_empty_and_parser_fallback_passed": true,
+  "no_evidence_preserves_baseline": true,
+  "frozen_hashes_match": true,
+  "test_used": false,
+  "reference_machine_certification": false
+}

@@ -1,0 +1,8 @@
+{
+  "model": {
+    "representation": "CandMaxCE",
+    "size_mode": "Size"
+  },
+  "seed": 71,
+  "budget_epoch": 20
+}

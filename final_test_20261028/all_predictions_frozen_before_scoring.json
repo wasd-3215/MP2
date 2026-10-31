@@ -1,0 +1,12 @@
+{
+  "prediction_hashes": {
+    "V": "3422b125b2adaf9ee437ee035e18a5aa72aca4d886b097cd8b77012abf66d65a",
+    "H": "7f84f29e4bf158de8abcbcbdafd00050ebb124e7441e0c963e2c19131e229883",
+    "NV": "9f9d9a856c887256e7dcffc068b48ac9a12e339c7bfd1186e6f39e4b77e3f0c1",
+    "B": "53ca4f40784e88f89eaa9c7cc7e51f9b5e41e9feca0817c3f31a17ad147b05f6",
+    "S2_route": "894b8596d2330e2fd774f60f3d3389106c411051ecdb9a3c6d638f92548ca2f1",
+    "Pool_P": "3c1244b7e42a45dfbba84414ed792fc9f51a70e5c05e51b4bffd0fd8859fdf93"
+  },
+  "test_reference_answers_read_by_orchestrator": false,
+  "all_methods_already_frozen": true
+}

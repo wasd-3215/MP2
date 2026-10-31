@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "checks": [
+    "exact_decimal",
+    "nested_fraction",
+    "thousands",
+    "percentage",
+    "percentage_equality_abstains",
+    "unit_after_math_delimiter_abstains",
+    "currency_delimiter_not_numeric_fragment",
+    "reject_malformed_commas",
+    "no_code_execution",
+    "reject_variables_not_strip_numeric_suffix",
+    "units_unknown",
+    "rounded_decimal_not_flagged",
+    "large_integer_false_sum",
+    "detect_fraction_contradiction",
+    "numeric_subchain_supported",
+    "malformed_and_zero_division_unknown",
+    "bounded_power",
+    "powers_not_confused_with_markdown",
+    "approximate_symbol_unknown",
+    "plain_markdown_equation",
+    "repeated_span_not_double_counted",
+    "heading_conflict",
+    "symbolic_box",
+    "terminal_incomplete",
+    "markdown_closing_not_truncation",
+    "correct_numeric_answer_no_format_flags"
+  ],
+  "source_sha256": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479"
+}

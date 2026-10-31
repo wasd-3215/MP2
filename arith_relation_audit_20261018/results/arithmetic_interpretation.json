@@ -1,0 +1,39 @@
+{
+  "phase": "post-evaluation explanation only; no refit",
+  "V_changes": [
+    {
+      "validation_row_zero_based": 302,
+      "effect": "repair",
+      "reason": "Detected9+12+8+8+3=32 rather than40. New selected answer8matches reference, but its reasoning uses32/4and has counting/semantic flaws; not proof of whole-trace reasoning verification."
+    },
+    {
+      "validation_row_zero_based": 739,
+      "effect": "wrong_to_wrong",
+      "reason": "Detected5600+392=6000. Replaced6420by6411.44; still incorrectly compounds interest despite original-principal condition."
+    },
+    {
+      "validation_row_zero_based": 757,
+      "effect": "repair",
+      "reason": "Detected15*58940=883100 rather than884100. New candidate follows884100-130000and/2to377050."
+    }
+  ],
+  "N_changes": {
+    "repairs_rows": [
+      206,
+      478
+    ],
+    "harm_rows": [
+      17,
+      320,
+      359
+    ],
+    "wrong_to_wrong_rows": [
+      655
+    ],
+    "all_selected_pair_contributions_from_count_only": true
+  },
+  "NV_and_H_choices_identical": true,
+  "exact_two_sided_discordance_sign_test_V_vs_B": 0.5,
+  "sign_test_note": "Two repairs, zero harms:2*(1/2)^2=.5; small descriptive bootstrap lower bound0is not strong confirmation.",
+  "scope": "Feature subsets each refitted on training OOF; not a fixed-coefficient deletion experiment."
+}

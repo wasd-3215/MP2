@@ -1,0 +1,26 @@
+{
+  "V": {
+    "prediction_wall_seconds": 7.057897599879652,
+    "prediction_sha256": "3422b125b2adaf9ee437ee035e18a5aa72aca4d886b097cd8b77012abf66d65a"
+  },
+  "H": {
+    "prediction_wall_seconds": 9.028744700131938,
+    "prediction_sha256": "7f84f29e4bf158de8abcbcbdafd00050ebb124e7441e0c963e2c19131e229883"
+  },
+  "NV": {
+    "prediction_wall_seconds": 8.324268500087783,
+    "prediction_sha256": "9f9d9a856c887256e7dcffc068b48ac9a12e339c7bfd1186e6f39e4b77e3f0c1"
+  },
+  "B": {
+    "prediction_wall_seconds": 4.778541799867526,
+    "prediction_sha256": "53ca4f40784e88f89eaa9c7cc7e51f9b5e41e9feca0817c3f31a17ad147b05f6"
+  },
+  "S2_route": {
+    "prediction_wall_seconds": 4.948843799997121,
+    "prediction_sha256": "894b8596d2330e2fd774f60f3d3389106c411051ecdb9a3c6d638f92548ca2f1"
+  },
+  "Pool_P": {
+    "prediction_wall_seconds": 4.868125999812037,
+    "prediction_sha256": "3c1244b7e42a45dfbba84414ed792fc9f51a70e5c05e51b4bffd0fd8859fdf93"
+  }
+}

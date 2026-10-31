@@ -1,0 +1,783 @@
+{
+  "posthoc": true,
+  "predictions_changed": false,
+  "rules_fitted": false,
+  "historical_prediction_sha256": "fe74b76b22b6f622ef4f740a09ee7be95b85d293c1dceb5d80812b8b2b1dda89",
+  "not_matched_historical_comparison": true,
+  "results": {
+    "CandBCE_NoSize": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 638,
+          "mean_single_correct": 635.4,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 31,
+          "mean_single_correct": 32.0,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 66,
+          "mean_single_correct": 64.8,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.6,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 14,
+          "mean_single_correct": 13.2,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 10,
+          "mean_single_correct": 10.4,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 61,
+          "mean_single_correct": 60.4,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 26,
+          "mean_single_correct": 26.0,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 29,
+          "mean_single_correct": 28.6,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 139,
+          "mean_single_correct": 138.0,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 16,
+        "harms": 21,
+        "oracle_union": 756
+      },
+      "common42_rescued": [
+        {
+          "case": 2,
+          "row": 44,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "男46女48，共94人；错误候选把46对当46名已配对学生，用94-46=48。"
+        },
+        {
+          "case": 7,
+          "row": 133,
+          "category": "condition_fidelity",
+          "correct_seed_count": 2,
+          "review_evidence": "错误候选复述second coat，但只按1600/400=4加仑算一次涂刷，再平分为90。"
+        },
+        {
+          "case": 9,
+          "row": 162,
+          "category": "quantity_scope",
+          "correct_seed_count": 2,
+          "review_evidence": "题面15分钟是前10层的合计，错误候选改成10*15=150分钟。"
+        },
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 2,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 5,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        },
+        {
+          "case": 22,
+          "row": 371,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "错误候选将月基数50与全年涨额5*12=60相加得110，没有把基数乘12。"
+        }
+      ]
+    },
+    "CandBCE_Size": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 639,
+          "mean_single_correct": 636.2,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 31,
+          "mean_single_correct": 31.8,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 65,
+          "mean_single_correct": 64.8,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.8,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 13.2,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 10,
+          "mean_single_correct": 10.4,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 61,
+          "mean_single_correct": 60.8,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 26,
+          "mean_single_correct": 25.8,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 29,
+          "mean_single_correct": 28.4,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 140,
+          "mean_single_correct": 138.4,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 15,
+        "harms": 20,
+        "oracle_union": 755
+      },
+      "common42_rescued": [
+        {
+          "case": 2,
+          "row": 44,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "男46女48，共94人；错误候选把46对当46名已配对学生，用94-46=48。"
+        },
+        {
+          "case": 9,
+          "row": 162,
+          "category": "quantity_scope",
+          "correct_seed_count": 2,
+          "review_evidence": "题面15分钟是前10层的合计，错误候选改成10*15=150分钟。"
+        },
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 5,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        },
+        {
+          "case": 22,
+          "row": 371,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "错误候选将月基数50与全年涨额5*12=60相加得110，没有把基数乘12。"
+        }
+      ]
+    },
+    "CandMaxCE_NoSize": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 634,
+          "mean_single_correct": 631.6,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 35,
+          "mean_single_correct": 34.4,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 64,
+          "mean_single_correct": 62.0,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.2,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 12,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 11,
+          "mean_single_correct": 10.6,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 65,
+          "mean_single_correct": 63.6,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 26,
+          "mean_single_correct": 25.4,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 28,
+          "mean_single_correct": 28.2,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 135,
+          "mean_single_correct": 134.0,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 16,
+        "harms": 23,
+        "oracle_union": 756
+      },
+      "common42_rescued": [
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 14,
+          "row": 209,
+          "category": "quantity_scope",
+          "correct_seed_count": 5,
+          "review_evidence": "错误候选把weeknights算成2晚、整周算4晚，得到32-22=10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 4,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        }
+      ]
+    },
+    "CandMaxCE_Size": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 635,
+          "mean_single_correct": 631.6,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 34,
+          "mean_single_correct": 33.6,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 63,
+          "mean_single_correct": 62.2,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.6,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 12,
+          "mean_single_correct": 11.2,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 10,
+          "mean_single_correct": 10.2,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 64,
+          "mean_single_correct": 62.6,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 26,
+          "mean_single_correct": 25.2,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 28,
+          "mean_single_correct": 28.2,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 136,
+          "mean_single_correct": 134.4,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 16,
+        "harms": 24,
+        "oracle_union": 756
+      },
+      "common42_rescued": [
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 14,
+          "row": 209,
+          "category": "quantity_scope",
+          "correct_seed_count": 4,
+          "review_evidence": "错误候选把weeknights算成2晚、整周算4晚，得到32-22=10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 4,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        }
+      ]
+    },
+    "GroupCE_NoSize": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 636,
+          "mean_single_correct": 633.6,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 34,
+          "mean_single_correct": 34.0,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 62,
+          "mean_single_correct": 62.8,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 11,
+          "mean_single_correct": 12.0,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.4,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 10,
+          "mean_single_correct": 10.0,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 65,
+          "mean_single_correct": 63.6,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 25,
+          "mean_single_correct": 25.6,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 28,
+          "mean_single_correct": 28.4,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 137,
+          "mean_single_correct": 135.4,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 17,
+        "harms": 25,
+        "oracle_union": 757
+      },
+      "common42_rescued": [
+        {
+          "case": 9,
+          "row": 162,
+          "category": "quantity_scope",
+          "correct_seed_count": 4,
+          "review_evidence": "题面15分钟是前10层的合计，错误候选改成10*15=150分钟。"
+        },
+        {
+          "case": 10,
+          "row": 170,
+          "category": "condition_fidelity",
+          "correct_seed_count": 4,
+          "review_evidence": "错误候选在56-(5+9)中漏掉Bonnie的13个蛋，尽管开头已复述。"
+        },
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 2,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 14,
+          "row": 209,
+          "category": "quantity_scope",
+          "correct_seed_count": 5,
+          "review_evidence": "错误候选把weeknights算成2晚、整周算4晚，得到32-22=10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 3,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        },
+        {
+          "case": 22,
+          "row": 371,
+          "category": "quantity_scope",
+          "correct_seed_count": 3,
+          "review_evidence": "错误候选将月基数50与全年涨额5*12=60相加得110，没有把基数乘12。"
+        }
+      ]
+    },
+    "GroupCE_Size": {
+      "buckets": {
+        "unique_plurality_correct": {
+          "n": 650,
+          "ensemble_correct": 635,
+          "mean_single_correct": 633.2,
+          "historical_S2C_correct": 650
+        },
+        "unique_plurality_wrong": {
+          "n": 60,
+          "ensemble_correct": 34,
+          "mean_single_correct": 33.8,
+          "historical_S2C_correct": 24
+        },
+        "plurality_tied": {
+          "n": 88,
+          "ensemble_correct": 62,
+          "mean_single_correct": 63.0,
+          "historical_S2C_correct": 66
+        },
+        "1+1+1+1;invalid=0": {
+          "n": 20,
+          "ensemble_correct": 11,
+          "mean_single_correct": 12.0,
+          "historical_S2C_correct": 14
+        },
+        "1+1+1;invalid=1": {
+          "n": 20,
+          "ensemble_correct": 13,
+          "mean_single_correct": 12.6,
+          "historical_S2C_correct": 12
+        },
+        "1+1;invalid=2": {
+          "n": 14,
+          "ensemble_correct": 10,
+          "mean_single_correct": 10.2,
+          "historical_S2C_correct": 10
+        },
+        "1;invalid=3": {
+          "n": 3,
+          "ensemble_correct": 3,
+          "mean_single_correct": 3.0,
+          "historical_S2C_correct": 3
+        },
+        "2+1+1;invalid=0": {
+          "n": 88,
+          "ensemble_correct": 65,
+          "mean_single_correct": 63.4,
+          "historical_S2C_correct": 70
+        },
+        "2+1;invalid=1": {
+          "n": 28,
+          "ensemble_correct": 25,
+          "mean_single_correct": 25.6,
+          "historical_S2C_correct": 24
+        },
+        "2+2;invalid=0": {
+          "n": 34,
+          "ensemble_correct": 28,
+          "mean_single_correct": 28.2,
+          "historical_S2C_correct": 30
+        },
+        "2;invalid=2": {
+          "n": 11,
+          "ensemble_correct": 11,
+          "mean_single_correct": 11.0,
+          "historical_S2C_correct": 11
+        },
+        "3+1;invalid=0": {
+          "n": 151,
+          "ensemble_correct": 136,
+          "mean_single_correct": 135.0,
+          "historical_S2C_correct": 137
+        },
+        "3;invalid=1": {
+          "n": 50,
+          "ensemble_correct": 50,
+          "mean_single_correct": 50.0,
+          "historical_S2C_correct": 50
+        },
+        "4;invalid=0": {
+          "n": 379,
+          "ensemble_correct": 379,
+          "mean_single_correct": 379.0,
+          "historical_S2C_correct": 379
+        }
+      },
+      "versus_historical_S2C_context_only": {
+        "repairs": 17,
+        "harms": 26,
+        "oracle_union": 757
+      },
+      "common42_rescued": [
+        {
+          "case": 9,
+          "row": 162,
+          "category": "quantity_scope",
+          "correct_seed_count": 4,
+          "review_evidence": "题面15分钟是前10层的合计，错误候选改成10*15=150分钟。"
+        },
+        {
+          "case": 10,
+          "row": 170,
+          "category": "condition_fidelity",
+          "correct_seed_count": 4,
+          "review_evidence": "错误候选在56-(5+9)中漏掉Bonnie的13个蛋，尽管开头已复述。"
+        },
+        {
+          "case": 13,
+          "row": 206,
+          "category": "quantity_scope",
+          "correct_seed_count": 2,
+          "review_evidence": "兄弟票共20、本人票20，错误候选却写20+20+20=60，且后续未减已存10。"
+        },
+        {
+          "case": 14,
+          "row": 209,
+          "category": "quantity_scope",
+          "correct_seed_count": 5,
+          "review_evidence": "错误候选把weeknights算成2晚、整周算4晚，得到32-22=10。"
+        },
+        {
+          "case": 17,
+          "row": 302,
+          "category": "arithmetic",
+          "correct_seed_count": 3,
+          "review_evidence": "Pool候选将9+12+8+8+3写38；S2候选把同一式写32。官方参考合计40。"
+        },
+        {
+          "case": 22,
+          "row": 371,
+          "category": "quantity_scope",
+          "correct_seed_count": 4,
+          "review_evidence": "错误候选将月基数50与全年涨额5*12=60相加得110，没有把基数乘12。"
+        }
+      ]
+    }
+  },
+  "script_sha256": "051223e15de0ba070e507cb96a4cfe9c99944b7e9eb2c6d49f2c2440b81aa365"
+}

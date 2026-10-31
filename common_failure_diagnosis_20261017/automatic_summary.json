@@ -1,0 +1,56 @@
+{
+  "common_failures": 42,
+  "one_correct_candidate": 38,
+  "group_sizes": {
+    "3,1": 7,
+    "2,1,1": 14,
+    "1,1,1": 7,
+    "2,2": 4,
+    "1,1,1,1": 6,
+    "2,1": 1,
+    "1,1": 3
+  },
+  "all_valid_groups_singleton": 16,
+  "wrong_unique_plurality": 22,
+  "plurality_tied": 20,
+  "some_invalid_candidate": 11,
+  "representatives_same_wrong_answer": 40,
+  "other_ensemble_rescues": {
+    "I_P": 1,
+    "I_C": 2,
+    "Pool_P": 0,
+    "Pool_C": 1,
+    "S2_P": 3,
+    "S2_C": 0,
+    "S2_route": 4
+  },
+  "any_of_six_ensemble_correct": 5,
+  "any_of_six_plus_route_correct": 6,
+  "any_of_thirty_seeds_correct": 17,
+  "confidence": {
+    "Pool_P": {
+      "all_five_seeds_wrong": 35,
+      "all_five_same_wrong_answer": 34,
+      "correct_best_rank": {
+        "2": 22,
+        "3": 12,
+        "4": 8
+      },
+      "wrong_correct_gap_median": 0.11311699224284144
+    },
+    "S2_C": {
+      "all_five_seeds_wrong": 35,
+      "all_five_same_wrong_answer": 32,
+      "correct_best_rank": {
+        "4": 14,
+        "3": 12,
+        "2": 16
+      },
+      "wrong_correct_gap_median": 0.5212578571087354
+    }
+  },
+  "full_four_candidate_characters": 108330,
+  "test_used": false,
+  "fresh_training_or_inference": false,
+  "causal_reviews_completed": 0
+}

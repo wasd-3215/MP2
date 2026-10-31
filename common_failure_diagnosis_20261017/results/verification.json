@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "protected_files": 11162,
+  "protected_changes": [],
+  "all_42_manually_reviewed": true,
+  "review_scope": "All 42 question texts, all officially correct candidate texts, and the union of Pool-P/S2-C selected wrong candidate texts were read in full. Other nonselected wrong candidates were not all manually audited. Official reference work was additionally read for cases 1,17,24,32,36,41. These are analyst annotations, not independently adjudicated ground truth or deployable features.",
+  "reviewed_candidates": 95,
+  "primary_labels_cover_all_42_exactly_once": true,
+  "source_predictions_unchanged": true,
+  "scores_and_official_parser_unchanged": true,
+  "new_training_or_inference": false,
+  "new_official_method_scores": false,
+  "test_used": false,
+  "sources": {
+    "automatic_summary.json": "c9952eb62fe5c13f1d59be3c8f38aa8d2cc4784af76084c35e60b68e6fce65ed",
+    "finalize.py": "6a024060f6ce3f178659826d183741770d84cf5b1e60f7e1d6f3cab506edd0b5",
+    "format_audit.json": "e9e3a82c0948a7c2b2958c3146ef429111663a52a2c7f70d227f602658d0bea0",
+    "format_audit.py": "ea0746a98c6d13eaec331ec20e3d51b7e4a330b27dfffb16a789ccf900a806a8",
+    "manual_reviews.json": "2ee8e1f68d2ffcda36fd88650c3174350bd3cca5a72c8ce9016c40de3e075c57",
+    "prepare.py": "c8e9341d3aa7c685276ebc8055c1d7a0ce3302cf0e6088ece92b1a8c6ab1e10d",
+    "sources.json": "e700058e9e190fd2ac56504a25cf2cc2ccf02a025f1d871be7eccbb16e3082e1"
+  },
+  "report_sha256": "f6d31f766cf9f6d5a737cf05a417f136efa5c8b003f634bee7c34378bb6d8eae"
+}

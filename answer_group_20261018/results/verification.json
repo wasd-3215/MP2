@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "training_sources_frozen": true,
+  "protected": {
+    "passed": true,
+    "files_checked": 11301,
+    "changed": []
+  },
+  "portable_contracts": [
+    {
+      "variant": "CandBCE_NoSize",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679880
+    },
+    {
+      "variant": "CandBCE_Size",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679868
+    },
+    {
+      "variant": "CandMaxCE_NoSize",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679892
+    },
+    {
+      "variant": "CandMaxCE_Size",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679880
+    },
+    {
+      "variant": "GroupCE_NoSize",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679880
+    },
+    {
+      "variant": "GroupCE_Size",
+      "new_ids_reordered13": true,
+      "candidate_permutation_numeric_answer": true,
+      "single_question_batch": true,
+      "portable_manifest": true,
+      "assets_uncompressed_bytes": 5679868
+    }
+  ],
+  "one_group_bypass": true,
+  "zero_group_legal_fallback": true,
+  "empty_bank": true,
+  "test_semantics_opened": false,
+  "local_complete_predict_score_seconds_range": [
+    4.755263999977615,
+    5.1080047999857925
+  ],
+  "official_reference_cpu_30s_certified": false
+}

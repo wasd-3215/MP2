@@ -1,0 +1,33 @@
+{
+  "all_variants_shared_assets_bytes": 5505384,
+  "inference_source_bytes": 18698,
+  "hashes": {
+    "inference\\decisions.py": "f24c1b39005483c7161c9c2d536917612589cf927bfb3dd4737bc474a49fa0f8",
+    "inference\\evidence.py": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479",
+    "inference\\explicit_features.py": "f41c2f839790d5120f4990976ebbe448876e28e3ffa71d5fb0cc4f2e43ccc95d",
+    "inference\\features.py": "5b926010253a8c62ca56bf195d8baec55dbac11a07556bfd5617e083ccd27135",
+    "inference\\method.py": "b5815a50587b16550d003c0543a6c63f62e6bed84e5a7e4ed7b6e2e503d10936",
+    "inference\\models.py": "9266e92e008d0de4be55837a061394bcea54407a68ddb1f1ce17fd223ff1c61b",
+    "inference\\reference_models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+    "inference\\runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+    "members\\00\\config.json": "1d93d70d04a79739ec0cae9bf617ab9ef951aa25b6dac73eb0e9a23eb2d74154",
+    "members\\00\\preprocessing.npz": "49e4ebc02ed17ce44a856f8ddfe2009cebd8a55ec0d447147439cd1e13a7451e",
+    "members\\00\\weights.npz": "13b8b4cf94edf33e54bc9568ab91b6cc6e5aa233ecc74efe6e722908dcace199",
+    "members\\01\\config.json": "1d93d70d04a79739ec0cae9bf617ab9ef951aa25b6dac73eb0e9a23eb2d74154",
+    "members\\01\\preprocessing.npz": "49e4ebc02ed17ce44a856f8ddfe2009cebd8a55ec0d447147439cd1e13a7451e",
+    "members\\01\\weights.npz": "7aec4c8e13cbea75cf4c933f93712ad919bbccf8c0e1d1ad652af2198c592604",
+    "members\\02\\config.json": "1d93d70d04a79739ec0cae9bf617ab9ef951aa25b6dac73eb0e9a23eb2d74154",
+    "members\\02\\preprocessing.npz": "49e4ebc02ed17ce44a856f8ddfe2009cebd8a55ec0d447147439cd1e13a7451e",
+    "members\\02\\weights.npz": "8a43098d8067695405d1a2d2cb1cc68201819be22a29c78747b65e4aada1681a",
+    "members\\03\\config.json": "1d93d70d04a79739ec0cae9bf617ab9ef951aa25b6dac73eb0e9a23eb2d74154",
+    "members\\03\\preprocessing.npz": "49e4ebc02ed17ce44a856f8ddfe2009cebd8a55ec0d447147439cd1e13a7451e",
+    "members\\03\\weights.npz": "22d8667e601c55183531de811344256092212ecd17fb1623e297b49065909031",
+    "members\\04\\config.json": "1d93d70d04a79739ec0cae9bf617ab9ef951aa25b6dac73eb0e9a23eb2d74154",
+    "members\\04\\preprocessing.npz": "49e4ebc02ed17ce44a856f8ddfe2009cebd8a55ec0d447147439cd1e13a7451e",
+    "members\\04\\weights.npz": "a2843d5909b108e77961e2ad371202c85aead9bfa3aab2502958b9f42360e918",
+    "pipelines\\arithmetic\\pipeline.json": "af3d8ae138a11cc589ef01711276006c5747c7d8ae0b9c6ea4c8235ba6be0a07",
+    "pipelines\\baseline\\pipeline.json": "4d2207e1c7dba7dd2e39dc1eb6fb118cc143500a7ee5b8e3908942a002dc4a33",
+    "pipelines\\combined\\pipeline.json": "3ff349427794d592e71d43a8f67edd5b70fa44b39ea5b289d6a41603f9da0c08",
+    "pipelines\\format\\pipeline.json": "660cbe2e799bda453eccf0ea360e3e493d9e3468dc74f102a0c1d98ab7b1704f"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "baseline",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 740,
+    "n": 798,
+    "accuracy": 92.73182957393483,
+    "scoring_seconds": 0.06604930001776665,
+    "prediction_wall_seconds": 5.02538109998568,
+    "scoring_wall_seconds": 0.5190113999997266,
+    "fresh_total_seconds": 5.544392499985406,
+    "asset_bytes_uncompressed": 5503970,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 740,
+      "n": 798,
+      "accuracy": 92.73182957393483,
+      "scoring_seconds": 0.06405420001829043,
+      "prediction_wall_seconds": 4.928626899985829,
+      "scoring_wall_seconds": 0.48283579997951165,
+      "fresh_total_seconds": 5.411462699965341
+    }
+  },
+  {
+    "name": "format",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 740,
+    "n": 798,
+    "accuracy": 92.73182957393483,
+    "scoring_seconds": 0.0638506000104826,
+    "prediction_wall_seconds": 6.834783800004516,
+    "scoring_wall_seconds": 0.5222456000046805,
+    "fresh_total_seconds": 7.357029400009196,
+    "asset_bytes_uncompressed": 5504181,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 740,
+      "n": 798,
+      "accuracy": 92.73182957393483,
+      "scoring_seconds": 0.0643121000030078,
+      "prediction_wall_seconds": 6.860894300014479,
+      "scoring_wall_seconds": 0.495959199994104,
+      "fresh_total_seconds": 7.356853500008583
+    }
+  },
+  {
+    "name": "arithmetic",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 741,
+    "n": 798,
+    "accuracy": 92.85714285714286,
+    "scoring_seconds": 0.0650010000099428,
+    "prediction_wall_seconds": 6.957471900008386,
+    "scoring_wall_seconds": 0.5227805000031367,
+    "fresh_total_seconds": 7.480252400011523,
+    "asset_bytes_uncompressed": 5504242,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.06544299999950454,
+      "prediction_wall_seconds": 6.841294999991078,
+      "scoring_wall_seconds": 0.5037798999983352,
+      "fresh_total_seconds": 7.345074899989413
+    }
+  },
+  {
+    "name": "combined",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 741,
+    "n": 798,
+    "accuracy": 92.85714285714286,
+    "scoring_seconds": 0.06416559999343008,
+    "prediction_wall_seconds": 7.0411079000041354,
+    "scoring_wall_seconds": 0.512155200005509,
+    "fresh_total_seconds": 7.553263100009644,
+    "asset_bytes_uncompressed": 5504450,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.06587890000082552,
+      "prediction_wall_seconds": 6.86672729998827,
+      "scoring_wall_seconds": 0.5093763999757357,
+      "fresh_total_seconds": 7.3761036999640055
+    }
+  }
+]

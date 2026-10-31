@@ -1,0 +1,8 @@
+{
+  "model": {
+    "representation": "CandBCE",
+    "size_mode": "Size"
+  },
+  "seed": 29,
+  "budget_epoch": 20
+}

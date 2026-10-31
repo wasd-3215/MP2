@@ -1,0 +1,434 @@
+{
+  "results": [
+    {
+      "name": "B",
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 740,
+      "n": 798,
+      "accuracy": 92.73182957393483,
+      "scoring_seconds": 0.06571749999420717,
+      "prediction_wall_seconds": 4.832452800008468,
+      "scoring_wall_seconds": 0.5012111999967601,
+      "fresh_total_seconds": 5.3336640000052284,
+      "asset_bytes_uncompressed": 5503622,
+      "portable_replay": {
+        "protocol": "dase7506-mp2-open-hard-verifier-v5",
+        "split": "validation",
+        "correct": 740,
+        "n": 798,
+        "accuracy": 92.73182957393483,
+        "scoring_seconds": 0.06377780000912026,
+        "prediction_wall_seconds": 4.759356900001876,
+        "scoring_wall_seconds": 0.5089204999967478,
+        "fresh_total_seconds": 5.268277399998624
+      },
+      "repairs": 0,
+      "harms": 0,
+      "net": 0,
+      "delta_pp": 0.0,
+      "ci95_pp": [
+        0.0,
+        0.0
+      ],
+      "numerical_changes": 0,
+      "subgroups": {
+        "all": {
+          "n": 798,
+          "correct": 740,
+          "repairs": 0,
+          "harms": 0
+        },
+        "multi_answer": {
+          "n": 355,
+          "correct": 297,
+          "repairs": 0,
+          "harms": 0
+        },
+        "wrong_plurality": {
+          "n": 60,
+          "correct": 24,
+          "repairs": 0,
+          "harms": 0
+        },
+        "one_correct": {
+          "n": 117,
+          "correct": 63,
+          "repairs": 0,
+          "harms": 0
+        },
+        "common42": {
+          "n": 42,
+          "correct": 0,
+          "repairs": 0,
+          "harms": 0
+        },
+        "flawed_correct6": {
+          "n": 6,
+          "correct": 0,
+          "repairs": 0,
+          "harms": 0
+        },
+        "any_violation": {
+          "n": 39,
+          "correct": 31,
+          "repairs": 0,
+          "harms": 0
+        }
+      }
+    },
+    {
+      "name": "N",
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 739,
+      "n": 798,
+      "accuracy": 92.60651629072682,
+      "scoring_seconds": 0.0654845000244677,
+      "prediction_wall_seconds": 6.682952600007411,
+      "scoring_wall_seconds": 0.4921498000039719,
+      "fresh_total_seconds": 7.175102400011383,
+      "asset_bytes_uncompressed": 5503700,
+      "portable_replay": {
+        "protocol": "dase7506-mp2-open-hard-verifier-v5",
+        "split": "validation",
+        "correct": 739,
+        "n": 798,
+        "accuracy": 92.60651629072682,
+        "scoring_seconds": 0.06456170001183636,
+        "prediction_wall_seconds": 6.7171091999916825,
+        "scoring_wall_seconds": 0.5023939000093378,
+        "fresh_total_seconds": 7.21950310000102
+      },
+      "repairs": 2,
+      "harms": 3,
+      "net": -1,
+      "delta_pp": -0.12531328320802004,
+      "ci95_pp": [
+        -0.6265664160401002,
+        0.37593984962406013
+      ],
+      "numerical_changes": 6,
+      "subgroups": {
+        "all": {
+          "n": 798,
+          "correct": 739,
+          "repairs": 2,
+          "harms": 3
+        },
+        "multi_answer": {
+          "n": 355,
+          "correct": 296,
+          "repairs": 2,
+          "harms": 3
+        },
+        "wrong_plurality": {
+          "n": 60,
+          "correct": 25,
+          "repairs": 1,
+          "harms": 0
+        },
+        "one_correct": {
+          "n": 117,
+          "correct": 63,
+          "repairs": 2,
+          "harms": 2
+        },
+        "common42": {
+          "n": 42,
+          "correct": 1,
+          "repairs": 1,
+          "harms": 0
+        },
+        "flawed_correct6": {
+          "n": 6,
+          "correct": 1,
+          "repairs": 1,
+          "harms": 0
+        },
+        "any_violation": {
+          "n": 39,
+          "correct": 31,
+          "repairs": 0,
+          "harms": 0
+        }
+      }
+    },
+    {
+      "name": "V",
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 742,
+      "n": 798,
+      "accuracy": 92.98245614035088,
+      "scoring_seconds": 0.06345429999055341,
+      "prediction_wall_seconds": 6.658326699980535,
+      "scoring_wall_seconds": 0.4884134999883827,
+      "fresh_total_seconds": 7.146740199968917,
+      "asset_bytes_uncompressed": 5503766,
+      "portable_replay": {
+        "protocol": "dase7506-mp2-open-hard-verifier-v5",
+        "split": "validation",
+        "correct": 742,
+        "n": 798,
+        "accuracy": 92.98245614035088,
+        "scoring_seconds": 0.06411300000036135,
+        "prediction_wall_seconds": 6.690898600005312,
+        "scoring_wall_seconds": 0.47889980001491494,
+        "fresh_total_seconds": 7.169798400020227
+      },
+      "repairs": 2,
+      "harms": 0,
+      "net": 2,
+      "delta_pp": 0.2506265664160401,
+      "ci95_pp": [
+        0.0,
+        0.6265664160401002
+      ],
+      "numerical_changes": 3,
+      "subgroups": {
+        "all": {
+          "n": 798,
+          "correct": 742,
+          "repairs": 2,
+          "harms": 0
+        },
+        "multi_answer": {
+          "n": 355,
+          "correct": 299,
+          "repairs": 2,
+          "harms": 0
+        },
+        "wrong_plurality": {
+          "n": 60,
+          "correct": 25,
+          "repairs": 1,
+          "harms": 0
+        },
+        "one_correct": {
+          "n": 117,
+          "correct": 65,
+          "repairs": 2,
+          "harms": 0
+        },
+        "common42": {
+          "n": 42,
+          "correct": 1,
+          "repairs": 1,
+          "harms": 0
+        },
+        "flawed_correct6": {
+          "n": 6,
+          "correct": 1,
+          "repairs": 1,
+          "harms": 0
+        },
+        "any_violation": {
+          "n": 39,
+          "correct": 33,
+          "repairs": 2,
+          "harms": 0
+        }
+      }
+    },
+    {
+      "name": "NV",
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.06472910000593401,
+      "prediction_wall_seconds": 6.660577300004661,
+      "scoring_wall_seconds": 0.5245134000142571,
+      "fresh_total_seconds": 7.185090700018918,
+      "asset_bytes_uncompressed": 5503835,
+      "portable_replay": {
+        "protocol": "dase7506-mp2-open-hard-verifier-v5",
+        "split": "validation",
+        "correct": 741,
+        "n": 798,
+        "accuracy": 92.85714285714286,
+        "scoring_seconds": 0.06310289999237284,
+        "prediction_wall_seconds": 6.706906100007473,
+        "scoring_wall_seconds": 0.4810808000038378,
+        "fresh_total_seconds": 7.18798690001131
+      },
+      "repairs": 3,
+      "harms": 2,
+      "net": 1,
+      "delta_pp": 0.12531328320802004,
+      "ci95_pp": [
+        -0.37593984962406013,
+        0.6265664160401002
+      ],
+      "numerical_changes": 7,
+      "subgroups": {
+        "all": {
+          "n": 798,
+          "correct": 741,
+          "repairs": 3,
+          "harms": 2
+        },
+        "multi_answer": {
+          "n": 355,
+          "correct": 298,
+          "repairs": 3,
+          "harms": 2
+        },
+        "wrong_plurality": {
+          "n": 60,
+          "correct": 25,
+          "repairs": 1,
+          "harms": 0
+        },
+        "one_correct": {
+          "n": 117,
+          "correct": 65,
+          "repairs": 3,
+          "harms": 1
+        },
+        "common42": {
+          "n": 42,
+          "correct": 2,
+          "repairs": 2,
+          "harms": 0
+        },
+        "flawed_correct6": {
+          "n": 6,
+          "correct": 2,
+          "repairs": 2,
+          "harms": 0
+        },
+        "any_violation": {
+          "n": 39,
+          "correct": 32,
+          "repairs": 1,
+          "harms": 0
+        }
+      }
+    },
+    {
+      "name": "H",
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.062137799977790564,
+      "prediction_wall_seconds": 6.863244699983625,
+      "scoring_wall_seconds": 0.4985930999973789,
+      "fresh_total_seconds": 7.361837799981004,
+      "asset_bytes_uncompressed": 5503892,
+      "portable_replay": {
+        "protocol": "dase7506-mp2-open-hard-verifier-v5",
+        "split": "validation",
+        "correct": 741,
+        "n": 798,
+        "accuracy": 92.85714285714286,
+        "scoring_seconds": 0.0629301999870222,
+        "prediction_wall_seconds": 6.654504199977964,
+        "scoring_wall_seconds": 0.5017208000062965,
+        "fresh_total_seconds": 7.156224999984261
+      },
+      "repairs": 3,
+      "harms": 2,
+      "net": 1,
+      "delta_pp": 0.12531328320802004,
+      "ci95_pp": [
+        -0.37593984962406013,
+        0.6265664160401002
+      ],
+      "numerical_changes": 7,
+      "subgroups": {
+        "all": {
+          "n": 798,
+          "correct": 741,
+          "repairs": 3,
+          "harms": 2
+        },
+        "multi_answer": {
+          "n": 355,
+          "correct": 298,
+          "repairs": 3,
+          "harms": 2
+        },
+        "wrong_plurality": {
+          "n": 60,
+          "correct": 25,
+          "repairs": 1,
+          "harms": 0
+        },
+        "one_correct": {
+          "n": 117,
+          "correct": 65,
+          "repairs": 3,
+          "harms": 1
+        },
+        "common42": {
+          "n": 42,
+          "correct": 2,
+          "repairs": 2,
+          "harms": 0
+        },
+        "flawed_correct6": {
+          "n": 6,
+          "correct": 2,
+          "repairs": 2,
+          "harms": 0
+        },
+        "any_violation": {
+          "n": 39,
+          "correct": 32,
+          "repairs": 1,
+          "harms": 0
+        }
+      }
+    }
+  ],
+  "comparisons": {
+    "V-B": {
+      "net": 2,
+      "delta_pp": 0.2506265664160401,
+      "ci95_pp": [
+        0.0,
+        0.6265664160401002
+      ]
+    },
+    "N-B": {
+      "net": -1,
+      "delta_pp": -0.12531328320802004,
+      "ci95_pp": [
+        -0.6265664160401002,
+        0.37593984962406013
+      ]
+    },
+    "NV-V": {
+      "net": -1,
+      "delta_pp": -0.12531328320802004,
+      "ci95_pp": [
+        -0.6265664160401002,
+        0.37593984962406013
+      ]
+    },
+    "NV-N": {
+      "net": 2,
+      "delta_pp": 0.2506265664160401,
+      "ci95_pp": [
+        0.0,
+        0.6265664160401002
+      ]
+    },
+    "interaction": {
+      "net": 0,
+      "delta_pp": 0.0,
+      "ci95_pp": [
+        -0.37593984962406013,
+        0.37593984962406013
+      ]
+    }
+  },
+  "validation_extraction_seconds": 2.030153600004269,
+  "intervals_descriptive": true,
+  "test_used": false
+}

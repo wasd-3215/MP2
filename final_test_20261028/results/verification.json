@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "pre_existing_files_checked": 12041,
+  "changed": [],
+  "official_release_manifest_mismatches": [],
+  "frozen_sources_and_weights_unchanged": true,
+  "all_test_predictions_frozen_before_first_scoring": true,
+  "test_case_error_analysis_or_new_training": false,
+  "primary_remains_V_selected_on_validation": true,
+  "fresh_prediction_and_scoring_processes_per_method": true,
+  "timing_note": "Sum of externally measured fresh prediction and fresh scoring process durations; excludes intervening other-method jobs.",
+  "reference_machine_time_certification": false
+}

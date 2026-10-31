@@ -1,0 +1,6 @@
+{
+  "model": {
+    "architecture": "S2",
+    "feature_mode": "C"
+  }
+}

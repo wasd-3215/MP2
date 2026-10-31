@@ -1,0 +1,5 @@
+﻿family,sampled_questions,questions_with_probes,reviewed_assertions,literal_faithful,semantic_binding_supported,confirmed_supported_multianswer_questions,confirmed_discriminating_questions,correct_wrong_contrast_questions,decision
+scope_unit,25,3,12,11,9,2,0,0,NO_GO_CURRENT_PROBE
+entity_binding,16,5,24,24,24,5,1,1,NO_GO_CURRENT_PROBE
+condition_use,25,0,0,0,0,0,0,0,NO_GO_CURRENT_PROBE
+target_alignment,25,16,48,43,23,11,2,2,NO_GO_CURRENT_PROBE

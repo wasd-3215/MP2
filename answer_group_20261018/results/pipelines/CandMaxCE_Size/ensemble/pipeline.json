@@ -1,0 +1,11 @@
+{
+  "members": [
+    "../../../runs/CandMaxCE_Size/seed_17/bundle",
+    "../../../runs/CandMaxCE_Size/seed_29/bundle",
+    "../../../runs/CandMaxCE_Size/seed_43/bundle",
+    "../../../runs/CandMaxCE_Size/seed_71/bundle",
+    "../../../runs/CandMaxCE_Size/seed_101/bundle"
+  ],
+  "aggregation": "equal mean of group softmax probabilities",
+  "variant": "CandMaxCE_Size"
+}

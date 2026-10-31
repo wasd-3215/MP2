@@ -1,0 +1,11 @@
+{
+  "members": [
+    "members/seed_17",
+    "members/seed_29",
+    "members/seed_43",
+    "members/seed_71",
+    "members/seed_101"
+  ],
+  "aggregation": "equal mean of group softmax probabilities",
+  "variant": "CandMaxCE_Size"
+}

@@ -1,0 +1,16 @@
+{
+  "new_base_training_runs": 0,
+  "linear_residual_fits": 3,
+  "hyperparameter_searches": 0,
+  "training_only_extractor_audit_passes": 3,
+  "training_extraction_seconds_each": [
+    13.815680400002748,
+    12.611283299978822,
+    12.450814799987711
+  ],
+  "training_extraction_seconds_total": 38.87777849996928,
+  "residual_preparation_and_fitting_seconds": 1.4546287000121083,
+  "four_fresh_official_prediction_and_score_seconds": 27.93493740001577,
+  "four_portable_replays_seconds": 27.489494799927343,
+  "scope_note": "Recorded process phase costs; excludes manual review time and extra implementation verification."
+}

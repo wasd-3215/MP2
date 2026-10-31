@@ -1,0 +1,163 @@
+{
+  "runs": [
+    {
+      "name": "B",
+      "parameters": 0,
+      "beta": [],
+      "optimizer": {
+        "iterations": 0
+      },
+      "fit_seconds": 0.11444360000314191,
+      "training_fit_diagnostic_only": true,
+      "train_correct": 4340,
+      "train_repairs": 0,
+      "train_harms": 0
+    },
+    {
+      "name": "N",
+      "parameters": 1,
+      "beta": [
+        -0.5986428148821381
+      ],
+      "optimizer": {
+        "iterations": 5,
+        "gradient_max_abs": 4.163336342344337e-14,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient": 509.31139027898234
+          },
+          {
+            "iteration": 1,
+            "objective": 4857.362531463372,
+            "gradient": 44.75551779216039
+          },
+          {
+            "iteration": 2,
+            "objective": 4856.277550284226,
+            "gradient": 0.26000382461945937
+          },
+          {
+            "iteration": 3,
+            "objective": 4856.27751337887,
+            "gradient": 8.946894904160452e-06
+          },
+          {
+            "iteration": 4,
+            "objective": 4856.277513378869,
+            "gradient": 4.163336342344337e-14
+          }
+        ]
+      },
+      "fit_seconds": 0.12406339999870397,
+      "training_fit_diagnostic_only": true,
+      "train_correct": 4337,
+      "train_repairs": 19,
+      "train_harms": 22
+    },
+    {
+      "name": "V",
+      "parameters": 2,
+      "beta": [
+        -2.6000350017187492,
+        -1.9819389663465814
+      ],
+      "optimizer": {
+        "iterations": 6,
+        "gradient_max_abs": 5.055289520328188e-12,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient": 67.94994250432904
+          },
+          {
+            "iteration": 1,
+            "objective": 4882.509776145278,
+            "gradient": 10.709869925359106
+          },
+          {
+            "iteration": 2,
+            "objective": 4877.633869658233,
+            "gradient": 1.2793779703128672
+          },
+          {
+            "iteration": 3,
+            "objective": 4877.55712301808,
+            "gradient": 0.029154383546511564
+          },
+          {
+            "iteration": 4,
+            "objective": 4877.557082521448,
+            "gradient": 1.625018076878426e-05
+          },
+          {
+            "iteration": 5,
+            "objective": 4877.557082521436,
+            "gradient": 5.055289520328188e-12
+          }
+        ]
+      },
+      "fit_seconds": 0.12524199998006225,
+      "training_fit_diagnostic_only": true,
+      "train_correct": 4358,
+      "train_repairs": 21,
+      "train_harms": 3
+    },
+    {
+      "name": "NV",
+      "parameters": 3,
+      "beta": [
+        -0.5152388201347162,
+        -1.808898674840315,
+        -2.0333608103287406
+      ],
+      "optimizer": {
+        "iterations": 6,
+        "gradient_max_abs": 6.6342487059500854e-12,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient": 509.31139027898246
+          },
+          {
+            "iteration": 1,
+            "objective": 4775.911850155155,
+            "gradient": 16.402389004351544
+          },
+          {
+            "iteration": 2,
+            "objective": 4770.024085829288,
+            "gradient": 1.4942890670470916
+          },
+          {
+            "iteration": 3,
+            "objective": 4769.938586588462,
+            "gradient": 0.03368401293860601
+          },
+          {
+            "iteration": 4,
+            "objective": 4769.938539065142,
+            "gradient": 1.9429984765007013e-05
+          },
+          {
+            "iteration": 5,
+            "objective": 4769.938539065125,
+            "gradient": 6.6342487059500854e-12
+          }
+        ]
+      },
+      "fit_seconds": 0.12614450001274236,
+      "training_fit_diagnostic_only": true,
+      "train_correct": 4352,
+      "train_repairs": 32,
+      "train_harms": 20
+    }
+  ],
+  "new_residual_fits": 3,
+  "new_base_training_runs": 0,
+  "fit_preparation_seconds": 1.6206846999994013,
+  "feature_extraction_reused_not_charged_as_new": true
+}

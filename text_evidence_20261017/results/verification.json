@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "experiment_checks_passed": true,
+  "fresh_official_evaluations": 4,
+  "portable_official_replays": 4,
+  "baseline_probability_replay_max_error": 0.0,
+  "candidate_permutation_probability_max_error": 9.3843163240237e-08,
+  "text_evidence_candidate_permutation_exact": true,
+  "new_ids_reordered_single_question_and_parser_fallback_checks": [
+    "baseline",
+    "format",
+    "arithmetic",
+    "combined"
+  ],
+  "no_evidence_preserves_original_choices": true,
+  "source_and_frozen_asset_hashes_unchanged": true,
+  "protected_files": 11179,
+  "protected_changes": [],
+  "test_used": false,
+  "official_reference_cpu_certification": false,
+  "posthoc_analysis_did_not_change_frozen_sources_or_predictions": true,
+  "posthoc_interpretation_script_sha256": "4f9a58e5748511a98ab68896fe478e21dc6b2fbdcd529f46a44a073f83103d0b",
+  "final_report_sha256": "93c1fd8ce4cd94fb20b5f3f61932d29c1d228d18ab1d9990bcfd62aee4b1b02c"
+}

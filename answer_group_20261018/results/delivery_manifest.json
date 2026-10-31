@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "training_sources_unchanged": true,
+  "report_and_evidence_sha256": {
+    "results/REPORT.md": "05cf9488ace659512703a4e8a5dc152443940bcf42cee0d9f634c362f4c82def",
+    "results/analysis.json": "bc80a9760fe392629812c22fdd210220e182b2acf8eb961395ba68821a17f629",
+    "results/posthoc_diagnostics.json": "60abca43fb902822eb72e5af64ee9d37e766c433aabe8e5ced73917d8077da9d",
+    "results/evaluation_summary.json": "33a5cf2ce497b0dc40a5d8b12497e60989b1f3898bcff59857eef6d36b9d1d28",
+    "results/verification.json": "974bd30b078509f12f9ad02b4037498292c5e404d51fc46080ec0325449f41da",
+    "analysis/posthoc.py": "051223e15de0ba070e507cb96a4cfe9c99944b7e9eb2c6d49f2c2440b81aa365",
+    "protocol.json": "ddeda6b093e690c559b46ed620429a4af47675ae85bf8136a5f39beac40fcf4d"
+  },
+  "existing_files_protected": 11301,
+  "fits": 30,
+  "fresh_evaluations": 36,
+  "portable_replays": 6,
+  "test_used": false
+}

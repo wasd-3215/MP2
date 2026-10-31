@@ -1,0 +1,22 @@
+{
+  "question": "Do explicit output-structure and conservative numeric-equality evidence improve frozen S2-C candidate selection?",
+  "variants": {"baseline": [], "format": [0,1,2], "arithmetic": [3,4,5,6], "combined": [0,1,2,3,4,5,6]},
+  "primary": "combined minus baseline",
+  "controls": ["format minus baseline", "arithmetic minus baseline", "combined minus each single evidence family"],
+  "baseline": "Frozen S2-C five seeds17,29,43,71,101 from interaction_consensus_20261017; mean sigmoid probabilities",
+  "OOF": "fusion_confidence_20261017/results/oof-s2_consistency.npy; existing five question folds and five seeds",
+  "residual": "logit(mean_seed_probability)+raw_text_features@beta; fixed baseline coefficient1, bias-free linear correction, no hard exclusion on text evidence",
+  "features": ["numeric_box_parser_conflict", "number_prefixed_symbolic_box", "terminal_math_operator", "log_distinct_checked_pairs", "log_distinct_violations", "violation_fraction", "last_checked_pair_violates"],
+  "feature_scaling": "None; binary flags, log1p counts and bounded rate; unknown arithmetic has zero evidence",
+  "objective": "Sum of candidate BCE on all training OOF rows + 0.5*L2*sum(beta squared); labels are official final numeric correctness only",
+  "L2": 1.0,
+  "optimizer": "Deterministic exact-gradient Newton with backtracking, zero initialization, at most80 iterations, gradient tolerance1e-7",
+  "hyperparameter_or_threshold_search": false,
+  "arithmetic": {"relative_tolerance": 0.001, "absolute_tolerance": 0.000001, "support": "Whole numeric sides of adjacent equalities, decimal/fraction + - * / and bounded integer powers; numeric LaTeX fractions and boxes; symbolic/units/calls/unsafe/malformed inputs unknown", "limits": "Expression240 characters, AST80 nodes, numerator/denominator256 bits, exponent abs<=8, max256 distinct pairs per candidate", "dedup": "Identical normalized equation sides counted once per candidate", "sources": "Math spans and complete plain equation lines or suffix after label colon", "no_eval": true},
+  "final_policy": "Original official parser; exclude None candidates if any valid; all-invalid raw-score fallback; first index breaks ties",
+  "audit": "Meaningful synthetic checks and training-only extraction coverage/label association, review seeded training examples before fitting; no tuning on the42 validation cases",
+  "evaluation": "Four new process predictions with original official score script, four portable replays; paired descriptive bootstrap10000 seed20261017; full798 and active355, shared42, wrong plurality, one-correct, six flawed-correct-trace cases",
+  "validation_caveat": "Repeatedly used development bank; label-free feature definitions motivated by prior validation diagnosis. Intervals descriptive; no fresh heldout generalization claim.",
+  "OOF_caveat": "Base predictions are genuinely held out. Residuals fit all OOF rows; fitted training accuracy is not an unbiased cross-validation estimate of the residual model. No nested CV claim.",
+  "test_used": false
+}

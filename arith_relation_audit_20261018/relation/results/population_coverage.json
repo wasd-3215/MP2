@@ -1,0 +1,49 @@
+{
+  "counts": {
+    "scope_unit": {
+      "development": {
+        "questions_with_probes": 136,
+        "primitive_claims": 614
+      },
+      "confirmation": {
+        "questions_with_probes": 79,
+        "primitive_claims": 367
+      }
+    },
+    "entity_binding": {
+      "development": {
+        "questions_with_probes": 15,
+        "primitive_claims": 86
+      },
+      "confirmation": {
+        "questions_with_probes": 14,
+        "primitive_claims": 75
+      }
+    },
+    "condition_use": {
+      "development": {
+        "questions_with_probes": 10,
+        "primitive_claims": 49
+      },
+      "confirmation": {
+        "questions_with_probes": 4,
+        "primitive_claims": 11
+      }
+    },
+    "target_alignment": {
+      "development": {
+        "questions_with_probes": 972,
+        "primitive_claims": 3227
+      },
+      "confirmation": {
+        "questions_with_probes": 600,
+        "primitive_claims": 1990
+      }
+    }
+  },
+  "train_extraction_seconds": 21.553950100002112,
+  "confirmation_unique_questions": 106,
+  "confirmation_candidate_texts": 424,
+  "reference_answers_loaded": false,
+  "screened_counts_are_not_confirmed_support": true
+}

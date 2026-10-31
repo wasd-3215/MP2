@@ -1,0 +1,20 @@
+{
+  "mode": "fixed_weight",
+  "pool_weight": 0.5,
+  "members": {
+    "Pool_P": [
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_17\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_29\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_43\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_71\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_101\\bundle"
+    ],
+    "S2_C": [
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_17\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_29\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_43\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_71\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_101\\bundle"
+    ]
+  }
+}

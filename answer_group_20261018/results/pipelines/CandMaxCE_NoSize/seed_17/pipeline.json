@@ -1,0 +1,7 @@
+{
+  "members": [
+    "../../../runs/CandMaxCE_NoSize/seed_17/bundle"
+  ],
+  "aggregation": "equal mean of group softmax probabilities",
+  "variant": "CandMaxCE_NoSize"
+}

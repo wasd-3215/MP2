@@ -1,0 +1,122 @@
+[
+  {
+    "name": "B",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 740,
+    "n": 798,
+    "accuracy": 92.73182957393483,
+    "scoring_seconds": 0.06571749999420717,
+    "prediction_wall_seconds": 4.832452800008468,
+    "scoring_wall_seconds": 0.5012111999967601,
+    "fresh_total_seconds": 5.3336640000052284,
+    "asset_bytes_uncompressed": 5503622,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 740,
+      "n": 798,
+      "accuracy": 92.73182957393483,
+      "scoring_seconds": 0.06377780000912026,
+      "prediction_wall_seconds": 4.759356900001876,
+      "scoring_wall_seconds": 0.5089204999967478,
+      "fresh_total_seconds": 5.268277399998624
+    }
+  },
+  {
+    "name": "N",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 739,
+    "n": 798,
+    "accuracy": 92.60651629072682,
+    "scoring_seconds": 0.0654845000244677,
+    "prediction_wall_seconds": 6.682952600007411,
+    "scoring_wall_seconds": 0.4921498000039719,
+    "fresh_total_seconds": 7.175102400011383,
+    "asset_bytes_uncompressed": 5503700,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 739,
+      "n": 798,
+      "accuracy": 92.60651629072682,
+      "scoring_seconds": 0.06456170001183636,
+      "prediction_wall_seconds": 6.7171091999916825,
+      "scoring_wall_seconds": 0.5023939000093378,
+      "fresh_total_seconds": 7.21950310000102
+    }
+  },
+  {
+    "name": "V",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 742,
+    "n": 798,
+    "accuracy": 92.98245614035088,
+    "scoring_seconds": 0.06345429999055341,
+    "prediction_wall_seconds": 6.658326699980535,
+    "scoring_wall_seconds": 0.4884134999883827,
+    "fresh_total_seconds": 7.146740199968917,
+    "asset_bytes_uncompressed": 5503766,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 742,
+      "n": 798,
+      "accuracy": 92.98245614035088,
+      "scoring_seconds": 0.06411300000036135,
+      "prediction_wall_seconds": 6.690898600005312,
+      "scoring_wall_seconds": 0.47889980001491494,
+      "fresh_total_seconds": 7.169798400020227
+    }
+  },
+  {
+    "name": "NV",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 741,
+    "n": 798,
+    "accuracy": 92.85714285714286,
+    "scoring_seconds": 0.06472910000593401,
+    "prediction_wall_seconds": 6.660577300004661,
+    "scoring_wall_seconds": 0.5245134000142571,
+    "fresh_total_seconds": 7.185090700018918,
+    "asset_bytes_uncompressed": 5503835,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.06310289999237284,
+      "prediction_wall_seconds": 6.706906100007473,
+      "scoring_wall_seconds": 0.4810808000038378,
+      "fresh_total_seconds": 7.18798690001131
+    }
+  },
+  {
+    "name": "H",
+    "protocol": "dase7506-mp2-open-hard-verifier-v5",
+    "split": "validation",
+    "correct": 741,
+    "n": 798,
+    "accuracy": 92.85714285714286,
+    "scoring_seconds": 0.062137799977790564,
+    "prediction_wall_seconds": 6.863244699983625,
+    "scoring_wall_seconds": 0.4985930999973789,
+    "fresh_total_seconds": 7.361837799981004,
+    "asset_bytes_uncompressed": 5503892,
+    "portable_replay": {
+      "protocol": "dase7506-mp2-open-hard-verifier-v5",
+      "split": "validation",
+      "correct": 741,
+      "n": 798,
+      "accuracy": 92.85714285714286,
+      "scoring_seconds": 0.0629301999870222,
+      "prediction_wall_seconds": 6.654504199977964,
+      "scoring_wall_seconds": 0.5017208000062965,
+      "fresh_total_seconds": 7.156224999984261
+    }
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "runs": [
+    {
+      "name": "baseline",
+      "parameters": 0,
+      "fit_seconds": 0.1136947000049986,
+      "optimizer": {
+        "converged": true,
+        "iterations": 0
+      },
+      "training_fit_diagnostic_only": true,
+      "correct": 4340,
+      "repairs_vs_base": 0,
+      "harms_vs_base": 0,
+      "beta": []
+    },
+    {
+      "name": "format",
+      "parameters": 3,
+      "fit_seconds": 0.12560810000286438,
+      "optimizer": {
+        "objective_initial": 5012.573439416622,
+        "objective_final": 4994.617561001868,
+        "gradient_max_abs": 4.6302233158712625e-09,
+        "iterations": 5,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient_max_abs": 12.162261629104274
+          },
+          {
+            "iteration": 1,
+            "objective": 4994.9249000706,
+            "gradient_max_abs": 1.321771482766437
+          },
+          {
+            "iteration": 2,
+            "objective": 4994.618684934196,
+            "gradient_max_abs": 0.07675835398564601
+          },
+          {
+            "iteration": 3,
+            "objective": 4994.617561019146,
+            "gradient_max_abs": 0.0003001740282946308
+          },
+          {
+            "iteration": 4,
+            "objective": 4994.617561001868,
+            "gradient_max_abs": 4.6302233158712625e-09
+          }
+        ],
+        "converged": true
+      },
+      "training_fit_diagnostic_only": true,
+      "correct": 4343,
+      "repairs_vs_base": 3,
+      "harms_vs_base": 0,
+      "beta": [
+        -3.22794112662326,
+        0.3626062872300366,
+        0.015479766178592685
+      ]
+    },
+    {
+      "name": "arithmetic",
+      "parameters": 4,
+      "fit_seconds": 0.12787520000711083,
+      "optimizer": {
+        "objective_initial": 5012.573439416622,
+        "objective_final": 4768.34991094689,
+        "gradient_max_abs": 8.018252728447806e-12,
+        "iterations": 6,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient_max_abs": 509.3113902789823
+          },
+          {
+            "iteration": 1,
+            "objective": 4774.007363406713,
+            "gradient_max_abs": 18.44727319903409
+          },
+          {
+            "iteration": 2,
+            "objective": 4768.430770221936,
+            "gradient_max_abs": 1.3932676986259365
+          },
+          {
+            "iteration": 3,
+            "objective": 4768.3499579278605,
+            "gradient_max_abs": 0.034242131269126896
+          },
+          {
+            "iteration": 4,
+            "objective": 4768.349910946908,
+            "gradient_max_abs": 2.0983168746768754e-05
+          },
+          {
+            "iteration": 5,
+            "objective": 4768.34991094689,
+            "gradient_max_abs": 8.018252728447806e-12
+          }
+        ],
+        "converged": true
+      },
+      "training_fit_diagnostic_only": true,
+      "correct": 4350,
+      "repairs_vs_base": 31,
+      "harms_vs_base": 21,
+      "beta": [
+        -0.5159627902100243,
+        -1.26286127010969,
+        -1.132315785236848,
+        -1.647241159519332
+      ]
+    },
+    {
+      "name": "combined",
+      "parameters": 7,
+      "fit_seconds": 0.13414089998696,
+      "optimizer": {
+        "objective_initial": 5012.573439416622,
+        "objective_final": 4755.3486076471945,
+        "gradient_max_abs": 8.163691944673701e-12,
+        "iterations": 6,
+        "history": [
+          {
+            "iteration": 0,
+            "objective": 5012.573439416622,
+            "gradient_max_abs": 509.3113902789823
+          },
+          {
+            "iteration": 1,
+            "objective": 4761.390238320576,
+            "gradient_max_abs": 15.616851940141052
+          },
+          {
+            "iteration": 2,
+            "objective": 4755.431695597137,
+            "gradient_max_abs": 1.5325976788558806
+          },
+          {
+            "iteration": 3,
+            "objective": 4755.348654747444,
+            "gradient_max_abs": 0.035090550490174066
+          },
+          {
+            "iteration": 4,
+            "objective": 4755.348607647213,
+            "gradient_max_abs": 2.1063784866659496e-05
+          },
+          {
+            "iteration": 5,
+            "objective": 4755.3486076471945,
+            "gradient_max_abs": 8.163691944673701e-12
+          }
+        ],
+        "converged": true
+      },
+      "training_fit_diagnostic_only": true,
+      "correct": 4353,
+      "repairs_vs_base": 34,
+      "harms_vs_base": 21,
+      "beta": [
+        -2.8492064556547385,
+        0.36271976159212527,
+        0.19074813756005135,
+        -0.5060310129883612,
+        -1.2774559427319707,
+        -1.1307773449207905,
+        -1.6480847951961484
+      ]
+    }
+  ],
+  "new_base_model_training_runs": 0,
+  "new_residual_fits": 3,
+  "L2": 1.0,
+  "total_seconds": 1.4546287000121083,
+  "feature_names": [
+    "numeric_box_parser_conflict",
+    "number_prefixed_symbolic_box",
+    "terminal_math_operator",
+    "log_distinct_checked_pairs",
+    "log_distinct_violations",
+    "violation_fraction",
+    "last_checked_pair_violates"
+  ],
+  "validation_loaded": false,
+  "test_used": false,
+  "train_diagnostics_not_meta_OOF_accuracy": true
+}

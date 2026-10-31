@@ -1,0 +1,24 @@
+{
+  "split": "train",
+  "n": 4755,
+  "minimum_supported_questions": 20,
+  "screens": {
+    "explicit_xyz_equation": [],
+    "interest_original_or_principal": [
+      {
+        "row": 3058,
+        "id": "gsm8k:4050aacf2196ccedc307f0eb69f965506cf5fa171b6a738c73782251c5d80dd4",
+        "question": "A person borrowed an amount of money for a year at an interest rate of 12%. If the total interest is $1500, what was the original borrowed amount?"
+      }
+    ]
+  },
+  "counts": {
+    "explicit_xyz_equation": 0,
+    "interest_original_or_principal": 1
+  },
+  "gate_passed": false,
+  "manual_review": "The sole interest question asks original principal given one-year 12% interest and interest amount1500; principal=1500/0.12=12500. Wording is clear, but one question cannot support a general extraction family.",
+  "reference_labels_used": false,
+  "hard_constraint_extension_added": false,
+  "interpretation": "Insufficient coverage for these two narrow screens. This does not establish that other question-side constraint families are unavailable."
+}

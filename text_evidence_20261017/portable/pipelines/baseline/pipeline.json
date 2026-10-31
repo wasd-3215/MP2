@@ -1,0 +1,14 @@
+{
+  "name": "baseline",
+  "columns": [],
+  "feature_names": [],
+  "beta": [],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "../../members/00",
+    "../../members/01",
+    "../../members/02",
+    "../../members/03",
+    "../../members/04"
+  ]
+}

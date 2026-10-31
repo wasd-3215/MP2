@@ -1,0 +1,20 @@
+{
+  "mode": "fixed_weight",
+  "pool_weight": 0.5,
+  "members": {
+    "Pool_P": [
+      "../../members/Pool_P/00",
+      "../../members/Pool_P/01",
+      "../../members/Pool_P/02",
+      "../../members/Pool_P/03",
+      "../../members/Pool_P/04"
+    ],
+    "S2_C": [
+      "../../members/S2_C/00",
+      "../../members/S2_C/01",
+      "../../members/S2_C/02",
+      "../../members/S2_C/03",
+      "../../members/S2_C/04"
+    ]
+  }
+}

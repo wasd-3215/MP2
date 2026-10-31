@@ -1,0 +1,196 @@
+{
+  "train": {
+    "questions": 4755,
+    "candidates": 19020,
+    "flags": {
+      "numeric_box_parse_conflict": {
+        "candidates": 22,
+        "questions": 17,
+        "officially_correct_candidates": 0,
+        "box_matches_reference_but_official_parse_wrong": 16
+      },
+      "symbolic_box_numeric_prefix": {
+        "candidates": 11,
+        "questions": 11,
+        "officially_correct_candidates": 1,
+        "box_matches_reference_but_official_parse_wrong": 0
+      }
+    },
+    "selected_flagged_candidates_by_train_OOF": {
+      "Pool_P": {
+        "numeric_box_parse_conflict": 7,
+        "symbolic_box_numeric_prefix": 0,
+        "flagged_details": [
+          {
+            "row": 63,
+            "candidate": 2,
+            "id": "gsm8k:7753e8398815da048ae5ca85cc0a041e1761b867b346907c190b5fd904457e5e",
+            "gold": "18",
+            "official_parse": "4",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "18",
+            "last_box_literal": "18",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 78,
+            "candidate": 0,
+            "id": "gsm8k:23918182259e0158cb3239f1d220af1773e9f43f245533eecbefd512dfbc8265",
+            "gold": "20",
+            "official_parse": "5",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "20",
+            "last_box_literal": "20",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 346,
+            "candidate": 3,
+            "id": "gsm8k:ae75bc0f95adc6ef9c0bdb8b10271bfa802dcf6f774b49c388d3d25b32cff097",
+            "gold": "1800",
+            "official_parse": "4",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "1800",
+            "last_box_literal": "1800",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 2012,
+            "candidate": 0,
+            "id": "gsm8k:fa5bc46e4bb74b20481d5da39d289d9692190b22c388bd8950a383566b680348",
+            "gold": "11",
+            "official_parse": "1",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "11",
+            "last_box_literal": "11",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 2263,
+            "candidate": 2,
+            "id": "gsm8k:f3150f0dd3dcc4636cc0727e43e1f0e3a6d8b3bfd81e9afc249ef22554f7f2ae",
+            "gold": "12",
+            "official_parse": "5",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "12",
+            "last_box_literal": "12",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 3876,
+            "candidate": 3,
+            "id": "gsm8k:6216355385fc69f1412cb37985e0bc7546fbc75802a6cac27226b8aca56a3776",
+            "gold": "135",
+            "official_parse": "3",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "135",
+            "last_box_literal": "135",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 4593,
+            "candidate": 2,
+            "id": "gsm8k:ed79dc71e6b5fa1db88388ebb16db94c4debbefb0ee12ed4bf0e476e9c907039",
+            "gold": "27",
+            "official_parse": "2",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "41",
+            "last_box_literal": "41",
+            "in_pair_common_failures": false
+          }
+        ]
+      },
+      "S2_C": {
+        "numeric_box_parse_conflict": 5,
+        "symbolic_box_numeric_prefix": 0,
+        "flagged_details": [
+          {
+            "row": 63,
+            "candidate": 2,
+            "id": "gsm8k:7753e8398815da048ae5ca85cc0a041e1761b867b346907c190b5fd904457e5e",
+            "gold": "18",
+            "official_parse": "4",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "18",
+            "last_box_literal": "18",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 78,
+            "candidate": 0,
+            "id": "gsm8k:23918182259e0158cb3239f1d220af1773e9f43f245533eecbefd512dfbc8265",
+            "gold": "20",
+            "official_parse": "5",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "20",
+            "last_box_literal": "20",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 346,
+            "candidate": 3,
+            "id": "gsm8k:ae75bc0f95adc6ef9c0bdb8b10271bfa802dcf6f774b49c388d3d25b32cff097",
+            "gold": "1800",
+            "official_parse": "4",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "1800",
+            "last_box_literal": "1800",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 1327,
+            "candidate": 3,
+            "id": "gsm8k:29004634a642129aafc273fec362ca1539ae4bfbbf1551895704ddf033a2b529",
+            "gold": "504",
+            "official_parse": "3",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "504",
+            "last_box_literal": "504",
+            "in_pair_common_failures": false
+          },
+          {
+            "row": 4593,
+            "candidate": 2,
+            "id": "gsm8k:ed79dc71e6b5fa1db88388ebb16db94c4debbefb0ee12ed4bf0e476e9c907039",
+            "gold": "27",
+            "official_parse": "2",
+            "numeric_box_parse_conflict": true,
+            "symbolic_box_numeric_prefix": false,
+            "box_value": "41",
+            "last_box_literal": "41",
+            "in_pair_common_failures": false
+          }
+        ]
+      }
+    }
+  },
+  "validation": {
+    "questions": 798,
+    "candidates": 3192,
+    "flags": {
+      "numeric_box_parse_conflict": {
+        "candidates": 7,
+        "questions": 6,
+        "officially_correct_candidates": 0,
+        "box_matches_reference_but_official_parse_wrong": 4
+      },
+      "symbolic_box_numeric_prefix": {
+        "candidates": 2,
+        "questions": 2,
+        "officially_correct_candidates": 0,
+        "box_matches_reference_but_official_parse_wrong": 0
+      }
+    }
+  }
+}

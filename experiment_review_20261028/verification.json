@@ -1,0 +1,40 @@
+{
+  "protected_files": 12074,
+  "changed": [],
+  "missing": [],
+  "added_outside_review": [],
+  "passed": true,
+  "official_test_scores_read_only": {
+    "V": {
+      "correct": 374,
+      "n": 467,
+      "accuracy": 80.08565310492506
+    },
+    "H": {
+      "correct": 377,
+      "n": 467,
+      "accuracy": 80.72805139186295
+    },
+    "NV": {
+      "correct": 377,
+      "n": 467,
+      "accuracy": 80.72805139186295
+    },
+    "B": {
+      "correct": 368,
+      "n": 467,
+      "accuracy": 78.80085653104925
+    },
+    "S2_route": {
+      "correct": 383,
+      "n": 467,
+      "accuracy": 82.01284796573876
+    },
+    "Pool_P": {
+      "correct": 375,
+      "n": 467,
+      "accuracy": 80.29978586723769
+    }
+  },
+  "no_training_prediction_or_scoring_executed": true
+}

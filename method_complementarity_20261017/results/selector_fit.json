@@ -1,0 +1,152 @@
+{
+  "train_questions": 4755,
+  "answer_disagreements": 286,
+  "Pool_only_correct": 114,
+  "C_only_correct": 150,
+  "both_wrong_disagreements": 22,
+  "base_correct": {
+    "Pool_P": 4304,
+    "S2_C": 4340
+  },
+  "fixed_weight_grid": [
+    {
+      "pool_weight": 0.0,
+      "correct": 4340
+    },
+    {
+      "pool_weight": 0.05,
+      "correct": 4342
+    },
+    {
+      "pool_weight": 0.1,
+      "correct": 4345
+    },
+    {
+      "pool_weight": 0.15,
+      "correct": 4345
+    },
+    {
+      "pool_weight": 0.2,
+      "correct": 4348
+    },
+    {
+      "pool_weight": 0.25,
+      "correct": 4348
+    },
+    {
+      "pool_weight": 0.3,
+      "correct": 4350
+    },
+    {
+      "pool_weight": 0.35,
+      "correct": 4353
+    },
+    {
+      "pool_weight": 0.4,
+      "correct": 4354
+    },
+    {
+      "pool_weight": 0.45,
+      "correct": 4354
+    },
+    {
+      "pool_weight": 0.5,
+      "correct": 4357
+    },
+    {
+      "pool_weight": 0.55,
+      "correct": 4355
+    },
+    {
+      "pool_weight": 0.6,
+      "correct": 4351
+    },
+    {
+      "pool_weight": 0.65,
+      "correct": 4348
+    },
+    {
+      "pool_weight": 0.7,
+      "correct": 4344
+    },
+    {
+      "pool_weight": 0.75,
+      "correct": 4342
+    },
+    {
+      "pool_weight": 0.8,
+      "correct": 4337
+    },
+    {
+      "pool_weight": 0.85,
+      "correct": 4326
+    },
+    {
+      "pool_weight": 0.9,
+      "correct": 4325
+    },
+    {
+      "pool_weight": 0.95,
+      "correct": 4314
+    },
+    {
+      "pool_weight": 1.0,
+      "correct": 4304
+    }
+  ],
+  "selected_pool_weight": 0.5,
+  "selector_fit_seconds": 4.99740799999563,
+  "fit_diagnostics_not_meta_OOF_estimates": true,
+  "summaries": [
+    {
+      "name": "S2_C",
+      "correct": 4340,
+      "repairs_vs_C": 0,
+      "harms_vs_C": 0,
+      "in_sample_selector_fit_diagnostic_only": false,
+      "frozen_pipeline_sha256": "f51a7e2bad95e8a257d1292f13654ef273bc2848855ce3eb413ab85dfe6295ba"
+    },
+    {
+      "name": "Pool_P",
+      "correct": 4304,
+      "repairs_vs_C": 114,
+      "harms_vs_C": 150,
+      "in_sample_selector_fit_diagnostic_only": false,
+      "frozen_pipeline_sha256": "e2d2c02d767d3e9e0d5b539662e9f8680075a8888ff4f29a7867431f7e3bc320"
+    },
+    {
+      "name": "equal_average",
+      "correct": 4357,
+      "repairs_vs_C": 44,
+      "harms_vs_C": 27,
+      "in_sample_selector_fit_diagnostic_only": false,
+      "frozen_pipeline_sha256": "a4f8abefdfdd166f40cd42539eb45d39bc18c93db4743138d0584de77f028e5e"
+    },
+    {
+      "name": "fixed_weight",
+      "correct": 4357,
+      "repairs_vs_C": 44,
+      "harms_vs_C": 27,
+      "in_sample_selector_fit_diagnostic_only": false,
+      "frozen_pipeline_sha256": "c9b6a02d9e762e553562c6d1728e5d230f97b6585cd386b594537c8f3976e024"
+    },
+    {
+      "name": "gate8",
+      "correct": 4365,
+      "repairs_vs_C": 49,
+      "harms_vs_C": 24,
+      "in_sample_selector_fit_diagnostic_only": true,
+      "frozen_pipeline_sha256": "b1377ab8354b46ab7afac855a503b5405ac08585670c81e1fd4038867efd854b"
+    },
+    {
+      "name": "gate4",
+      "correct": 4365,
+      "repairs_vs_C": 50,
+      "harms_vs_C": 25,
+      "in_sample_selector_fit_diagnostic_only": true,
+      "frozen_pipeline_sha256": "105b3ba052fdfba1004ac83af4fd727441d64ab7fc889b3f62c03d768e797149"
+    }
+  ],
+  "validation_used": false,
+  "test_used": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "format",
+  "columns": [
+    0,
+    1,
+    2
+  ],
+  "feature_names": [
+    "numeric_box_parser_conflict",
+    "number_prefixed_symbolic_box",
+    "terminal_math_operator"
+  ],
+  "beta": [
+    -3.22794112662326,
+    0.3626062872300366,
+    0.015479766178592685
+  ],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "../../members/00",
+    "../../members/01",
+    "../../members/02",
+    "../../members/03",
+    "../../members/04"
+  ]
+}

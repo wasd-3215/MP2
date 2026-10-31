@@ -1,0 +1,13 @@
+{
+  "mode": "Pool_P",
+  "members": {
+    "Pool_P": [
+      "../../members/Pool_P/00",
+      "../../members/Pool_P/01",
+      "../../members/Pool_P/02",
+      "../../members/Pool_P/03",
+      "../../members/Pool_P/04"
+    ],
+    "S2_C": []
+  }
+}

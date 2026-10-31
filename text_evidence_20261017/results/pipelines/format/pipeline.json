@@ -1,0 +1,26 @@
+{
+  "name": "format",
+  "columns": [
+    0,
+    1,
+    2
+  ],
+  "feature_names": [
+    "numeric_box_parser_conflict",
+    "number_prefixed_symbolic_box",
+    "terminal_math_operator"
+  ],
+  "beta": [
+    -3.22794112662326,
+    0.3626062872300366,
+    0.015479766178592685
+  ],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_17\\bundle",
+    "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_29\\bundle",
+    "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_43\\bundle",
+    "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_71\\bundle",
+    "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_101\\bundle"
+  ]
+}

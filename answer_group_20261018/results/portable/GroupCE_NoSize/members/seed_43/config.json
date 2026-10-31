@@ -1,0 +1,8 @@
+{
+  "model": {
+    "representation": "GroupCE",
+    "size_mode": "NoSize"
+  },
+  "seed": 43,
+  "budget_epoch": 20
+}

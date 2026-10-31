@@ -1,0 +1,151 @@
+{
+  "phase": "after frozen official evaluation; diagnostic decomposition only",
+  "no_new_predictor_or_fit": true,
+  "arithmetic_numerical_changes": [
+    {
+      "row": 17,
+      "question": "Lizette scored 92 on her third quiz giving her an average of 94. What is Lizette's average in her first two quizzes?",
+      "old_candidate": 0,
+      "new_candidate": 3,
+      "old_answer": "95",
+      "new_answer": "96",
+      "baseline_old_minus_new_logit": 0.15780767218170133,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.20920490851229773,
+        "log_distinct_violations": -0.0,
+        "violation_fraction": -0.0,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": true,
+      "only_pairwise_contribution_from_equation_count": true
+    },
+    {
+      "row": 206,
+      "question": "Isabelle gets a job so she can save enough money to go to a concert with her two brothers. Her ticket costs $20. Her brothers both get the children’s discount, and each of their tickets cost $10. Her brothers have saved $5 between the two of them and Isabelle has saved $5. If her job pays $3 per week, how many weeks must she work to afford the tickets?",
+      "old_candidate": 1,
+      "new_candidate": 0,
+      "old_answer": "20",
+      "new_answer": "10",
+      "baseline_old_minus_new_logit": 0.22928369031815887,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.3576381533079209,
+        "log_distinct_violations": -0.0,
+        "violation_fraction": -0.0,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": true,
+      "only_pairwise_contribution_from_equation_count": true
+    },
+    {
+      "row": 302,
+      "question": "Robby doesn't like the color brown and will not eat the brown M&M's.  On his first bag, he sets aside  9 brown M&M's.  On the second bag, he sets aside 12.  On his third & fourth bag, there are 8 brown M&M's that he doesn't eat. On his fifth bag, there are only 3 brown M&M's that he doesn't eat.  What's the average number of brown M&M's in a bag?",
+      "old_candidate": 2,
+      "new_candidate": 3,
+      "old_answer": "32/5",
+      "new_answer": "8",
+      "baseline_old_minus_new_logit": 0.16931690813175726,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": -0.0,
+        "log_distinct_violations": 0.8753487288148831,
+        "violation_fraction": 0.566157892618424,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": false,
+      "only_pairwise_contribution_from_equation_count": false
+    },
+    {
+      "row": 359,
+      "question": "There is very little car traffic on Happy Street. During the week, most cars pass it on Tuesday - 25. On Monday, 20% less than on Tuesday, and on Wednesday, 2 more cars than on Monday. On Thursday and Friday, it is about 10 cars each day. On the weekend, traffic drops to 5 cars per day. How many cars travel down Happy Street from Monday through Sunday?",
+      "old_candidate": 0,
+      "new_candidate": 1,
+      "old_answer": "97",
+      "new_answer": "92",
+      "baseline_old_minus_new_logit": 0.13247277678389113,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.7152763066158419,
+        "log_distinct_violations": -0.0,
+        "violation_fraction": -0.0,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": true,
+      "only_pairwise_contribution_from_equation_count": true
+    },
+    {
+      "row": 478,
+      "question": "One pair of pants requires 8.5 feet of fabric. Nguyen needs to make 7 pairs of pants for the wedding. He has 3.5 yards of fabric. How many feet of fabric does Nguyen still need for the pants?",
+      "old_candidate": 0,
+      "new_candidate": 2,
+      "old_answer": "-49",
+      "new_answer": "49",
+      "baseline_old_minus_new_logit": 0.13665201809701344,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.3576381533079209,
+        "log_distinct_violations": -0.0,
+        "violation_fraction": -0.0,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": true,
+      "only_pairwise_contribution_from_equation_count": true
+    },
+    {
+      "row": 655,
+      "question": "John decides to start collecting art.  He pays the same price for his first 3 pieces of art and the total price came to $45,000.  The next piece of art was 50% more expensive than those.  How much did all the art cost?",
+      "old_candidate": 2,
+      "new_candidate": 1,
+      "old_answer": "37500",
+      "new_answer": "45000",
+      "baseline_old_minus_new_logit": 0.02214887027146406,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.1484332447956232,
+        "log_distinct_violations": -0.0,
+        "violation_fraction": -0.0,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": true,
+      "only_pairwise_contribution_from_equation_count": true
+    },
+    {
+      "row": 739,
+      "question": "A person puts $5600 in a bank for two years. Each year he earns interest of 7% of the original amount deposited. How much will this person have in the bank after two years?",
+      "old_candidate": 3,
+      "new_candidate": 2,
+      "old_answer": "6420",
+      "new_answer": "160286/25",
+      "baseline_old_minus_new_logit": 0.5111345387528992,
+      "new_minus_old_feature_contributions": {
+        "log_distinct_checked_pairs": 0.11513376935345339,
+        "log_distinct_violations": 0.8753487288148831,
+        "violation_fraction": 0.283078946309212,
+        "last_checked_pair_violates": -0.0
+      },
+      "old_new_both_have_no_detected_violation": false,
+      "only_pairwise_contribution_from_equation_count": false
+    }
+  ],
+  "format_case_rank_margins": [
+    {
+      "row": 331,
+      "old_candidate": 1,
+      "comparison_candidate": 0,
+      "old_probability": 0.6440559195099371,
+      "comparison_probability": 0.141288524715995,
+      "old_minus_comparison_logit_before": 2.397640819584681,
+      "old_minus_comparison_logit_after": 2.7757268729933102,
+      "old_offset": 0.3780860534086293,
+      "comparison_offset": 0.0
+    },
+    {
+      "row": 733,
+      "old_candidate": 1,
+      "comparison_candidate": 0,
+      "old_probability": 0.9791481956435893,
+      "comparison_probability": 0.08042475407611532,
+      "old_minus_comparison_logit_before": 6.285832380108744,
+      "old_minus_comparison_logit_after": 3.0578912534854834,
+      "old_offset": -3.22794112662326,
+      "comparison_offset": 0.0
+    }
+  ],
+  "input_probability_sha256": "06aea1434d99a40c262be732b59fa043adf5348520b94e855dfcdddff892410d",
+  "top_level_frozen_sources_unchanged": true
+}

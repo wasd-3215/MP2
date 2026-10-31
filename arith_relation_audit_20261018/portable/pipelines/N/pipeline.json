@@ -1,0 +1,20 @@
+{
+  "name": "N",
+  "columns": [
+    3
+  ],
+  "feature_names": [
+    "log_distinct_checked_pairs"
+  ],
+  "beta": [
+    -0.5986428148821381
+  ],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "../../members/00",
+    "../../members/01",
+    "../../members/02",
+    "../../members/03",
+    "../../members/04"
+  ]
+}

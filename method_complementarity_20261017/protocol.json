@@ -1,0 +1,19 @@
+{
+  "research_question": "Can frozen Pool-P and S2-C complementarity be exploited by averaging or a small conditional selector?",
+  "experts": ["Pool_P", "S2_C"],
+  "seeds": [17, 29, 43, 71, 101],
+  "base_training": {"folds": 5, "fold_seed": 20261017, "epochs": 20, "batch_size": 256, "learning_rate": 0.0003, "weight_decay": 0.001, "gradient_clip": 1.0, "loss": "all-question candidate BCE", "checkpoint": "final epoch only", "new_fits": 25, "standardization": "fit training folds only"},
+  "reuse": {"S2_C_OOF": "fusion_confidence_20261017/results/oof-s2_consistency.npy", "full_experts": "interaction_consensus_20261017/results/runs"},
+  "predictors": ["S2_C", "Pool_P", "equal_average", "fixed_weight", "gate8", "gate4"],
+  "primary_comparison": "gate8 minus S2_C",
+  "primary_mechanistic_ablation": "gate8 minus gate4",
+  "averaging": "mean sigmoid probabilities within expert, then weighted probability across experts",
+  "pool_weight_grid": [0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.0],
+  "fixed_weight_selection": "maximize training OOF correct; ties smallest Pool weight",
+  "gate": {"type": "linear ridge regression of expected accuracy difference", "target": "Pool selected correct minus S2 selected correct; both-wrong and both-correct target zero", "fit_rows": "training OOF numerical-answer disagreements only", "standardization": "fit on these training rows only", "ridge_sum_loss_penalty": 10.0, "intercept_penalized": false, "switch_rule": "choose Pool iff predicted gain > 0 on answer disagreement, else S2", "hyperparameter_search": false, "threshold_search": false, "features8": ["Pool_answer_gap", "S2_answer_gap", "Pool_seed_answer_agreement", "S2_seed_answer_agreement", "Pool_selected_answer_support", "S2_selected_answer_support", "distinct_valid_answers", "invalid_fraction"], "features4": "first four of features8"},
+  "shared_policy": "exclude invalid final candidates if any valid candidate; all-invalid fallback raw maximum; same numerical answer gate keeps S2",
+  "evaluation": "six fresh official prediction plus independent scoring runs; six portable replays; question-paired descriptive bootstrap 10000 draws seed 20261017",
+  "validation_usage": "Previously used development set; no validation-driven gate fitting, weight selection or protocol changes. Intervals descriptive, no multiple-comparison correction.",
+  "OOF_caveat": "Base OOF rows genuinely held out. Gate fits all base OOF rows; its in-sample fit accuracy is not an unbiased meta-model cross-validation estimate. No nested-CV performance claim.",
+  "test_used": false
+}

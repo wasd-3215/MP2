@@ -1,0 +1,18 @@
+{
+  "new_base_model_training_runs": 0,
+  "new_residual_fits": 3,
+  "hyperparameter_searches": 0,
+  "arithmetic_fit_preparation_seconds": 1.6206846999994013,
+  "arithmetic_five_fresh_prediction_and_score_seconds": 34.20243509998545,
+  "arithmetic_five_portable_replay_seconds": 34.00179080001544,
+  "arithmetic_validation_feature_analysis_seconds": 2.030153600004269,
+  "relation_development_final_extraction_seconds": 0.25796280000940897,
+  "relation_all_train_extraction_seconds": 21.553950100002112,
+  "relation_controlled_thread_full_train_replay_seconds": 21.566147100005765,
+  "manual_development_questions": 48,
+  "manual_confirmation_unique_questions": 106,
+  "confirmation_candidate_contexts": 424,
+  "confirmation_deduplicated_assertions": 107,
+  "reference_labels_loaded_after_first_review": true,
+  "cost_scope": "Recorded phase costs; excludes implementation, interactive reading, source inspections and integrity hashing. Historical training/OOF/evidence reused; not charged as new work."
+}

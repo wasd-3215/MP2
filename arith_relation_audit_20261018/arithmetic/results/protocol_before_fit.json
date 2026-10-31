@@ -1,0 +1,18 @@
+{
+  "protocol_sha256": "2c442ffcc8a2e2efe78a0663910466581a434a776fb81da7a11dc823f2b490e2",
+  "sources": {
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\analyze.py": "ebf61ffe2542a5dc48fde80de0f9d0b44d4da14a0f44645eca11b6c3379bb9fd",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\check_extractor.py": "31202c605b0ba7d34f63011307d3fcb022258e0c9d210b1c092f483056d00132",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\decisions.py": "f24c1b39005483c7161c9c2d536917612589cf927bfb3dd4737bc474a49fa0f8",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\evidence.py": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\explicit_features.py": "f41c2f839790d5120f4990976ebbe448876e28e3ffa71d5fb0cc4f2e43ccc95d",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\features.py": "5b926010253a8c62ca56bf195d8baec55dbac11a07556bfd5617e083ccd27135",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\method.py": "b5815a50587b16550d003c0543a6c63f62e6bed84e5a7e4ed7b6e2e503d10936",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\models.py": "9266e92e008d0de4be55837a061394bcea54407a68ddb1f1ce17fd223ff1c61b",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\reference_models.py": "3de5520726e286058dbceba9c15a09f94d1fc91723c9364f3d06d338c71752eb",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\run.py": "36552b78688bc3ce73cb3a2cb549afc41c4c825d31286ea4d2a6690cbbec852b",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\runtime.py": "29a4b97186c63cf6dc81fc8f1f6e666d2dd4e4cfb1b8ce6bdaadd1966e32c2a0",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\utils.py": "cb577de9a43a74aa33bb825e67206eac667ef9ca0419b83d55260dd09e935903",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\protocol.json": "2c442ffcc8a2e2efe78a0663910466581a434a776fb81da7a11dc823f2b490e2"
+  }
+}

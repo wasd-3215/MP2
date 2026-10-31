@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-18 Asia/Shanghai",
+  "authorization": "User requested sequential execution of the preceding experiment design; new files confined to this new experiment directory.",
+  "sequence": ["protect files", "freeze arithmetic protocol", "fit N V NV", "five frozen evaluations and portable replays", "arithmetic analysis", "train-only relation development", "freeze relation extractor", "blind confirmation review", "reveal training final labels", "go/no-go and final integrity"],
+  "arithmetic": {
+    "baseline": "Frozen S2-C five seeds 17,29,43,71,101; equal mean sigmoid probability; official parser validity filter",
+    "variants": {"B": [], "N": [3], "V": [4,6], "NV": [3,4,6]},
+    "historical_H": "Reuse frozen original arithmetic coefficients and columns 3,4,5,6, including violation_fraction; exact prediction replay expected 741/798",
+    "primary": "V minus B",
+    "secondary": ["N minus B", "NV minus V", "NV minus N", "(NV-N)-(V-B)"],
+    "extractor": "Exact copy of final text_evidence_20261017/evidence.py; no changes",
+    "fit": "Training OOF mean probabilities, logit clip1e-12; sum all candidate BCE +0.5*beta squared, L2=1, no intercept, fixed base coefficient1; raw features, deterministic Newton, no hyperparameter search",
+    "main_model_training_runs": 0,
+    "new_residual_fits": 3,
+    "unknown": "Zero evidence, not an error; equal candidate offsets preserve baseline choices",
+    "bootstrap": {"replicates":10000,"seed":20261018,"unit":"whole question paired","interpretation":"descriptive on repeatedly used validation bank; not independent confirmation"},
+    "subgroups": ["all798", "multiple-valid-answers355", "wrong-unique-plurality60", "one-correct117", "historical-common42", "six-flawed-correct-cases"],
+    "OOF_caveat": "Base predictions held out; residual fitted all OOF rows; fitted training accuracy is not an unbiased meta-model OOF estimate."
+  },
+  "relation": {
+    "split": {"seed":20261018,"development":2853,"confirmation":1902,"unit":"whole question","restriction":"training bank only; confirmation not a new holdout for the already-trained base model"},
+    "families": ["scope_unit", "entity_binding", "condition_use", "target_alignment"],
+    "development_sample": "At most12 randomly selected screened questions per family",
+    "confirmation_sample": "At most25 randomly selected screened questions per family, inspect all four candidates; also20 random screen-negative questions; deduplicate actual question reading",
+    "sampling_labels": "Do not use final correctness or model scores for sampling or first-pass review",
+    "first_review": "Question and candidate relation fidelity, actual conflict versus unknown, self-correction, candidate differentiation; evidence spans required",
+    "second_review": "Reveal training final numeric labels only after first-pass annotations frozen; describe association, not model accuracy",
+    "gates": {"confirmed_supported_multianswer_questions":20,"reviewed_assertions":40,"distinct_reviewed_questions":20,"assertion_fidelity_point_estimate":0.95,"confirmed_discriminating_questions":10,"useful_correct_wrong_contrasts":true},
+    "gate_caveat": "Engineering thresholds, report denominators and intervals; sampling is stratified, not population precision/recall; global recall not estimated by20 negatives",
+    "no_relation_predictor_fit": true,
+    "no_validation_relation_evaluation": true,
+    "freeze": "Any repair only on development; confirmation failures preserved, no repair/retest on same confirmation sample"
+  },
+  "limits": "Numerical jobs serial, Torch4/interop1, BLAS1; bytecode disabled; each portable predictor <=16MiB; fresh startup+prediction+independent scoring measured locally, not reference Xeon certification",
+  "test_semantics_predictions_labels_used": false,
+  "ai_disclosure": "Codex implemented code and performs explicit recorded reading audit; no independent second human reviewer is claimed."
+}

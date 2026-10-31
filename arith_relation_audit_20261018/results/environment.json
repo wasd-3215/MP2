@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:37:13) [MSC v.1942 64 bit (AMD64)]",
+  "numpy": "2.5.3",
+  "torch": "2.7.1+cpu",
+  "cpu": "AMD Ryzen 7 4800U with Radeon Graphics",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "inference_threads": "Torch intra4/interop1, BLAS1, serial jobs",
+  "relation_replay_environment_before_numpy_import": {
+    "OMP_NUM_THREADS": "4",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "4"
+  },
+  "reference_xeon_evaluation": false
+}

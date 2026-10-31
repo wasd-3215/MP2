@@ -1,0 +1,38 @@
+{
+  "name": "combined",
+  "columns": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "feature_names": [
+    "numeric_box_parser_conflict",
+    "number_prefixed_symbolic_box",
+    "terminal_math_operator",
+    "log_distinct_checked_pairs",
+    "log_distinct_violations",
+    "violation_fraction",
+    "last_checked_pair_violates"
+  ],
+  "beta": [
+    -2.8492064556547385,
+    0.36271976159212527,
+    0.19074813756005135,
+    -0.5060310129883612,
+    -1.2774559427319707,
+    -1.1307773449207905,
+    -1.6480847951961484
+  ],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "../../members/00",
+    "../../members/01",
+    "../../members/02",
+    "../../members/03",
+    "../../members/04"
+  ]
+}

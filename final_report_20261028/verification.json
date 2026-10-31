@@ -1,0 +1,13 @@
+{
+  "pages": 10,
+  "protected_files": 12080,
+  "changed": [],
+  "missing": [],
+  "source_report_count": 18,
+  "test_scores_matched": true,
+  "new_experiments_executed": false,
+  "pdf_sha256": "8be6c9e0a9afbb88f9d3148c198b60c590767645993856dff6c91bfa7ec226af",
+  "markdown_sha256": "322b521298d80d2fc07ae55aa16f4b3c18ce1987eef99d7b9f76d350e4472ea2",
+  "passed": true,
+  "visual_review": "recorded separately after PNG inspection"
+}

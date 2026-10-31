@@ -1,0 +1,85 @@
+{
+  "train_questions": 4755,
+  "train_candidates": 19020,
+  "feature_names": [
+    "numeric_box_parser_conflict",
+    "number_prefixed_symbolic_box",
+    "terminal_math_operator",
+    "log_distinct_checked_pairs",
+    "log_distinct_violations",
+    "violation_fraction",
+    "last_checked_pair_violates"
+  ],
+  "feature_statistics": [
+    {
+      "feature": "numeric_box_parser_conflict",
+      "candidate_nonzero": 22,
+      "question_nonzero": 17,
+      "nonzero_officially_correct_candidates": 0,
+      "nonzero_officially_wrong_candidates": 22,
+      "mean": 0.001156677181913775,
+      "max": 1.0
+    },
+    {
+      "feature": "number_prefixed_symbolic_box",
+      "candidate_nonzero": 11,
+      "question_nonzero": 11,
+      "nonzero_officially_correct_candidates": 1,
+      "nonzero_officially_wrong_candidates": 10,
+      "mean": 0.0005783385909568874,
+      "max": 1.0
+    },
+    {
+      "feature": "terminal_math_operator",
+      "candidate_nonzero": 38,
+      "question_nonzero": 36,
+      "nonzero_officially_correct_candidates": 8,
+      "nonzero_officially_wrong_candidates": 30,
+      "mean": 0.0019978969505783386,
+      "max": 1.0
+    },
+    {
+      "feature": "log_distinct_checked_pairs",
+      "candidate_nonzero": 12343,
+      "question_nonzero": 4010,
+      "nonzero_officially_correct_candidates": 9516,
+      "nonzero_officially_wrong_candidates": 2827,
+      "mean": 0.6797499292665452,
+      "max": 2.5649493574615367
+    },
+    {
+      "feature": "log_distinct_violations",
+      "candidate_nonzero": 295,
+      "question_nonzero": 227,
+      "nonzero_officially_correct_candidates": 30,
+      "nonzero_officially_wrong_candidates": 265,
+      "mean": 0.011252688264437751,
+      "max": 1.791759469228055
+    },
+    {
+      "feature": "violation_fraction",
+      "candidate_nonzero": 295,
+      "question_nonzero": 227,
+      "nonzero_officially_correct_candidates": 30,
+      "nonzero_officially_wrong_candidates": 265,
+      "mean": 0.00936902258274498,
+      "max": 1.0
+    },
+    {
+      "feature": "last_checked_pair_violates",
+      "candidate_nonzero": 195,
+      "question_nonzero": 158,
+      "nonzero_officially_correct_candidates": 14,
+      "nonzero_officially_wrong_candidates": 181,
+      "mean": 0.01025236593059937,
+      "max": 1.0
+    }
+  ],
+  "extraction_seconds": 12.450814799987711,
+  "extractor_sha256": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479",
+  "feature_sha256": "bd17246ea695e40cdd1dee7d9022edc72b1ef1911db46e469bd907d3a7b9e5c0",
+  "label_sha256": "1641f1c0ca1a5d06da74018e5cea184a58e0a3ab7e474c0acbc2906e1d3b0ddf",
+  "validation_loaded": false,
+  "test_used": false,
+  "association_is_not_extractor_error_rate": true
+}

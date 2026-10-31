@@ -1,0 +1,74 @@
+[
+  {
+    "path": "code/answer_group_20261018/results/REPORT.md",
+    "sha256": "05cf9488ace659512703a4e8a5dc152443940bcf42cee0d9f634c362f4c82def"
+  },
+  {
+    "path": "code/arith_relation_audit_20261018/results/REPORT.md",
+    "sha256": "c76546f3dd09c909a16c9f2f84050d651707dc6acb2a0bf8d461c00e391cc3b4"
+  },
+  {
+    "path": "code/attention_factors_20261017/results/REPORT.md",
+    "sha256": "15a07ddd985c4563ab105d713950087de2bd6066b3d0bfa2be555a686328566f"
+  },
+  {
+    "path": "code/capacity_experiments_20261017/results/REPORT.md",
+    "sha256": "3178c7117a889901590667c08a102a964d3d5ba2f973f3b87bfe2d6e1313c7d3"
+  },
+  {
+    "path": "code/common_failure_diagnosis_20261017/results/REPORT.md",
+    "sha256": "f6d31f766cf9f6d5a737cf05a417f136efa5c8b003f634bee7c34378bb6d8eae"
+  },
+  {
+    "path": "code/early_consensus_20261017/results/REPORT.md",
+    "sha256": "1df34f2d94dc771a4c3725b4485aab98ad9390147dff7edd9856fd7c4d3bee49"
+  },
+  {
+    "path": "code/error_diagnosis_20261017/REPORT.md",
+    "sha256": "eda7f9c6353b0a23491fa90089422b755d05ffe24554a616d2e431f82cc0cc3e"
+  },
+  {
+    "path": "code/experiments_20261017/results/REPORT.md",
+    "sha256": "24f6fa30d31f9e070b1d79f08d7344165fb515361d0553915282f4a838fa7bcb"
+  },
+  {
+    "path": "code/final_test_20261028/results/REPORT.md",
+    "sha256": "3a9cc3d5f4c495192c410c754ea5413693fe628842a2cc5aadaa2ea59680f883"
+  },
+  {
+    "path": "code/fusion_confidence_20261017/results/REPORT.md",
+    "sha256": "a7d965d9cfab1b859b2270ce37468780f140a2d6db3c7473419ce52cbdc9e1a3"
+  },
+  {
+    "path": "code/interaction_consensus_20261017/results/REPORT.md",
+    "sha256": "2edb12cfd0dc967daf68984ab8c1add1c0dd17db755e1976dc189f30736fc8e4"
+  },
+  {
+    "path": "code/interaction_stage_20261017/results/REPORT.md",
+    "sha256": "b7144e59bc5bcf3eb237754227283413286d2e4c1ae6a08e384a17d8a82c7c94"
+  },
+  {
+    "path": "code/method_complementarity_20261017/results/REPORT.md",
+    "sha256": "fb287e1ab192d153e815c42d81ef109f36831a23d82ea1658b940ae0d3235fe2"
+  },
+  {
+    "path": "code/objective_experiments_20261017/results/REPORT.md",
+    "sha256": "e681b23dd3240f76357383747d1034b8d0d2083b065ee05a11e3561348202d20"
+  },
+  {
+    "path": "code/residual_experiments_20261017/results/REPORT.md",
+    "sha256": "3eb9f41e0c4e0f424904183fb21e751d78e74530c3de5b7e595560bcfb874987"
+  },
+  {
+    "path": "code/reweighting_experiments_20261017/results/REPORT.md",
+    "sha256": "784728b6589a15e5705fcf6204f88ba71236d610f123c1991c749616ae9f98e1"
+  },
+  {
+    "path": "code/text_evidence_20261017/results/REPORT.md",
+    "sha256": "93c1fd8ce4cd94fb20b5f3f61932d29c1d228d18ab1d9990bcfd62aee4b1b02c"
+  },
+  {
+    "path": "code/validity_filter_20261017/results/REPORT.md",
+    "sha256": "e75c68730adbf0f4cc13914a64e05f996856ec80b6b4f8a4a6b9e67253b2ec7c"
+  }
+]

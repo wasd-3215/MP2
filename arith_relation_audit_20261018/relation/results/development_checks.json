@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "rate_denominator_value",
+    "currency_rate",
+    "count_not_fraction",
+    "question_target_only",
+    "value_difference_not_proven_semantic_conflict",
+    "repeated_condition_not_use",
+    "embedded_what_not_question",
+    "stage_multiplier",
+    "stage_boundary"
+  ],
+  "questions": 48,
+  "source_sha256": "03502c1efdff92e3d464191dc5b1db81e7fbf37712f3e2ad6c1e255cf48167e5",
+  "seconds": 0.25796280000940897
+}

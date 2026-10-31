@@ -1,0 +1,160 @@
+{
+  "passed": true,
+  "samples_reviewed": 28,
+  "split": "train",
+  "validation_used": false,
+  "test_used": false,
+  "evidence_sha256": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479",
+  "sample_file_sha256": "1cf9fa7bd8343234d7001873c7b1f8c3e94dc4d526f867dc281c363790af1530",
+  "selection": "Seed20261017, eight flagged correct, eight flagged wrong, four format conflicts, four consistent, four unknown; stratified and not a prevalence estimate",
+  "scope": "Reviewed the exported equation pairs and source snippets; not an independent full-solution proof for every candidate.",
+  "findings": "No unaddressed normalization/delimiter error found in these final28 cards. Acknowledged wrong trials, partial-sum notation and errors with correct final values remain valid reasons to use soft supervision, not hard exclusion.",
+  "remaining_limitations": [
+    "Unknown units and symbols reduce coverage",
+    "No interpretation of explicitly acknowledged/corrected contradictions",
+    "Numeric consistency is not final-answer correctness",
+    "28 stratified cards do not establish a global extractor precision estimate"
+  ],
+  "notes": [
+    {
+      "sample": 1,
+      "reviewed": true,
+      "note": "完整与部分和连写，字面等式不成立但后续过程回到正确总数。"
+    },
+    {
+      "sample": 2,
+      "reviewed": true,
+      "note": "7+12+15-2确为32而非30；最终正确不代表该等式成立。"
+    },
+    {
+      "sample": 3,
+      "reviewed": true,
+      "note": "嵌套分母(15+36)/2为25.5而非22.5；不成立是可核对事实。"
+    },
+    {
+      "sample": 4,
+      "reviewed": true,
+      "note": "候选明确自我纠正之前的错误尝试；不能按错误等式硬淘汰。"
+    },
+    {
+      "sample": 5,
+      "reviewed": true,
+      "note": "候选明确否定了90=100的初始尝试后解出正确答案；需软证据。"
+    },
+    {
+      "sample": 6,
+      "reviewed": true,
+      "note": "等式链中出现352/4-352/4=0，与两侧66不一致。"
+    },
+    {
+      "sample": 7,
+      "reviewed": true,
+      "note": "同一题正确标签伴随32=30，公式确实不成立。"
+    },
+    {
+      "sample": 8,
+      "reviewed": true,
+      "note": "同一题另一正确候选也写32=30。"
+    },
+    {
+      "sample": 9,
+      "reviewed": true,
+      "note": "7+10+4+14+20=55而非65。"
+    },
+    {
+      "sample": 10,
+      "reviewed": true,
+      "note": "20+24+16+48=108而非118。"
+    },
+    {
+      "sample": 11,
+      "reviewed": true,
+      "note": "四项小数合计20而非19。"
+    },
+    {
+      "sample": 12,
+      "reviewed": true,
+      "note": "200+400+1200=1800而非2000。"
+    },
+    {
+      "sample": 13,
+      "reviewed": true,
+      "note": "70+50+5+8.75=133.75而非153.75。"
+    },
+    {
+      "sample": 14,
+      "reviewed": true,
+      "note": "270+27=297而非300。"
+    },
+    {
+      "sample": 15,
+      "reviewed": true,
+      "note": "20=100被候选作为矛盾明确讨论；字面矛盾不等于候选推理错误。"
+    },
+    {
+      "sample": 16,
+      "reviewed": true,
+      "note": "500+40+160=700而非600。"
+    },
+    {
+      "sample": 17,
+      "reviewed": true,
+      "note": "最后####段的5与显式框11冲突，检测正确。"
+    },
+    {
+      "sample": 18,
+      "reviewed": true,
+      "note": "最后####段的1与显式框12000冲突，检测正确。"
+    },
+    {
+      "sample": 19,
+      "reviewed": true,
+      "note": "最后####段的2与显式框41冲突，检测正确。"
+    },
+    {
+      "sample": 20,
+      "reviewed": true,
+      "note": "最后####标题编号5与最终框20冲突，检测正确。"
+    },
+    {
+      "sample": 21,
+      "reviewed": true,
+      "note": "所示乘法3、4正确，保留一致证据。"
+    },
+    {
+      "sample": 22,
+      "reviewed": true,
+      "note": "1.5*12=18正确，最终无官方标记而判错是另一件事。"
+    },
+    {
+      "sample": 23,
+      "reviewed": true,
+      "note": "12+4+8=24成立，候选最终是否正确不能由等式判断。"
+    },
+    {
+      "sample": 24,
+      "reviewed": true,
+      "note": "2880*4与后续减法链成立，千分位处理正确。"
+    },
+    {
+      "sample": 25,
+      "reviewed": true,
+      "note": "带remaining/guilty单位的表达式未强行取数，未知。"
+    },
+    {
+      "sample": 26,
+      "reviewed": true,
+      "note": "带S'mores和美元单位的表达式未知，不记错误。"
+    },
+    {
+      "sample": 27,
+      "reviewed": true,
+      "note": "百分号及美元单位的表达式未知，不记错误。"
+    },
+    {
+      "sample": 28,
+      "reviewed": true,
+      "note": "带liter/liters的表达式未知，不记错误。"
+    }
+  ]
+}

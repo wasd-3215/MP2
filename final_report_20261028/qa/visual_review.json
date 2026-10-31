@@ -1,0 +1,17 @@
+{
+  "reviewed_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "render_dpi": 115,
+  "review_method": "Every final page PNG opened and visually inspected",
+  "page_limit": 10,
+  "checks": {
+    "chinese_glyphs_readable": true,
+    "negative_signs_visible": true,
+    "formula_subscripts_and_transpose_visible": true,
+    "tables_not_clipped": true,
+    "figure_intervals_and_axes_readable": true,
+    "no_blank_or_overflow_page": true,
+    "footer_numbering_correct": true,
+    "test_primary_and_comparator_separated": true
+  },
+  "format": "PDF with editable Markdown source; no unverified Word artifact delivered"
+}

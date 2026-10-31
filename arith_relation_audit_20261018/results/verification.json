@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "protected_files": 11906,
+  "protected_changes": [],
+  "arithmetic_frozen_sources_inputs_and_configs_match": true,
+  "relation_frozen_sources_and_blind_review_match": true,
+  "relation_controlled_thread_replay_candidate_comparisons": 424,
+  "relation_controlled_thread_train_replay_seconds": 21.566147100005765,
+  "relation_train_questions_with_probes": {
+    "scope_unit": 215,
+    "entity_binding": 29,
+    "condition_use": 14,
+    "target_alignment": 1572
+  },
+  "relation_source_spans_and_candidate_permutation_passed": true,
+  "arithmetic_official_evaluations": 5,
+  "arithmetic_portable_official_replays": 5,
+  "test_semantic_content_predictions_or_labels_used": false,
+  "reviewer": "Codex single reviewer; not independent human adjudication",
+  "reference_cpu_certification": false
+}

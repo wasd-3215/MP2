@@ -1,0 +1,26 @@
+{
+  "name": "NV",
+  "columns": [
+    3,
+    4,
+    6
+  ],
+  "feature_names": [
+    "log_distinct_checked_pairs",
+    "log_distinct_violations",
+    "last_checked_pair_violates"
+  ],
+  "beta": [
+    -0.5152388201347162,
+    -1.808898674840315,
+    -2.0333608103287406
+  ],
+  "baseline_logit_clip": 1e-12,
+  "members": [
+    "..\\..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_17\\bundle",
+    "..\\..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_29\\bundle",
+    "..\\..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_43\\bundle",
+    "..\\..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_71\\bundle",
+    "..\\..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\S2_C\\seed_101\\bundle"
+  ]
+}

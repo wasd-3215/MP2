@@ -1,0 +1,26 @@
+1/25 Pool-P seed=17 fold=0: 3.1s fit, reused C error 0
+2/25 Pool-P seed=17 fold=1: 3.2s fit, reused C error 0
+3/25 Pool-P seed=17 fold=2: 3.1s fit, reused C error 0
+4/25 Pool-P seed=17 fold=3: 3.4s fit, reused C error 0
+5/25 Pool-P seed=17 fold=4: 3.2s fit, reused C error 0
+6/25 Pool-P seed=29 fold=0: 3.1s fit, reused C error 0
+7/25 Pool-P seed=29 fold=1: 3.2s fit, reused C error 0
+8/25 Pool-P seed=29 fold=2: 3.1s fit, reused C error 0
+9/25 Pool-P seed=29 fold=3: 3.4s fit, reused C error 0
+10/25 Pool-P seed=29 fold=4: 3.2s fit, reused C error 0
+11/25 Pool-P seed=43 fold=0: 3.1s fit, reused C error 0
+12/25 Pool-P seed=43 fold=1: 3.1s fit, reused C error 0
+13/25 Pool-P seed=43 fold=2: 3.2s fit, reused C error 0
+14/25 Pool-P seed=43 fold=3: 3.1s fit, reused C error 0
+15/25 Pool-P seed=43 fold=4: 3.3s fit, reused C error 0
+16/25 Pool-P seed=71 fold=0: 3.1s fit, reused C error 0
+17/25 Pool-P seed=71 fold=1: 3.2s fit, reused C error 0
+18/25 Pool-P seed=71 fold=2: 3.3s fit, reused C error 0
+19/25 Pool-P seed=71 fold=3: 3.2s fit, reused C error 0
+20/25 Pool-P seed=71 fold=4: 3.2s fit, reused C error 0
+21/25 Pool-P seed=101 fold=0: 3.3s fit, reused C error 0
+22/25 Pool-P seed=101 fold=1: 3.3s fit, reused C error 0
+23/25 Pool-P seed=101 fold=2: 3.2s fit, reused C error 0
+24/25 Pool-P seed=101 fold=3: 3.2s fit, reused C error 0
+25/25 Pool-P seed=101 fold=4: 3.2s fit, reused C error 0
+ALL 25 OOF FITS COMPLETE

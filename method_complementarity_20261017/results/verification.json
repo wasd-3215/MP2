@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "experiment_checks_passed": true,
+  "fresh_official_evaluations": 6,
+  "portable_official_replays": 6,
+  "full_expert_probability_replay_max_error": 0.0,
+  "candidate_permutation_probability_max_error": 2.6006954734203447e-07,
+  "numeric_answer_permutation_checks": [
+    "S2_C",
+    "Pool_P",
+    "equal_average",
+    "fixed_weight",
+    "gate8",
+    "gate4"
+  ],
+  "new_ids_reordered_and_single_question_checks": [
+    "S2_C",
+    "Pool_P",
+    "equal_average",
+    "fixed_weight",
+    "gate8",
+    "gate4"
+  ],
+  "parser_all_invalid_and_one_valid_checks": [
+    "S2_C",
+    "Pool_P",
+    "equal_average",
+    "fixed_weight",
+    "gate8",
+    "gate4"
+  ],
+  "native_int_outputs": true,
+  "gate_same_answer_never_switches": true,
+  "protected_files": 10851,
+  "protected_changes": [],
+  "test_used": false,
+  "frozen_sources_and_assets_unchanged": true,
+  "reference_cpu_certification": false,
+  "final_report_sha256": "fb287e1ab192d153e815c42d81ef109f36831a23d82ea1658b940ae0d3235fe2",
+  "posthoc_decisions_sha256": "1fb61454c9f04185f5b0fa6f950b6e988e9a43fa06462e2872e5b2307c524e91",
+  "posthoc_analysis_changed_frozen_predictors": false
+}

@@ -1,0 +1,18 @@
+{
+  "sources": {
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\relation\\audit.py": "967b1b5c67a5bf36f612c4b4a2a2db46e292e8edd09551b99ef78a0717b8923c",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\relation\\develop.py": "36947c9cea41b81c33eaebb6970258e9834f0a448e647f2b393656909a8df482",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\relation\\extractor.py": "03502c1efdff92e3d464191dc5b1db81e7fbf37712f3e2ad6c1e255cf48167e5",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\relation\\finalize.py": "bf540f833d9508c362fce2afc0f6217ea77df80ecde9361fed6ebb7a3a9eb7cc",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\relation\\prepare.py": "64db1986fdb178242e81d8e15ff927f55c36cd5e2d43fe8a3e0a8e90fff69b11",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\protocol.json": "2c442ffcc8a2e2efe78a0663910466581a434a776fb81da7a11dc823f2b490e2",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\evidence.py": "53baf1e6281d6514ca147056d6281d8502e79281dff089e8c177c8de980d7479",
+    "D:\\english\\school\\RIS\\DASE7506\\labs\\lab2\\DASE7506-MP2-main\\DASE7506-MP2-main\\code\\arith_relation_audit_20261018\\arithmetic\\decisions.py": "f24c1b39005483c7161c9c2d536917612589cf927bfb3dd4737bc474a49fa0f8"
+  },
+  "sampling_sha256": "faba86ae9f52183ab564e6731afc4c68005a09ae90dc531366f971ba30999942",
+  "development_review_sha256": "db1581320b1894818d6072b8a1a2de84c46a3f580e0ad47e2f2d5e4bfe465d33",
+  "timestamp": "2026-10-18 00:55:45",
+  "reference_answers_loaded": false,
+  "confirmation_review_started": false,
+  "scope": "Bounded numeric rate/entity comparisons, explicit stage modifiers, target-operation compatibility; no semantic verifier claimed."
+}

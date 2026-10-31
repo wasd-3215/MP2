@@ -1,0 +1,248 @@
+{
+  "families": {
+    "scope_unit": {
+      "sampled_questions": 25,
+      "questions_with_probes": 3,
+      "reviewed_assertions": 12,
+      "literal_faithful": 11,
+      "literal_fidelity": 0.9166666666666666,
+      "literal_wilson95": [
+        0.646120088858883,
+        0.9851349055950829
+      ],
+      "semantic_binding_supported": 9,
+      "semantic_support_fraction": 0.75,
+      "semantic_wilson95": [
+        0.46769466506643426,
+        0.9110583316059453
+      ],
+      "confirmed_supported_multianswer_questions": 2,
+      "supported_rows": [
+        1754,
+        3486
+      ],
+      "confirmed_discriminating_questions": 0,
+      "discriminating_rows": [],
+      "correct_wrong_contrast_questions": 0,
+      "contrast_rows": [],
+      "gates": {
+        "coverage20": false,
+        "assertions40": false,
+        "questions20": false,
+        "semantic_fidelity95": false,
+        "discriminating10": false,
+        "useful_correct_wrong_contrasts": false
+      },
+      "decision": "NO_GO_CURRENT_PROBE"
+    },
+    "entity_binding": {
+      "sampled_questions": 16,
+      "questions_with_probes": 5,
+      "reviewed_assertions": 24,
+      "literal_faithful": 24,
+      "literal_fidelity": 1.0,
+      "literal_wilson95": [
+        0.8620237953250198,
+        1
+      ],
+      "semantic_binding_supported": 24,
+      "semantic_support_fraction": 1.0,
+      "semantic_wilson95": [
+        0.8620237953250198,
+        1
+      ],
+      "confirmed_supported_multianswer_questions": 5,
+      "supported_rows": [
+        1009,
+        2910,
+        3202,
+        3810,
+        4277
+      ],
+      "confirmed_discriminating_questions": 1,
+      "discriminating_rows": [
+        3810
+      ],
+      "correct_wrong_contrast_questions": 1,
+      "contrast_rows": [
+        3810
+      ],
+      "gates": {
+        "coverage20": false,
+        "assertions40": false,
+        "questions20": false,
+        "semantic_fidelity95": true,
+        "discriminating10": false,
+        "useful_correct_wrong_contrasts": true
+      },
+      "decision": "NO_GO_CURRENT_PROBE"
+    },
+    "condition_use": {
+      "sampled_questions": 25,
+      "questions_with_probes": 0,
+      "reviewed_assertions": 0,
+      "literal_faithful": 0,
+      "literal_fidelity": null,
+      "literal_wilson95": null,
+      "semantic_binding_supported": 0,
+      "semantic_support_fraction": null,
+      "semantic_wilson95": null,
+      "confirmed_supported_multianswer_questions": 0,
+      "supported_rows": [],
+      "confirmed_discriminating_questions": 0,
+      "discriminating_rows": [],
+      "correct_wrong_contrast_questions": 0,
+      "contrast_rows": [],
+      "gates": {
+        "coverage20": false,
+        "assertions40": false,
+        "questions20": false,
+        "semantic_fidelity95": false,
+        "discriminating10": false,
+        "useful_correct_wrong_contrasts": false
+      },
+      "decision": "NO_GO_CURRENT_PROBE"
+    },
+    "target_alignment": {
+      "sampled_questions": 25,
+      "questions_with_probes": 16,
+      "reviewed_assertions": 48,
+      "literal_faithful": 43,
+      "literal_fidelity": 0.8958333333333334,
+      "literal_wilson95": [
+        0.7783257830561368,
+        0.9546782809581869
+      ],
+      "semantic_binding_supported": 23,
+      "semantic_support_fraction": 0.4791666666666667,
+      "semantic_wilson95": [
+        0.34471316176951616,
+        0.616707676966572
+      ],
+      "confirmed_supported_multianswer_questions": 11,
+      "supported_rows": [
+        145,
+        436,
+        826,
+        895,
+        940,
+        1021,
+        2347,
+        2513,
+        2702,
+        3641,
+        3705
+      ],
+      "confirmed_discriminating_questions": 2,
+      "discriminating_rows": [
+        436,
+        1021
+      ],
+      "correct_wrong_contrast_questions": 2,
+      "contrast_rows": [
+        436,
+        1021
+      ],
+      "gates": {
+        "coverage20": false,
+        "assertions40": true,
+        "questions20": false,
+        "semantic_fidelity95": false,
+        "discriminating10": false,
+        "useful_correct_wrong_contrasts": true
+      },
+      "decision": "NO_GO_CURRENT_PROBE"
+    }
+  },
+  "label_reveal_after_review": true,
+  "blind_review_sha256": "a02e0b9dc9453822db53e351ecbaa58c07cd1e4b716083ff644e697cbd6cf31c",
+  "contrasts": [
+    {
+      "row": 3810,
+      "family": "entity_binding",
+      "pairs": [
+        {
+          "candidate_a": 0,
+          "candidate_b": 1,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        },
+        {
+          "candidate_a": 0,
+          "candidate_b": 2,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        },
+        {
+          "candidate_a": 0,
+          "candidate_b": 3,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        }
+      ]
+    },
+    {
+      "row": 436,
+      "family": "target_alignment",
+      "pairs": [
+        {
+          "candidate_a": 0,
+          "candidate_b": 3,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        },
+        {
+          "candidate_a": 1,
+          "candidate_b": 3,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        },
+        {
+          "candidate_a": 2,
+          "candidate_b": 3,
+          "a_evidence_conflict": 1,
+          "b_evidence_conflict": 0,
+          "a_final_correct": false,
+          "b_final_correct": true,
+          "direction_supports_correct": true
+        }
+      ]
+    },
+    {
+      "row": 1021,
+      "family": "target_alignment",
+      "pairs": [
+        {
+          "candidate_a": 0,
+          "candidate_b": 3,
+          "a_evidence_conflict": 0,
+          "b_evidence_conflict": 1,
+          "a_final_correct": true,
+          "b_final_correct": false,
+          "direction_supports_correct": true
+        }
+      ]
+    }
+  ],
+  "test_used": false,
+  "validation_used": false,
+  "new_relation_model_fits": 0,
+  "scope": "Current bounded probes only; unknown binding is insufficient evidence, not proof the relationship is wrong.",
+  "precision_caveat": "Wilson intervals are descriptive at assertion level; assertions within questions correlated and samples stratified; not population reliability or recall.",
+  "reviewer": "Codex single reviewer; not independent human review; no model generated labels used in training."
+}

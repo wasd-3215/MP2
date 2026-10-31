@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "parameters": {
+    "CandBCE_NoSize": 280577,
+    "CandBCE_Size": 280577,
+    "CandMaxCE_NoSize": 280577,
+    "CandMaxCE_Size": 280577,
+    "GroupCE_NoSize": 280577,
+    "GroupCE_Size": 280577
+  },
+  "identical_initial_states": true,
+  "size_pairs_identical_initial_functions": true,
+  "max_group_CE_has_no_log_size_bonus": true,
+  "setmass_identity_control": true,
+  "official_group_targets_and_invalid_mask": true,
+  "invalid_BCE_supervision_excluded": true,
+  "permutation_max_error": 1.043081283569336e-07,
+  "script_sha256": "d7971090459f5a815d43e53de36e931d1d95ed9969c7602a790b84210a35384f"
+}

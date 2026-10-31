@@ -1,0 +1,12 @@
+{
+  "prediction_wall_seconds": 4.390187300014077,
+  "scoring_wall_seconds": 0.5274070000159554,
+  "complete_wall_seconds": 4.917594300030032,
+  "runner_prediction_seconds": 3.6240429999888875,
+  "protocol": "dase7506-mp2-open-hard-verifier-v5",
+  "split": "validation",
+  "correct": 737,
+  "n": 798,
+  "accuracy": 92.35588972431077,
+  "scoring_seconds": 0.07655840000370517
+}

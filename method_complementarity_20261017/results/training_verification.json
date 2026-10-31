@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "new_fits": 25,
+  "reused_C_folds_checked": 25,
+  "reused_C_max_logit_error": 0.0,
+  "fit_seconds": 79.95376420003595,
+  "total_run_seconds": 89.34255309996661,
+  "validation_loaded": false,
+  "test_used": false,
+  "same_folds_and_seeds_as_reused_C": true
+}

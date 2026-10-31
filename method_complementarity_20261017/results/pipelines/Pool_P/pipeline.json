@@ -1,0 +1,13 @@
+{
+  "mode": "Pool_P",
+  "members": {
+    "Pool_P": [
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_17\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_29\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_43\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_71\\bundle",
+      "..\\..\\..\\..\\interaction_consensus_20261017\\results\\runs\\Pool_P\\seed_101\\bundle"
+    ],
+    "S2_C": []
+  }
+}
